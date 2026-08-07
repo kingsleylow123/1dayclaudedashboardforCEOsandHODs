@@ -53,6 +53,46 @@ HARD GATE: wait for their pick.
 
 ---
 
+**📐 DRAW WHAT WE'RE ABOUT TO BUILD:**
+
+```
+   YOUR CONNECTED TOOLS
+   Gmail    Calendar    Drive    [their tools]
+     └─────────┴──────────┴──────────┘
+                    │  read only, never sent anywhere
+                    ▼
+          ┌───────────────────┐
+          │   3 AGENTS        │  ← the thing you
+          ├───────────────────┤     learned last lesson
+          │  1 · DATA         │
+          │  2 · VISUALS      │  all at once
+          │  3 · INTERACTIVE  │
+          └─────────┬─────────┘
+                    ▼
+   ┌──────────────────────────────────────┐
+   │  YOUR DASHBOARD          🔄 refresh  │
+   │  ┌──────┬──────┬──────┬──────┐       │
+   │  │  40  │ 201  │  10  │  ⚠️  │  KPIs │
+   │  └──────┴──────┴──────┴──────┘       │
+   │   ▁▃▅▇▅▃▁   ╱╱╱ forecast             │
+   │   ═══════○═══  drag to model         │
+   │   ┌────────────────────────┐         │
+   │   │ detail table           │         │
+   │   └────────────────────────┘         │
+   └──────────────────────────────────────┘
+              on YOUR Desktop
+```
+
+Then say:
+
+**Top is your real data. Middle is the agents. Bottom is what you'll be looking at in 15 minutes.**
+
+**Reply YES to continue.**
+
+HARD GATE: wait.
+
+---
+
 **PULL THEIR LIVE DATA — this is what makes it real:**
 
 Now, before building, get real numbers into it.

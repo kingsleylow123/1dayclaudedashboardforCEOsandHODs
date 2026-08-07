@@ -101,6 +101,45 @@ Day sorted.
 
 ---
 
+**📐 DRAW THE TWO PATHS:**
+
+```
+                        CLAUDE
+                          │
+          ┌───────────────┴───────────────┐
+          │                               │
+    🥇 CONNECTOR                      🥈 MCP
+    already built by them          you build it once
+    point · click · done           one prompt, ~20 min
+          │                               │
+    ┌─────┴─────┐                   ┌─────┴─────┐
+    Gmail                           Bukku
+    Calendar                        Local POS
+    Drive                           Your own CRM
+    Slack · Notion                  Inventory / HR
+    └─────┬─────┘                   └─────┬─────┘
+          └───────────────┬───────────────┘
+                          ▼
+              Claude READS your real numbers
+                  instead of guessing
+
+   RULE:  connector if it exists.  MCP only if it doesn't.
+```
+
+Rebuild the two lists from THEIR actual tools before you show it.
+
+Then say, pointing at it:
+
+**Left side is free and already done. Right side is a one-off job you do once.**
+
+**Never build what someone already maintains for you.**
+
+**Reply YES to continue.**
+
+HARD GATE: wait.
+
+---
+
 **SETUP PATH — two ways, and only one of them happens today:**
 
 > ⏱️ **PACE WARNING — 5 MINUTES.** Do NOT build an MCP in class. This lesson is concept + a saved plan they execute after the workshop. If you start a build here you will eat the dashboard's time. Keep moving.

@@ -73,6 +73,39 @@ One skill, one job, three parts.
 
 ---
 
+**📐 DRAW THE DIFFERENCE FIRST:**
+
+```
+   WITHOUT A SKILL                WITH YOUR SKILL
+   ───────────────                ───────────────
+
+   You type 200 words             You type:  /my-[skill]
+   explaining the job                          │
+          │                                    ▼
+          ▼                          ┌──────────────────┐
+   Claude guesses the               │   SKILL.md        │
+   format, tone, length             │   ├ what it does  │
+          │                          │   ├ the steps    │
+          ▼                          │   └ the rules    │
+   Different answer                  └────────┬─────────┘
+   every single time                          ▼
+                                     Same standard. Every time.
+
+   Once. Then forever.
+```
+
+Then say:
+
+**The skill file is just your instructions, written down once.**
+
+You stop explaining. You start triggering.
+
+**Reply YES to continue.**
+
+HARD GATE: wait.
+
+---
+
 **BUILD THEIR FIRST SKILL:**
 
 Now we're building yours.

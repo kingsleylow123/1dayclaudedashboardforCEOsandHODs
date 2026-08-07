@@ -49,17 +49,38 @@ You built something completely different.
 
 Here's what most people miss.
 
-These aren't 6 separate things.
+Point at the diagram as you say this — these aren't 6 separate things.
 
 **They're one system.**
 
 ```
-CLAUDE.md ──────────────► The Brain
-Skills ─────────────────► The Commands
-MCP ────────────────────► The Arms
-Agents ─────────────────► The Team
-The Build ──────────────► The Proof
-Daily Brief ────────────► The Heartbeat
+                        YOU
+                         │
+                         ▼
+              ┌────────────────────┐
+              │     CLAUDE.md      │   THE BRAIN
+              │   knows your role, │   L1
+              │   team, priorities │
+              └─────────┬──────────┘
+                        │ every session starts here
+        ┌───────────────┼───────────────┐
+        ▼               ▼               ▼
+   ┌─────────┐    ┌──────────┐    ┌──────────┐
+   │ SKILLS  │    │CONNECTORS│    │  AGENTS  │
+   │   L2    │    │    L3    │    │    L4    │
+   │commands │    │ the arms │    │ the team │
+   └────┬────┘    └────┬─────┘    └────┬─────┘
+        └───────────────┼───────────────┘
+                        ▼
+        ┌───────────────────────────────┐
+        │   8AM BRIEF   →   DASHBOARD   │
+        │      L5              L6       │
+        │  the heartbeat    the proof   │
+        └───────────────────────────────┘
+                        │
+                        ▼
+              runs tomorrow, and
+              every day after
 ```
 
 CLAUDE.md is the brain.

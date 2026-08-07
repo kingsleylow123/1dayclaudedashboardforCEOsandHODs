@@ -33,6 +33,46 @@ They start it reading something that's already waiting for them.
 
 ---
 
+**📐 DRAW WHAT 8AM LOOKS LIKE:**
+
+```
+   8:00 AM  ───  routine fires (you're still asleep)
+                        │
+                        ▼
+              reads your AI Brain
+                        │
+         ┌──────────────┼──────────────┐
+         ▼              ▼              ▼
+     Calendar        Inbox        Your tools
+         └──────────────┼──────────────┘
+                        ▼
+        ┌───────────────────────────────┐
+        │  ⚠️  1 thing needs you today  │
+        │  •  4 meetings, 2 back-to-back│
+        │  •  3 replies waiting on you  │
+        │  •  [their key number]        │
+        │                               │
+        │  Your one thing today: ____   │
+        └───────────────────────────────┘
+                        ▼
+          Waiting for you before
+          you even sit down ☕
+```
+
+Rebuild the middle boxes from THEIR tools and THEIR numbers.
+
+Then say:
+
+**You don't start the day deciding what to look at.**
+
+**You start it reading.**
+
+**Reply YES to continue.**
+
+HARD GATE: wait.
+
+---
+
 **PICK THEIR ROUTINE:**
 
 Look at everything they told you in Lesson 1 — their role, their team, their tools, their priorities — and propose **3 morning routines that would genuinely matter to them.**

@@ -161,6 +161,39 @@ It remembers forever.
 
 ---
 
+**📐 SHOW THEM WHY THIS MATTERS — draw it:**
+
+```
+   ANSWER ONCE                    EVERY SESSION AFTER
+   ───────────                    ───────────────────
+
+   Your name       ┐
+   Your role       │                 Mon ──┐
+   Who you answer  ├──►  CLAUDE.md ◄─ Tue ──┤
+   Your tools      │      (on disk)   Wed ──┘
+   What you want   ┘                    ▲
+                                        │
+                              read automatically,
+                              before you type a word
+
+   ✗ Without it:  re-explain yourself every single time
+   ✓ With it:     it already knows — forever
+```
+
+Then say, pointing at it:
+
+**Left side you did once, just now.**
+
+Right side is every session from here — Monday, next month, next year.
+
+**That's the whole point. You never introduce yourself to Claude again.**
+
+**Reply YES to continue.**
+
+HARD GATE: wait.
+
+---
+
 **GIFT UNLOCK:**
 
 🎁 GIFT UNLOCKED: 10 Prompts That Get Things Done
