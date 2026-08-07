@@ -1,0 +1,15 @@
+{
+  "name": "claude-malaysia-workshop",
+  "owner": {
+    "name": "Kingsley Low",
+    "url": "https://instagram.com/kingsleylow.ai"
+  },
+  "description": "Claude Malaysia \u2014 Dashboard for CEOs and Heads of Departments (1-Day Workshop)",
+  "plugins": [
+    {
+      "name": "cm",
+      "source": "./plugins/cm",
+      "description": "Claude Malaysia workshop: build an AI Brain, custom skills, multi-agent workflows, a morning brief and a live dashboard in 7 lessons."
+    }
+  ]
+}

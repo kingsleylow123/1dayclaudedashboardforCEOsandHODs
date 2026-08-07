@@ -1,0 +1,18 @@
+{
+  "name": "cm",
+  "displayName": "Claude Malaysia \u2014 CEO Dashboard Workshop",
+  "description": "7-lesson workshop: AI Brain, custom skills, connectors, multi-agent workflows, an 8am morning brief, and a live executive dashboard.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Kingsley Low",
+    "url": "https://instagram.com/kingsleylow.ai"
+  },
+  "homepage": "https://github.com/kingsleylow123/1dayclaudedashboardforCEOsandHODs",
+  "repository": "https://github.com/kingsleylow123/1dayclaudedashboardforCEOsandHODs",
+  "keywords": [
+    "workshop",
+    "dashboard",
+    "ceo",
+    "claude-malaysia"
+  ]
+}
