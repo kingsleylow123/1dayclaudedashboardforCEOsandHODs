@@ -1,5 +1,5 @@
 ---
-description: "Run Lesson 6 of the Claude Malaysia CEO Dashboard workshop: Build Your Dashboard."
+description: "Lesson 6 — Build Your Dashboard"
 disable-model-invocation: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-description: "Run Lesson 2 of the Claude Malaysia CEO Dashboard workshop: Build Your First Skill."
+description: "Lesson 2 — Build Your First Skill"
 disable-model-invocation: true
 ---
 

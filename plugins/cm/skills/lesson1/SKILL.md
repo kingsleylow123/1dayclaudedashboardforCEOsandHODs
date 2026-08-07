@@ -1,5 +1,5 @@
 ---
-description: "Run Lesson 1 of the Claude Malaysia CEO Dashboard workshop: Your AI Brain."
+description: "Lesson 1 — Your AI Brain"
 disable-model-invocation: true
 ---
 

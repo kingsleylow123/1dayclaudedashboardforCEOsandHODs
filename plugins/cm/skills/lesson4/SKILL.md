@@ -1,5 +1,5 @@
 ---
-description: "Run Lesson 4 of the Claude Malaysia CEO Dashboard workshop: Parallel AI Agents."
+description: "Lesson 4 — Parallel AI Agents"
 disable-model-invocation: true
 ---
 

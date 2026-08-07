@@ -1,5 +1,5 @@
 ---
-description: "Run Lesson 5 of the Claude Malaysia CEO Dashboard workshop: Your 8AM Morning Brief."
+description: "Lesson 5 — Your 8AM Morning Brief"
 disable-model-invocation: true
 ---
 

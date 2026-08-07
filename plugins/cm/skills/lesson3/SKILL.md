@@ -1,5 +1,5 @@
 ---
-description: "Run Lesson 3 of the Claude Malaysia CEO Dashboard workshop: Connect Your Tools."
+description: "Lesson 3 — Connect Your Tools"
 disable-model-invocation: true
 ---
 

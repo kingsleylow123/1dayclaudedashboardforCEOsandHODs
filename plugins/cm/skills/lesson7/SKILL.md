@@ -1,5 +1,5 @@
 ---
-description: "Run Lesson 7 of the Claude Malaysia CEO Dashboard workshop: The Finale."
+description: "Lesson 7 — The Finale"
 disable-model-invocation: true
 ---
 

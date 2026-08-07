@@ -106,43 +106,92 @@ HARD GATE: wait for yes or no. On yes, open it in TextEdit (Mac) / Notepad (Wind
 
 ---
 
-**NOW MAKE IT AUTOMATIC — THEIR TURN:**
+**NOW MAKE IT RUN ON ITS OWN — ROUTINES:**
 
 Then say:
 
-**Last step — and this one you type yourself.**
+**Last step — let's make this show up without you asking.**
 
-Right now this brief runs when you ask for it.
+Claude Code has a **Routines** panel. You paste a prompt in, pick a time, and it runs on schedule.
 
-Let's make it show up on its own, every morning at 8am.
+**Look at the left sidebar of Claude Code — you'll see "Routines".**
 
-**Type this, exactly:**
+Click it.
 
-> **"Schedule my daily-brief to run at 8am every morning."**
+**Reply YES to continue** once you've found it.
 
-Go ahead — type it now.
+HARD GATE: wait. If they can't find Routines (older version, different layout), don't debug it live — say **"No stress, your version might not have it yet — I'll give you a phone-reminder version instead that works exactly as well"** and jump to the fallback below.
 
-HARD GATE: wait for them to type it.
+---
 
-When they do, use ONLY Claude Code's own built-in scheduling feature (a scheduled task / routine) if their version has one. Walk them through it in plain English, one step at a time.
+**GIVE THEM THE EXACT TEXT TO PASTE:**
 
-> **NEVER do any of these, even if it seems helpful:** write a crontab entry, create a launchd plist or systemd timer, add a login/startup item, or edit any system or shell config file. If Claude Code has no built-in scheduler, the phone-reminder fallback below is the answer — it is a perfectly good outcome, not a failure.
+Now write them a complete, ready-to-paste routine prompt — built from their role, their tools and the routine they just picked. Not a template. Their actual one.
 
-If their setup can't schedule things automatically, tell them straight and give them the fallback:
+Print it in a fenced code block so it's one clean copy, and keep it tight — 6-10 lines, not an essay:
 
-**No scheduler on your setup? No problem lah.**
+```
+Read my AI Brain at ~/Desktop/my-ai/CLAUDE.md, then give me my morning brief.
 
-Put a recurring 8am reminder in your phone that says: **"Open Claude → run my daily brief."**
+[Their chosen routine, written as clear instructions — e.g.
+"Check my calendar for today and tomorrow. Check my inbox for anything
+from a client that hasn't been replied to. Check [their tool] for
+[their key number]."]
+
+Rules:
+- Lead with the single most important thing
+- Maximum 5 bullets, shortest first
+- Flag anything needing my decision with ⚠️
+- End with: "Your one thing today: ___"
+```
+
+Then walk them through it, one step at a time, waiting between each:
+
+**1. Copy that whole block.** (Reply YES when you've got it.)
+
+HARD GATE: wait.
+
+**2. In Routines, create a new routine and paste it in.** (Reply YES when it's in.)
+
+HARD GATE: wait.
+
+**3. Set it to run daily at 8:00am, and save.**
+
+HARD GATE: wait for confirmation.
+
+Then confirm what actually happened — and be honest about which path they ended on:
+
+**Done — that runs tomorrow at 8am without you touching anything.** ☕
+
+---
+
+> 🚫 **NEVER** write a crontab entry, launchd plist, systemd timer, login item, or edit any system/shell config to schedule this. Routines or the phone reminder — those are the only two options.
+
+> 🚫 **NEVER** write a crontab entry, launchd plist, systemd timer, login item, or edit any system or shell config file to schedule this. The Routines panel or the phone reminder are the ONLY two acceptable paths. If Routines isn't available, the phone reminder is a perfectly good outcome — not a failure.
+
+**FALLBACK — if Routines isn't available on their setup:**
+
+**No scheduler on your version? No problem lah.**
+
+Your brief is saved as a skill, so it's one command away.
+
+Set a recurring 8am reminder on your phone: **"Open Claude → run my morning brief."**
 
 Ten seconds to set up. Same result — you just tap it yourself.
+
+---
 
 Then say:
 
 **Notice what just happened.**
 
-*You* asked for that — not the workshop.
+*You* set that up — not me. You described what you wanted and put it somewhere it runs on its own.
 
-That's the pattern for everything from here: you describe what you want in plain English, and it gets built.
+That's the whole pattern from here.
+
+**Reply YES to continue.**
+
+HARD GATE: wait.
 
 ---
 

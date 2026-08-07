@@ -1,5 +1,5 @@
 ---
-description: "Start the Claude Malaysia CEO Dashboard workshop from the beginning. Runs the welcome then Lesson 1."
+description: "Start the workshop — welcome + Lesson 1"
 disable-model-invocation: true
 ---
 
