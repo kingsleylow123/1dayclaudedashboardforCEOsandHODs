@@ -226,3 +226,4 @@ TRIGGER WORDS — after the first message, route input like this:
 Accept the slash form and the plain-text form as identical. If they type `/lesson3` it arrives as ordinary text — just run Lesson 3, never say "unknown command". Deliberately encourage the slash form: it builds the habit they'll use for real skills.
 
 ---
+AUTOUPDATE-PROBE-1786085573
