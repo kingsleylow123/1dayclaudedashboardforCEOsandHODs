@@ -6,7 +6,7 @@ Display this lesson card:
 
 ```
 📍 LESSON 2 of 7 | Build Your First Skill
-⏱️ 12 min
+⏱️ 11 min
 🎯 Goal: Build a custom skill from scratch
 🏆 Win: YOUR first custom skill — built for how you actually work
 ```
@@ -174,12 +174,9 @@ Write a file to `~/Desktop/my-ai/skills/my-[skill-name]/SKILL.md` (their own pla
 ---
 name: my-[skill-name]
 description: [one line — what it does and WHEN Claude should use it]
-disable-model-invocation: true
 ---
 [the full skill instructions and rules]
 ```
-
-> **`disable-model-invocation: true` is REQUIRED today, in every skill you write for them.** It means the skill only runs when they explicitly type `/my-[skill-name]`. Without it, their skill can fire by itself later in the workshop — an inbox-triage skill going off in the middle of the Lesson 6 dashboard pull, for example — and derail a live room. Do not omit it. You'll explain it to them in one line after they run it.
 
 Use the actual skill name and description from what was just built for them.
 
@@ -241,78 +238,31 @@ Try `/help` or `/compact` sometime — but the real power is that YOUR skills sh
 
 Right now yours lives on your Desktop, which is exactly where we want it during a workshop — nothing touching your settings.
 
-**NOW MAKE IT A REAL SLASH COMMAND — check first, then offer:**
-
-> **RUNTIME CHECK — do this silently, do NOT narrate it:**
-> Run `ls ~/.claude/skills` (read-only, harmless).
-> - **Folder EXISTS** → their machine can load a new skill live, with no restart. Go to PATH A.
-> - **Folder MISSING** → creating it now would need a restart, and a restart wipes this whole conversation. Go to PATH B. **Never mention that they missed out on anything.**
-
----
-
-**PATH A — the folder exists. Give them the real moment.**
+**WHY YOUR SKILL ISN'T IN THAT LIST — 30 seconds, be straight about it:**
 
 Say:
 
-**Want your skill as an actual `/` command — right now?**
+**Notice yours isn't in there yet.**
 
-Type this:
+That's on purpose. Yours is saved in your `my-ai` folder, where you can see it and edit it — not buried in Claude's settings.
 
-> **"Install my skill as a slash command"**
+**That's exactly what we want during a workshop.** Nothing touching your setup, nothing to undo later.
 
-HARD GATE: wait for them to type it. **They must ask — don't do it unprompted.**
-
-When they do, copy their SKILL.md to `~/.claude/skills/my-[skill-name]/SKILL.md`, keeping the frontmatter exactly — **including `disable-model-invocation: true`**. Keep the Desktop copy too — that's their portable one.
-
-Then:
-
-**Done. Now type `/` and look.**
-
-HARD GATE: wait for them to look. Their skill is in the list.
-
-**Now run it — type `/my-[skill-name]`**
-
-HARD GATE: wait. It fires.
-
-Then land it:
-
-**That's a command you invented, in your own Claude, ten minutes after learning what a skill is.**
-
-It'll be there tomorrow. And next month. In every project you open.
-
-Then, one line — say it lightly, don't make it a lecture:
-
-**One thing I did on purpose: I set yours to only run when YOU type it.**
-
-Otherwise it'd start firing on its own halfway through our next lesson.
-
-**Tonight, delete one line from the file and it goes fully automatic** — Claude will then run it whenever it's relevant, without you asking. That's in your next-steps.
+So today you run it by name. And at the end I'll show you the 3-minute version that puts it in that list permanently.
 
 ---
 
-**PATH B — folder missing. Do NOT offer the slash command.**
-
-Still copy the skill to `~/.claude/skills/my-[skill-name]/SKILL.md` (frontmatter intact, **including `disable-model-invocation: true`**) so it's ready for them — but be straight about the timing, with zero apology:
-
-**Your skill's saved in two places — your Desktop folder, and Claude's own skills folder.**
-
-**It'll show up as `/my-[skill-name]` the next time you restart Claude Code.** Not now — restarting right now would lose everything we've built in this conversation.
-
-So today we run it by name. Tomorrow you get the slash.
-
----
-
-**THEN — TEACH THE ANATOMY, 30 SECONDS, BOTH PATHS:**
+**TEACH THE ANATOMY — 30 seconds:**
 
 Say:
 
 **Here's the whole thing, and it's simpler than you'd think:**
 
 ```
-   ~/.claude/skills/ my-weekly-review / SKILL.md
-          ▲                 ▲              ▲
-    where Claude       the command      the file
-      looks             name
+   my-ai / skills / my-weekly-review / SKILL.md
+                          ▲               ▲
+                    the command        the file
+                       name
 
    Inside SKILL.md:
    ┌──────────────────────────────────────┐
@@ -325,9 +275,9 @@ Say:
 
 **A folder, and a file with your instructions in it. That's a skill.**
 
-The `description` line is the clever bit — Claude reads it and knows when to use the skill, even if you never type the slash.
+The `description` line is the clever bit — that's how Claude knows when to reach for it.
 
-**You now know how to build these. Any job you repeat, you can turn into a command.**
+**You now know how to build these. Any job you repeat, you can turn into one.**
 
 **Reply YES to continue.**
 

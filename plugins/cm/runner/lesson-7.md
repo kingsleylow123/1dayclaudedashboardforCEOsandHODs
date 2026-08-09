@@ -148,14 +148,12 @@ Build it from what ACTUALLY happened in their session — not a generic list. In
 ## Tonight (10 minutes)
 1. Make your AI Brain global — open Claude Code and type:
    "Add my AI Brain to my global Claude memory"
-2. Make your skill fire automatically (30 seconds):
-   Open ~/.claude/skills/[their-skill]/SKILL.md and delete the line
-   "disable-model-invocation: true". Save.
-   Claude will then run it whenever it's relevant — you won't even
-   have to type the slash.
-3. [ONLY if they were PATH B in Lesson 2 — delete this line if their
-   slash command already worked in class]
-   Restart Claude Code once so /[their-skill] appears.
+2. Turn your skill into a real /slash command (3 minutes):
+   Open a NEW Claude Code window and paste:
+   "Create a skill called [their-skill-name] that does the following,
+    and install it so I can run it with a slash command: [paste the
+    contents of their SKILL.md]"
+   Restart Claude Code. Now type / and it's there, in every project.
 4. [If they had a phone-reminder fallback] Set your 8am reminder.
 
 ## This week
@@ -288,6 +286,49 @@ You're not someone who's heard about AI anymore.
 You're someone who's shipped with it.
 
 Run your morning brief tomorrow and see how it feels. 🔥
+
+---
+
+**OPTIONAL BONUS — 3 MINUTES, ONLY IF THEY WANT IT:**
+
+> Run this AFTER the completion banner below, never before. The workshop is finished and their dashboard is done — nothing here can break anything. Anyone who wants to leave, leaves.
+
+Say:
+
+**One optional extra — 3 minutes, and it's the thing people ask me about most.**
+
+Remember your skill isn't in the `/` menu yet?
+
+**Let's fix that — in a brand new window, so nothing we built today is at risk.**
+
+**1.** Open a **NEW** Claude Code window. (File → New, or just open the app again.)
+
+Leave this one exactly where it is. Nothing here gets touched.
+
+**2.** In the new window, paste this:
+
+Generate their paste-block with the FULL contents of their SKILL.md already inside it, so it is genuinely one copy-paste:
+
+```
+Create a skill called [their-skill-name] and install it so I can run it
+with a slash command. Here's what it should do:
+
+[paste the entire contents of their SKILL.md here — description and all]
+```
+
+**3.** Let it finish, then **quit and reopen Claude Code.**
+
+**4.** Type `/` — your command is in the list. Run it.
+
+That's it. It's now in every project, on this machine, permanently.
+
+---
+
+Then say:
+
+**Why we did it in a separate window:** installing a skill needs a restart, and restarting in here would have thrown away everything we built today.
+
+**Now you know how to do that for any job you repeat.** Build it, install it, type slash.
 
 ---
 
