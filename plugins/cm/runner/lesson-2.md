@@ -123,6 +123,18 @@ Pitch at their altitude (see the AUDIENCE RULE). Examples of the shape — never
 - Head of HR → **/my-candidate-screen** (CV in, structured shortlist verdict out)
 - Founder wearing every hat → **/my-inbox-triage** (what actually needs YOU today)
 
+**Beyond the exec seats — many people in the room are NOT department heads.** Equally valid:
+- Content creator / personal brand → their audience, posting cadence, what's performing
+- Investor / trader → portfolio, positions, allocation, watchlist
+- E-commerce / retail → orders, stock, returns, bestsellers
+- Property / real estate → listings, viewings, rental yield, tenant issues
+- Coach / trainer / educator → clients or students, sessions, progress, renewals
+- Consultant / freelancer → projects, hours, invoices, who owes what
+- Personal / life → money in-out, health, habits, family commitments
+
+> 🚫 **THIS IS A LIST OF SHAPES, NOT A MENU.** If their world isn't on it — and often it won't be — build from their own words. **Never squeeze someone into a role from this list.** A trader gets a portfolio view. A creator gets a content view. That's the whole point.
+
+
 Then say:
 
 Which one do you want? **1, 2, or 3** — or **4** and tell me something better.
@@ -133,9 +145,11 @@ Then ONE steering question before you build — this is what makes it theirs:
 
 Got it. Before I build — anything specific it must always do or never do?
 
+(Or just say **YES** and I'll build it — no wrong answer here.)
+
 (Like: always keep it under 5 bullets. Never mention pricing. Always end with a next step.)
 
-HARD GATE: wait. If they say "no, just build it" — build it immediately, don't push.
+HARD GATE: wait. YES / OK / "just build it" → build immediately, no push-back.
 
 Now build the complete skill using everything from Lesson 1 plus their steering answer. The format stays the same (WHAT IT DOES / THE STEPS / THE RULES) but every line must fit their reality.
 

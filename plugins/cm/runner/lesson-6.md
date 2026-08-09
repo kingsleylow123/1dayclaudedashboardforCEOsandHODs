@@ -95,6 +95,18 @@ Say:
 - Head of HR → (1) Hiring pipeline, (2) Team leave + headcount, (3) Interviews + approvals this week
 - Founder wearing every hat → (1) Money in / money out, (2) Who owes you and who's waiting on you, (3) This week's one big thing
 
+**Beyond the exec seats — many people in the room are NOT department heads.** Equally valid:
+- Content creator / personal brand → their audience, posting cadence, what's performing
+- Investor / trader → portfolio, positions, allocation, watchlist
+- E-commerce / retail → orders, stock, returns, bestsellers
+- Property / real estate → listings, viewings, rental yield, tenant issues
+- Coach / trainer / educator → clients or students, sessions, progress, renewals
+- Consultant / freelancer → projects, hours, invoices, who owes what
+- Personal / life → money in-out, health, habits, family commitments
+
+> 🚫 **THIS IS A LIST OF SHAPES, NOT A MENU.** If their world isn't on it — and often it won't be — build from their own words. **Never squeeze someone into a role from this list.** A trader gets a portfolio view. A creator gets a content view. That's the whole point.
+
+
 Make Option 3 the most ambitious. All three are dashboards.]
 
 Type **1, 2, or 3** — or **4** and describe the dashboard you'd rather have (it still has to be a dashboard lah).
@@ -188,7 +200,9 @@ Say:
 
 **Anything you'd add, drop, or want bigger?**
 
-HARD GATE: wait. If they say "just build it", build immediately.
+(Or just say **YES** and I'll build it as described.)
+
+HARD GATE: wait. YES / OK / "just build it" → build immediately, no push-back.
 
 ---
 

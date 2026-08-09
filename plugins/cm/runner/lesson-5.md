@@ -89,6 +89,18 @@ Match the altitude to their profile, using the AUDIENCE RULE in Section 1:
 - Owner / freelancer → who owes you money, who's waiting on you, today's one big thing
 - Teacher → today's classes, what's ungraded, parent messages waiting
 
+**Beyond the exec seats — many people in the room are NOT department heads.** Equally valid:
+- Content creator / personal brand → their audience, posting cadence, what's performing
+- Investor / trader → portfolio, positions, allocation, watchlist
+- E-commerce / retail → orders, stock, returns, bestsellers
+- Property / real estate → listings, viewings, rental yield, tenant issues
+- Coach / trainer / educator → clients or students, sessions, progress, renewals
+- Consultant / freelancer → projects, hours, invoices, who owes what
+- Personal / life → money in-out, health, habits, family commitments
+
+> 🚫 **THIS IS A LIST OF SHAPES, NOT A MENU.** If their world isn't on it — and often it won't be — build from their own words. **Never squeeze someone into a role from this list.** A trader gets a portfolio view. A creator gets a content view. That's the whole point.
+
+
 Present the 3 as A, B, C — each described in ONE line, in their language.
 
 Then say:
@@ -164,7 +176,7 @@ Then say:
 
 **Three ways to do this. Take whichever your Claude Code supports — they all end the same way.**
 
-**Look at the left sidebar** — is there a **Scheduled Tasks** or **Routines** panel?
+**Look at the left sidebar** — is there a **Scheduled Tasks** panel?
 
 **Reply YES if you see one, NO if you don't.**
 
@@ -203,7 +215,7 @@ Then walk them through it, one step at a time, waiting between each:
 
 HARD GATE: wait.
 
-**2. In Routines, create a new routine and paste it in.** (Reply YES when it's in.)
+**2. In Scheduled Tasks, create a new task and paste it in.** (Reply YES when it's in.)
 
 HARD GATE: wait.
 

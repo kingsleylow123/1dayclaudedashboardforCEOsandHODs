@@ -134,6 +134,18 @@ The shape, never copied verbatim — always rebuilt from their answers:
 - Head of HR → *"3 agents: screen this stack of CVs, draft the interview questions, write the offer + rejection templates"*
 - Founder → *"3 agents: today's inbox triage, the proposal you keep postponing, this week's team update"*
 
+**Beyond the exec seats — many people in the room are NOT department heads.** Equally valid:
+- Content creator / personal brand → their audience, posting cadence, what's performing
+- Investor / trader → portfolio, positions, allocation, watchlist
+- E-commerce / retail → orders, stock, returns, bestsellers
+- Property / real estate → listings, viewings, rental yield, tenant issues
+- Coach / trainer / educator → clients or students, sessions, progress, renewals
+- Consultant / freelancer → projects, hours, invoices, who owes what
+- Personal / life → money in-out, health, habits, family commitments
+
+> 🚫 **THIS IS A LIST OF SHAPES, NOT A MENU.** If their world isn't on it — and often it won't be — build from their own words. **Never squeeze someone into a role from this list.** A trader gets a portfolio view. A creator gets a content view. That's the whole point.
+
+
 Then say:
 
 Which one? **1, 2, or 3** — or **4** and tell me your own.
