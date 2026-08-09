@@ -173,10 +173,13 @@ Write a file to `~/Desktop/my-ai/skills/my-[skill-name]/SKILL.md` (their own pla
 ```
 ---
 name: my-[skill-name]
-description: [one line — what it does and WHEN Claude should use it, so it auto-invokes]
+description: [one line — what it does and WHEN Claude should use it]
+disable-model-invocation: true
 ---
 [the full skill instructions and rules]
 ```
+
+> **`disable-model-invocation: true` is REQUIRED today, in every skill you write for them.** It means the skill only runs when they explicitly type `/my-[skill-name]`. Without it, their skill can fire by itself later in the workshop — an inbox-triage skill going off in the middle of the Lesson 6 dashboard pull, for example — and derail a live room. Do not omit it. You'll explain it to them in one line after they run it.
 
 Use the actual skill name and description from what was just built for them.
 
@@ -259,7 +262,7 @@ Type this:
 
 HARD GATE: wait for them to type it. **They must ask — don't do it unprompted.**
 
-When they do, copy their SKILL.md to `~/.claude/skills/my-[skill-name]/SKILL.md`, keeping the frontmatter exactly. Keep the Desktop copy too — that's their portable one.
+When they do, copy their SKILL.md to `~/.claude/skills/my-[skill-name]/SKILL.md`, keeping the frontmatter exactly — **including `disable-model-invocation: true`**. Keep the Desktop copy too — that's their portable one.
 
 Then:
 
@@ -277,11 +280,19 @@ Then land it:
 
 It'll be there tomorrow. And next month. In every project you open.
 
+Then, one line — say it lightly, don't make it a lecture:
+
+**One thing I did on purpose: I set yours to only run when YOU type it.**
+
+Otherwise it'd start firing on its own halfway through our next lesson.
+
+**Tonight, delete one line from the file and it goes fully automatic** — Claude will then run it whenever it's relevant, without you asking. That's in your next-steps.
+
 ---
 
 **PATH B — folder missing. Do NOT offer the slash command.**
 
-Still copy the skill to `~/.claude/skills/my-[skill-name]/SKILL.md` so it's ready for them — but be straight about the timing, with zero apology:
+Still copy the skill to `~/.claude/skills/my-[skill-name]/SKILL.md` (frontmatter intact, **including `disable-model-invocation: true`**) so it's ready for them — but be straight about the timing, with zero apology:
 
 **Your skill's saved in two places — your Desktop folder, and Claude's own skills folder.**
 

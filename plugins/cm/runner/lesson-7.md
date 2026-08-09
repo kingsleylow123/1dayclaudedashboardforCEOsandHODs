@@ -148,17 +148,22 @@ Build it from what ACTUALLY happened in their session — not a generic list. In
 ## Tonight (10 minutes)
 1. Make your AI Brain global — open Claude Code and type:
    "Add my AI Brain to my global Claude memory"
-2. [ONLY if they were on PATH B in Lesson 2 — omit this line entirely if
-   their slash command already worked in class]
-   Restart Claude Code once — your skill then appears as /[their-skill].
-3. [If they had a phone-reminder fallback] Set your 8am reminder.
+2. Make your skill fire automatically (30 seconds):
+   Open ~/.claude/skills/[their-skill]/SKILL.md and delete the line
+   "disable-model-invocation: true". Save.
+   Claude will then run it whenever it's relevant — you won't even
+   have to type the slash.
+3. [ONLY if they were PATH B in Lesson 2 — delete this line if their
+   slash command already worked in class]
+   Restart Claude Code once so /[their-skill] appears.
+4. [If they had a phone-reminder fallback] Set your 8am reminder.
 
 ## This week
-4. Connect the tools we couldn't reach today:
+5. Connect the tools we couldn't reach today:
    [their specific tools, from mcp-plan.md]
    For [tool with no connector], paste the prompt in mcp-plan.md
-5. Run your morning brief 3 days in a row. That's what makes it a habit.
-6. Rebuild your dashboard once — say "rebuild my dashboard" — so you've
+6. Run your morning brief 3 days in a row. That's what makes it a habit.
+7. Rebuild your dashboard once — say "rebuild my dashboard" — so you've
    done it yourself at least once without help.
 
 ## When you need something new
