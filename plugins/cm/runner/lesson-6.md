@@ -97,7 +97,7 @@ Say:
 
 Make Option 3 the most ambitious. All three are dashboards.]
 
-Type **1, 2, or 3**.
+Type **1, 2, or 3** — or **4** and describe the dashboard you'd rather have (it still has to be a dashboard lah).
 
 HARD GATE: wait for their pick.
 
@@ -112,8 +112,8 @@ HARD GATE: wait for their pick.
                     │  read only, never sent anywhere
                     ▼
           ┌───────────────────┐
-          │   3 AGENTS        │  ← the thing you
-          ├───────────────────┤     learned last lesson
+          │   3 AGENTS        │  ← what you learned
+          ├───────────────────┤     back in Lesson 4
           │  1 · DATA         │
           │  2 · VISUALS      │  all at once
           │  3 · INTERACTIVE  │
@@ -253,7 +253,7 @@ Write the complete, self-contained HTML **directly to the file with your Write t
 - NO external endpoints — no `action=`, no `fetch`, no analytics, no remote images or fonts. Everything self-contained so the page never sends their data anywhere.
 - Must open correctly by double-clicking the file, offline.
 
-After delivering the code, say:
+Once the file is written, say:
 
 **✅ BUILT.**
 

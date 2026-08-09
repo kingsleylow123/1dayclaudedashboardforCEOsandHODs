@@ -71,8 +71,6 @@ For example:
 
 Just name the ones you're actually in every day.
 
-Just name the ones you're actually in every day.
-
 Wait for their answer. React briefly.
 
 > **CONNECTORS — CHECK, DON'T ASK.** Do NOT ask them whether they set up connectors. You can already see which tools you have access to in this session — look at your own available tools and work it out yourself. Asking a CEO to report their own config is amateur hour, and they told you the tool list already.
@@ -96,7 +94,7 @@ Don't hold back. Dream a little.
 
 Wait for their answer.
 
-Now react with GENUINE hype. This matters. Connect their Q5 answer to something Claude can actually do. Be specific — not "wow that's great" but "okay so you want [X] — that's literally exactly what we're building toward in Lesson 4 when we run parallel agents, and Lesson 5 is where we make it real."
+Now react with GENUINE hype. This matters. Connect their Q5 answer to something Claude can actually do. Be specific — not "wow that's great" but "okay so you want [X] — that's literally exactly what we're building toward in Lesson 4 when we run parallel agents, and Lesson 6 is where we make it real — that's your dashboard."
 
 Then say:
 
@@ -139,7 +137,7 @@ And I'm writing a real CLAUDE.md file into it — right now, using your exact wo
 
 Run this: create the folder `~/Desktop/my-ai` (mkdir -p ~/Desktop/my-ai) and write a file called `~/Desktop/my-ai/CLAUDE.md` containing the full AI Brain block above — using their actual answers, no placeholders.
 
-> **PATH RULE — applies to the WHOLE workshop:** every file goes under `~/Desktop/my-ai/` (the Lesson 5 build goes in `~/Desktop/my-ai/build/`). Desktop on purpose — they should SEE the folder appear on their screen. This works identically on Mac and Windows. Never write to a folder relative to wherever they happened to open Claude Code. If a participant would rather it live somewhere else, honour that and use their chosen location for every remaining lesson.
+> **PATH RULE — applies to the WHOLE workshop:** every file goes under `~/Desktop/my-ai/` (the Lesson 6 dashboard goes in `~/Desktop/my-ai/build/`). Desktop on purpose — they should SEE the folder appear on their screen. This works identically on Mac and Windows. Never write to a folder relative to wherever they happened to open Claude Code. If a participant would rather it live somewhere else, honour that and use their chosen location for every remaining lesson.
 
 Then say:
 

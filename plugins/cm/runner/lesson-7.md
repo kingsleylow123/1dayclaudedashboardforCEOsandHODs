@@ -27,17 +27,17 @@ Not followed along with.
 
 ✅ Lesson 1 — AI Brain (a real CLAUDE.md file — Claude knows who you are)
 
-✅ Lesson 2 — Custom Skill (/my-[skill] — running automatically for your work)
+✅ Lesson 2 — Custom Skill (saved in `my-ai/skills` — run it by name today, install it as a `/` command tonight)
 
 ✅ Lesson 3 — Connection Plan (every tool sorted: connector today, MCP later)
 
 ✅ Lesson 4 — AI Agent Team (parallel agents, real assets, saved to a file)
 
-✅ Lesson 5 — Morning Brief (written, and set to reach you at 8am)
+✅ Lesson 5 — Morning Brief (written and saved — [say the true one: "scheduled for 8am" / "on your 8am phone reminder" / "one command away each morning"])
 
 ✅ Lesson 6 — Your Dashboard (live numbers, open in your browser right now)
 
-🎁 Gifts received: 10 Prompts That Get Things Done · Skill Builder · 5 Agent Workflows · 10 Mega-Prompts (Business in a Box)
+🎁 Gifts received: 10 Prompts That Get Things Done · Skill Builder · 5 Agent Workflows · 10 Mega-Prompts (Business in a Box) · The "build any dashboard" recipe
 
 Most people are still copy-pasting into ChatGPT — getting the same generic response as 10 million other people.
 
@@ -109,25 +109,25 @@ Tomorrow morning it's already written — you just run it.
 
 ---
 
-**MAKE IT WORK EVERYWHERE — 30 seconds, and they type it:**
+**MAKE IT WORK EVERYWHERE — tell them how, don't do it for them:**
 
 Then say:
 
-**One thing before we wrap — and this makes everything you built today follow you around.**
+**One thing for tonight — this makes everything you built today follow you around.**
 
 Right now your AI Brain lives in your `my-ai` folder. Claude reads it when you're working in that folder.
 
-**To make Claude know you in EVERY project, every session — type this:**
+**To make Claude know you in every project, on every session — you do this bit yourself, it takes 20 seconds:**
 
-> **"Add my AI Brain to my global Claude memory."**
+Open your `CLAUDE.md`, select all, copy.
 
-Go ahead, type it now.
+Then open Claude Code's memory settings and paste it in.
 
-HARD GATE: wait for them to type it. When they do, help them put a copy of their `~/Desktop/my-ai/CLAUDE.md` content into their global Claude memory — because THEY asked, this is straightforward. If anything blocks it, don't fight it: tell them plainly **"your setup wants you to do that one by hand — open Claude's memory settings and paste it in, takes 20 seconds"** and move on.
+**That's it — after that it doesn't matter which folder you open. Claude already knows who you are.**
 
-Then say:
+> **DO NOT do this for them and do not offer to.** It's their configuration, not ours — the whole workshop has deliberately stayed out of their settings, and this is not the moment to change that. Tell them how, put it in their next-steps, move on.
 
-**Done. Now it doesn't matter which folder you open — Claude already knows who you are.**
+I've put those steps in your next-steps file so you don't have to remember them.
 
 **Reply YES to continue.**
 
@@ -146,22 +146,23 @@ Build it from what ACTUALLY happened in their session — not a generic list. In
 [their name] · [today's date]
 
 ## Tonight (10 minutes)
-1. Make your AI Brain global — open Claude Code and type:
-   "Add my AI Brain to my global Claude memory"
+1. Make your AI Brain work everywhere (20 seconds, you do this yourself):
+   Open Desktop/my-ai/CLAUDE.md, select all, copy.
+   Open Claude Code's memory settings and paste it in.
 2. Turn your skill into a real /slash command (3 minutes):
    Open a NEW Claude Code window and paste:
    "Create a skill called [their-skill-name] that does the following,
     and install it so I can run it with a slash command: [paste the
     contents of their SKILL.md]"
    Restart Claude Code. Now type / and it's there, in every project.
-4. [If they had a phone-reminder fallback] Set your 8am reminder.
+3. [If they're on the phone-reminder tier] Set your 8am reminder.
 
 ## This week
-5. Connect the tools we couldn't reach today:
+4. Connect the tools we couldn't reach today:
    [their specific tools, from mcp-plan.md]
    For [tool with no connector], paste the prompt in mcp-plan.md
-6. Run your morning brief 3 days in a row. That's what makes it a habit.
-7. Rebuild your dashboard once — say "rebuild my dashboard" — so you've
+5. Run your morning brief 3 days in a row. That's what makes it a habit.
+6. Rebuild your dashboard once — say "rebuild my dashboard" — so you've
    done it yourself at least once without help.
 
 ## When you need something new
@@ -178,7 +179,7 @@ Then say:
 
 **I've written all of that to `NEXT-STEPS.md` in your folder — you don't have to remember any of it.**
 
-**The two tonight ones take ten minutes and make everything else work everywhere.**
+**Those tonight ones take about ten minutes, and they make everything else work everywhere.**
 
 **Reply YES to continue.**
 
@@ -198,13 +199,13 @@ Then go through all six, one short block each, in this shape:
 
 > **Lesson 1 — Your AI Brain.** You told me [their role at their company] and I wrote it to `CLAUDE.md`. From now on Claude opens already knowing that. → *Tomorrow: open Claude in that folder and it just knows.*
 >
-> **Lesson 2 — Your first skill.** You built `/[their actual skill name]` — [what it does, in their words]. → *Tomorrow: type that instead of re-explaining the job.*
+> **Lesson 2 — Your first skill.** You built **[their actual skill name]** — [what it does, in their words]. → *Tomorrow: say "use my [skill name] skill on this…" instead of re-explaining the job.*
 >
 > **Lesson 3 — Connections.** [What they already have connected] is live; [their no-connector tool] needs an MCP, and the prompt is written in your plan. → *Tonight: paste that prompt.*
 >
 > **Lesson 4 — Multi-agents.** You ran [their mission] with three agents at once and saved the output. → *Any time: "run multi-agents to get this done".*
 >
-> **Lesson 5 — Morning brief.** [Their chosen routine], waiting for you at 8am. → *Tomorrow morning: run it before your first meeting.*
+> **Lesson 5 — Morning brief.** [Their chosen routine], ready to fire. → *Tomorrow morning: [it runs at 8am / your reminder pings and you type "run my morning brief"] — before your first meeting.*
 >
 > **Lesson 6 — Your dashboard.** [Their real headline number] on screen, with sliders you can drag to model [their lever]. → *Any morning: "rebuild my dashboard".*
 
@@ -220,7 +221,7 @@ Wait for their answer. Whatever they say, back it in one line and make it concre
 
 ---
 
-**OPEN THEIR GIFTS — the last file of the day:**
+**OPEN THE FOLDER — the closure moment:**
 
 Say:
 
@@ -289,9 +290,21 @@ Run your morning brief tomorrow and see how it feels. 🔥
 
 ---
 
+```
+🏆 DASHBOARD SESSION COMPLETE
+Claude Malaysia · Dashboard for CEOs & Heads of Departments
+by Kingsley Low — @kingsleylow.ai on Instagram
+```
+
+Then hand the room back:
+
+**That's your dashboard done — take a breather, we're not finished with the day yet. 🔥**
+
+---
+
 **OPTIONAL BONUS — 3 MINUTES, ONLY IF THEY WANT IT:**
 
-> Run this AFTER the completion banner below, never before. The workshop is finished and their dashboard is done — nothing here can break anything. Anyone who wants to leave, leaves.
+> This runs AFTER the completion banner — the session's build is finished and their dashboard is done, so nothing here can break anything. It is entirely optional; anyone who wants to step away, steps away. Do NOT imply the whole day is over — this session ends, the workshop continues.
 
 Say:
 
@@ -332,12 +345,3 @@ Then say:
 
 ---
 
-```
-🏆 DASHBOARD SESSION COMPLETE
-Claude Malaysia · Dashboard for CEOs & Heads of Departments
-by Kingsley Low — @kingsleylow.ai on Instagram
-```
-
-Then hand the room back:
-
-**That's your dashboard done — take a breather, we're not finished with the day yet. 🔥**

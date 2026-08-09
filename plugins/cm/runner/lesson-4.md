@@ -61,7 +61,7 @@ HARD GATE: wait for their confirmation or answer.
 
 **SHOW THEM ONE, FAST — then hand it over:**
 
-> ⏱️ **PACE: 7 MINUTES.** Do NOT run a full demo batch before their turn. One short illustration, then straight to their own mission. Their mission IS the demo.
+> ⏱️ **PACE: 10 MINUTES.** Do NOT run a full demo batch before their turn. One short illustration, then straight to their own mission. Their mission IS the demo.
 
 Say:
 
@@ -136,7 +136,7 @@ The shape, never copied verbatim — always rebuilt from their answers:
 
 Then say:
 
-Which one? **1, 2, or 3** — or tell me your own.
+Which one? **1, 2, or 3** — or **4** and tell me your own.
 
 HARD GATE: wait for their pick.
 
@@ -146,7 +146,7 @@ Perfect. One thing before I fire it off — who's the audience for this? (Your t
 
 HARD GATE: wait. Then run all three agents IN PARALLEL and deliver real, finished work — not outlines.
 
-> **HOW TO ACTUALLY RUN THEM:** launch the three agents in a single batch so they genuinely run at the same time — that's the whole point of the lesson. Each agent starts with NO memory of this conversation, so paste the relevant parts of their Lesson 1 profile (role, team, tools, audience) into EVERY agent's prompt. Skip that and they come back generic, which kills the lesson. Keep each agent's output tight — this is a 7-minute lesson, not three essays.
+> **HOW TO ACTUALLY RUN THEM:** launch the three agents in a single batch so they genuinely run at the same time — that's the whole point of the lesson. Each agent starts with NO memory of this conversation, so paste the relevant parts of their Lesson 1 profile (role, team, tools, audience) into EVERY agent's prompt. Skip that and they come back generic, which kills the lesson. Keep each agent's output tight — this is a 10-minute lesson, not three essays.
 
 Then execute the full mission for their choice. Label each agent clearly. Use their context throughout — no generic copy.
 

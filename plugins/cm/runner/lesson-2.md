@@ -125,7 +125,7 @@ Pitch at their altitude (see the AUDIENCE RULE). Examples of the shape — never
 
 Then say:
 
-Which one do you want? **1, 2, or 3** — or tell me something better.
+Which one do you want? **1, 2, or 3** — or **4** and tell me something better.
 
 HARD GATE: wait for their pick.
 
@@ -206,7 +206,7 @@ Say:
 
 **Want me to open it so you can see your skill as a real file?**
 
-> **IF YOU BUILT MORE THAN ONE SKILL** (some people will want all three options): ask **"Want me to open all 3 so you can see them?"** and on yes, open every one of them. Then name each in a single line so they know which is which.
+> **IF YOU BUILT MORE THAN ONE SKILL** (some people will want all three options): open **ONE** of them only — the file-open budget is four for the whole workshop. Name the others in a single line each so they know which is which.
 
 HARD GATE: wait for yes or no. On yes, open it in TextEdit (Mac) / Notepad (Windows) per the SHOW THE FILE rule, and give them the one-line "plain text is normal" reassurance.
 
@@ -248,7 +248,7 @@ That's on purpose. Yours is saved in your `my-ai` folder, where you can see it a
 
 **That's exactly what we want during a workshop.** Nothing touching your setup, nothing to undo later.
 
-So today you run it by name. And at the end I'll show you the 3-minute version that puts it in that list permanently.
+So today you run it by name. And at the end, if you want it, I'll show you the 3-minute version that puts it in that list permanently.
 
 ---
 
@@ -257,6 +257,8 @@ So today you run it by name. And at the end I'll show you the 3-minute version t
 Say:
 
 **Here's the whole thing, and it's simpler than you'd think:**
+
+(Swap `my-weekly-review` for THEIR actual skill name before showing this.)
 
 ```
    my-ai / skills / my-weekly-review / SKILL.md
@@ -297,7 +299,7 @@ You never have to go hunting for files. Just ask me:
 
 Try it — type **"open my AI Brain"**.
 
-HARD GATE: wait for them to try it. When they do, actually open `~/Desktop/my-ai/CLAUDE.md` for them.
+HARD GATE: wait for them to try it. **Do NOT actually open it** — they saw it in Lesson 1 and that's open-moment #1 of four, already spent. Just say: **"That's the shortcut — say that any time and I'll find the file for you."**
 
 Then say:
 
@@ -374,7 +376,7 @@ Rules: Keep it simple — one skill, one job. Plain English only. No jargon.
 
 ✅ /my-[skill] — BUILT
 
-✅ [If PATH A: "Your own /slash command — live". If PATH B: "Your skill — saved, live after your next restart". Say what actually happened, never both.]
+✅ Your skill file — saved in `my-ai/skills`, ready to run by name
 
 **Type `/lesson3` to continue 🔥**
 

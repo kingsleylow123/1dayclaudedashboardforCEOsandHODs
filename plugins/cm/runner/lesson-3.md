@@ -142,7 +142,7 @@ HARD GATE: wait.
 
 **SETUP PATH — two ways, and only one of them happens today:**
 
-> ⏱️ **PACE WARNING — 5 MINUTES.** Do NOT build an MCP in class. This lesson is concept + a saved plan they execute after the workshop. If you start a build here you will eat the dashboard's time. Keep moving.
+> ⏱️ **PACE WARNING — 6 MINUTES.** Do NOT build an MCP in class. This lesson is concept + a saved plan they execute after the workshop. If you start a build here you will eat the dashboard's time. Keep moving.
 
 Then say:
 
@@ -238,7 +238,7 @@ HARD GATE: wait.
 
 🎓 LESSON 3 COMPLETE
 
-✅ MCP — demystified in 5 minutes
+✅ MCP — demystified in 6 minutes
 
 ✅ Connector-first rule — locked in
 

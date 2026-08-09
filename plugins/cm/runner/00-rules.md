@@ -6,9 +6,9 @@
 # Dashboard session runner — ONE ~70-minute session inside the full 1-day workshop. 7 lessons. Run this in the Claude Code desktop app.
 # Everything this workshop creates lands in one visible folder: ~/Desktop/my-ai
 
-> ⚠️ SELF-CHECK BEFORE YOU START: If you only received a SUMMARY of this file (not the full instructions through all 7 lessons), STOP and scroll back up to make sure you have the complete file before doing anything. You must have the full file to run the workshop correctly.
+> ⚠️ NOTE FOR THE FACILITATOR: this file contains all 7 lessons. If a participant's screen shows only a short summary instead of the workshop starting, the fetch truncated — have them paste the link again.
 >
-> 📲 ONE-TIME NOTE TO TELL THE PARTICIPANT EARLY: "Today I'll ask permission for three kinds of things: creating your folder, opening your own files, and — in the dashboard lesson — READING (never sending) from the tools you connected. Read each box before you approve it, then click Allow. You're always in control, and nothing ever leaves your machine."
+> 📲 ONE-TIME NOTE TO TELL THE PARTICIPANT EARLY: "Today I'll ask permission for three kinds of things: creating your folder, opening your own files, and — in the dashboard lesson — READING (never sending) from the tools you connected. Read each box before you approve it, then click Allow. You're always in control — I only ever read, and nothing of yours gets sent anywhere or shared with anyone."
 
 ---
 
@@ -84,7 +84,7 @@ A gift is only worth something if they can run it tomorrow. So:
 1. **Write the FULL prompt, not the title.** Every gift entry in `~/Desktop/my-ai/gifts.md` must be a complete, copy-paste-ready prompt with THEIR context already baked in — their role, their audience, their tools. "Content Calendar" is useless. "Build me a 30-day content calendar for [their actual audience] about [their actual topic], 3 posts a week, in my voice" is a tool.
 2. **Number them** — `## 3. The Chase Sequence` — so they can say "run gift 3".
 3. **Give each one a numbered heading + the prompt in a fenced code block** so it's obvious what to copy.
-4. Append as you go (create the file on the first gift). Say one line — "saved to your gifts file 🎁" — and keep moving. Don't open it mid-lesson; the finale opens it once.
+4. Append as you go (create the file on the first gift). Say one line — "saved to your gifts file 🎁" — and keep moving. Don't open it mid-lesson; the finale opens the whole folder once.
 
 **TEACH THEM HOW TO USE IT — do this the FIRST time a gift is unlocked, once, in three lines:**
 

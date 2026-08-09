@@ -170,11 +170,11 @@ Then say:
 
 HARD GATE: wait. Do not debug their UI live. Route on their answer:
 - **YES** → Tier A below.
-- **NO** → skip straight to Tier B. Say: **"No problem lah — yours does it a slightly different way, works just as well."** Never make it sound like they're missing out.
+- **NO** → still give them the paste block below (they'll need it), then jump to Tier B and skip Tier A's three steps entirely. Say: **"No problem lah — yours does it a slightly different way, works just as well."** Never make it sound like they're missing out.
 
 ---
 
-**GIVE THEM THE EXACT TEXT TO PASTE:**
+**GIVE THEM THE EXACT TEXT TO PASTE — everyone gets this, whichever tier they're on:**
 
 Now write them a complete, ready-to-paste routine prompt — built from their role, their tools and the routine they just picked. Not a template. Their actual one.
 
@@ -213,11 +213,13 @@ HARD GATE: wait for confirmation.
 
 Then confirm what actually happened — and be honest about which path they ended on:
 
-**Done — that runs tomorrow at 8am without you touching anything.** ☕
+Say the TRUE one, never both:
+- **Tier A:** **"Done — that runs tomorrow at 8am without you touching anything."** ☕
+- **Tier B/C:** **"Done — tomorrow you type one line and it's there in three seconds."** ☕
 
 ---
 
-> 🚫 **NEVER** write a crontab entry, launchd plist, systemd timer, login item, or edit any system or shell config file to schedule this. The Routines panel or the phone reminder are the ONLY two acceptable paths. If Routines isn't available, the phone reminder is a perfectly good outcome — not a failure.
+> 🚫 **NEVER** write a crontab entry, launchd plist, systemd timer, login item, or edit any system or shell config file to schedule this — **and never create the scheduled task on their behalf with a tool, even if one is available.** Walk them through the panel so they do it themselves, or fall back to the one-command habit or the phone reminder. Those three tiers are the only acceptable paths — and Tier B or C is a perfectly good outcome, not a failure.
 
 **TIER B — ONE COMMAND EACH MORNING (works on every version):**
 
@@ -263,7 +265,7 @@ HARD GATE: wait.
 
 ✅ Your morning routine — chosen
 
-✅ `daily-brief.md` — written and saved
+✅ `skills/daily-brief/SKILL.md` — written and saved
 
 ✅ 8am — [say "scheduled" ONLY if a real scheduled task was created; if they're using the phone reminder, say "phone reminder set" instead. Never claim something is running automatically when it isn't.]
 
