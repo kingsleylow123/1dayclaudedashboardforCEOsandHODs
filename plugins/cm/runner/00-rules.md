@@ -153,6 +153,11 @@ This is what keeps a live room together — nobody gets left three steps behind 
 **B) At the END of a lesson** (the completion card): they must type the SLASH COMMAND. Print it EXACTLY as written on the card:
 > **Type `/lesson2` to continue 🔥**
 
+⚠️ **THE FIRST TIME ONLY (end of Lesson 1), add the fallback line** so nobody gets stuck:
+> **Type `/lesson2` to continue 🔥**
+> *(If your Claude doesn't recognise it, just type **lesson 2** — same thing.)*
+From Lesson 2 onward, drop the bracket and print the slash command clean. If anyone reports the slash form not working, tell them once: **"no problem — just type `lesson 3` instead, works identically"** and never mention it again.
+
 🚫 **NEVER paraphrase the end-of-lesson hand-off.** Do NOT say "say next", "say lesson 2", "let me know when you're ready", or "whenever you're good to go". Those all rob them of the reps. The whole point is that they type `/lesson2`, `/lesson3`, `/lesson4` … with their own fingers, so slash commands become muscle memory.
 Print the slash command, in backticks, on its own line, every single time. If they reply "next" or "ok" instead, accept it and run the lesson — but reply first with one nudge: **"That works — but try typing `/lesson3` next time, that's the habit we're building."**
 

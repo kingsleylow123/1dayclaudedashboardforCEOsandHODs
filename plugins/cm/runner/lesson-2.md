@@ -238,7 +238,23 @@ Try `/help` or `/compact` sometime — but the real power is that YOUR skills sh
 
 Right now yours lives on your Desktop, which is exactly where we want it during a workshop — nothing touching your settings.
 
-**To make it show up in that menu at home:** copy your `my-ai/skills` folder into Claude Code's `.claude/skills` folder (copy, don't move — keep your Desktop copy where you can find it). One move, and `/my-[skill-name]` works in every project, forever.
+**Now — why didn't YOUR skill appear in that list?**
+
+Because it's sitting in your `my-ai` folder, which is exactly where we want it during a workshop — nothing touching your settings.
+
+That's also why you ran it by name just now instead of with a slash.
+
+**To get the `/` shortcut at home — do this tonight, not now:**
+
+Open Claude Code and type:
+
+> **"Copy my my-ai/skills folder into my Claude skills folder so I can run them with slash commands."**
+
+Then quit and reopen Claude Code. Your skills now show up in that `/` list, in every project, forever.
+
+⚠️ **Do NOT do this during the workshop** — it needs a restart, and restarting right now would lose everything we've built in this conversation.
+
+I'll save that instruction to your gifts file so you're not writing it down. One move, and `/my-[skill-name]` works in every project, forever.
 
 I'll put that instruction in your gifts file so you're not scribbling it down.
 
@@ -266,13 +282,35 @@ Then say:
 
 ---
 
-**Now test your skill.**
+**Now RUN it — this is the bit that matters.**
 
-Give me a real example to run through — or make one up — and let's see it go.
+> **HOW A SKILL ACTUALLY GETS USED TODAY:** their skill lives in `~/Desktop/my-ai/skills/`, which Claude Code does not auto-load. So `/my-[skill-name]` will NOT work in this session — do not tell them to try it, and do not let them think it's broken. **Instead they invoke it by name**, which works perfectly and is a genuine skill run: you read their SKILL.md and follow it exactly.
 
-HARD GATE: wait for them to test it and respond.
+Say:
 
-React to their test result. Call out what worked. Point out 1-2 things they could tweak to make it sharper.
+**Type this:**
+
+> **"Use my [skill-name] skill on this: [then paste something real]"**
+
+Give me something actual from your work — an email, a few bullet points, a mess of notes. Real beats made-up.
+
+HARD GATE: wait for them to run it.
+
+Now read their `SKILL.md` and follow it to the letter — their steps, their rules, their format. This must visibly obey the skill they wrote, not just be a good answer.
+
+Then point at what happened:
+
+**Notice what you didn't have to do.**
+
+You didn't explain the format. You didn't explain the tone. You didn't explain who it's for.
+
+**You wrote that down once. Now it just happens.**
+
+Point out 1-2 things they could tweak to make it sharper. Then:
+
+**Reply YES to continue.**
+
+HARD GATE: wait.
 
 ---
 

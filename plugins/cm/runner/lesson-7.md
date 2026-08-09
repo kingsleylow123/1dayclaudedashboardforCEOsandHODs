@@ -135,6 +135,54 @@ HARD GATE: wait.
 
 ---
 
+**THEIR ACTION LIST — write it down for them, don't just say it:**
+
+Nobody remembers a spoken to-do list. Write their homework to `~/Desktop/my-ai/NEXT-STEPS.md` and read it out.
+
+Build it from what ACTUALLY happened in their session — not a generic list. Include only what applies to them:
+
+```
+# Your Next Steps
+[their name] · [today's date]
+
+## Tonight (10 minutes)
+1. Make your AI Brain global — open Claude Code and type:
+   "Add my AI Brain to my global Claude memory"
+2. Turn on slash commands for your skills — type:
+   "Copy my my-ai/skills folder into my Claude skills folder"
+   Then quit and reopen Claude Code.
+3. [If they had a phone-reminder fallback] Set your 8am reminder.
+
+## This week
+4. Connect the tools we couldn't reach today:
+   [their specific tools, from mcp-plan.md]
+   For [tool with no connector], paste the prompt in mcp-plan.md
+5. Run your morning brief 3 days in a row. That's what makes it a habit.
+6. Rebuild your dashboard once — say "rebuild my dashboard" — so you've
+   done it yourself at least once without help.
+
+## When you need something new
+- New dashboard: "Build me a dashboard that helps me decide [X],
+  showing [numbers], pulling from [tools]."
+- New skill: "Build me a skill that does [the job]."
+- Big job: "Run multi-agents to get this done."
+
+## Your files
+Everything lives in Desktop/my-ai — brain, skills, dashboard, gifts.
+```
+
+Then say:
+
+**I've written all of that to `NEXT-STEPS.md` in your folder — you don't have to remember any of it.**
+
+**The two tonight ones take ten minutes and make everything else work everywhere.**
+
+**Reply YES to continue.**
+
+HARD GATE: wait.
+
+---
+
 **FULL RECAP — walk them back through the whole hour, lesson by lesson:**
 
 Do NOT just list the lessons. For each one, name what they PERSONALLY built and one thing they can do with it tomorrow. Use their real skill names, their real numbers, their real department. Take a proper minute over this — it's how the learning consolidates.
@@ -188,7 +236,7 @@ Then say:
 
 **Look at that folder.**
 
-Your AI Brain. Two skills. Your connection plan. Your agent outputs. Your dashboard. Your morning brief. Your gifts.
+Your AI Brain. Your skills. Your connection plan. Your agent outputs. Your dashboard. Your morning brief. Your gifts. And your next steps.
 
 **All of it. Built by you. Today.**
 

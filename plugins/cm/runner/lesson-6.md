@@ -41,7 +41,15 @@ Say:
 
 **1. What decision do you want this dashboard to help you make, every morning?**
 
-(Not "see how we're doing". Something specific — *"whether to chase a client today"*, *"whether we'll hit the quarter"*, *"which project is bleeding".*)
+Don't leave them guessing — **show 3-4 examples at their altitude first**, rebuilt for their actual role:
+
+> - *"Whether we'll hit this quarter's number — and what to do today if we won't"*
+> - *"Which project is bleeding money before it's too late to fix"*
+> - *"Who on my team is blocked and waiting on someone"*
+> - *"Whether to chase a client today or leave it another day"*
+> - *"What one thing I should walk into the office and deal with first"*
+
+Then ask for theirs.
 
 HARD GATE: wait. If the answer is vague, push back ONCE: **"Go one level sharper — what would you actually DO differently based on it?"**
 
@@ -49,7 +57,15 @@ Then:
 
 **2. If you could only see FIVE numbers to make that call — what are they?**
 
-(Rough is fine. Guess if you have to. I'll tell you which ones I can pull live.)
+Again — **show them what good looks like first**, matched to the decision they just gave you:
+
+> If your decision was *"will we hit the quarter"*:
+> `1. Revenue booked vs target` · `2. Days left in quarter` · `3. Deals still open` · `4. Average deal size` · `5. Run-rate needed per week`
+>
+> If it was *"which project is bleeding"*:
+> `1. Budget vs spend per project` · `2. Days over schedule` · `3. Open variations` · `4. Unbilled work` · `5. Cash collected vs invoiced`
+
+Then say: **Rough is fine — guess if you have to. Tell me your five, and I'll tell you which I can pull live right now.**
 
 HARD GATE: wait for their five.
 
@@ -281,15 +297,29 @@ If they said no: "no worries — it's saved there whenever you want it. Open it 
 
 Then say:
 
-**One thing so this doesn't go stale on you.**
+**Two things so you're never stuck.**
 
-Whenever you want fresh numbers, just say:
+**1. To refresh THIS dashboard** — just say:
 
 > **"Rebuild my dashboard."**
 
-I'll pull your latest data and update the file. Takes about 15 seconds.
+I pull your latest numbers and update the file. About 15 seconds. Tomorrow morning, next Monday, before a board meeting — same three words.
 
-Tomorrow morning, next Monday, before a board meeting — same three words.
+**2. To build a COMPLETELY NEW dashboard — any time, for anything.**
+
+You don't need this workshop again. You don't need me. The whole recipe is one sentence:
+
+> **"Build me a dashboard that helps me decide [the decision], showing [the numbers], pulling from [the tools]. Save it to my Desktop and open it."**
+
+That's it. That's the entire thing you learned today.
+
+Decision → numbers → source. Say those three things and you get a dashboard.
+
+Want one for your sales team? Your warehouse? A single client? Same sentence, different words.
+
+I'll put that exact template in your gifts file.
+
+Append it to `~/Desktop/my-ai/gifts.md` under **"How to build any dashboard, any time"**, with their own example already filled in.
 
 ---
 
