@@ -148,9 +148,9 @@ Build it from what ACTUALLY happened in their session — not a generic list. In
 ## Tonight (10 minutes)
 1. Make your AI Brain global — open Claude Code and type:
    "Add my AI Brain to my global Claude memory"
-2. Turn on slash commands for your skills — type:
-   "Copy my my-ai/skills folder into my Claude skills folder"
-   Then quit and reopen Claude Code.
+2. [ONLY if they were on PATH B in Lesson 2 — omit this line entirely if
+   their slash command already worked in class]
+   Restart Claude Code once — your skill then appears as /[their-skill].
 3. [If they had a phone-reminder fallback] Set your 8am reminder.
 
 ## This week
