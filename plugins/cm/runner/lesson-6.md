@@ -31,9 +31,43 @@ We're doing that now.
 
 > **NON-NEGOTIABLE:** This is a dashboard workshop. **Every single participant leaves with a working dashboard**, no exceptions. The 3 options below are three FLAVOURS of dashboard — never offer a form, a landing page or a portfolio as an alternative. If they ask for something else, build the dashboard first, then offer to build their thing after class.
 
+**FIRST — INTERVIEW THEM. Two questions, and do NOT skip to the menu:**
+
+A dashboard built from a menu is generic. A dashboard built from these two answers is theirs. Ask them one at a time.
+
 Say:
 
-**Here's what I can build you right now — all three are dashboards, built for your role.**
+**Before I build anything — two questions. These decide everything that goes on the screen.**
+
+**1. What decision do you want this dashboard to help you make, every morning?**
+
+(Not "see how we're doing". Something specific — *"whether to chase a client today"*, *"whether we'll hit the quarter"*, *"which project is bleeding".*)
+
+HARD GATE: wait. If the answer is vague, push back ONCE: **"Go one level sharper — what would you actually DO differently based on it?"**
+
+Then:
+
+**2. If you could only see FIVE numbers to make that call — what are they?**
+
+(Rough is fine. Guess if you have to. I'll tell you which ones I can pull live.)
+
+HARD GATE: wait for their five.
+
+Then reflect it straight back and be honest about reach:
+
+**Got it. Of your five — I can pull [X and Y] live from your connected tools right now. [Z] lives in [their tool], which needs the connection we planned earlier, so I'll build the tile and mark it clearly until you wire it up.**
+
+**Reply YES to continue.**
+
+HARD GATE: wait.
+
+---
+
+**NOW OFFER THE SHAPE — built from their answers, not from a template:**
+
+Say:
+
+**Here's how I'd lay that out — three options, all built around the decision you just described.**
 
 [Generate 3 dashboard options from their ACTUAL Lesson 1 answers. Each must name their real department, real tools and real numbers. Rebuild these from their answers — never copy verbatim:
 
@@ -216,7 +250,7 @@ No copy-pasting.
 > **INSTRUCTION TO CLAUDE — save to a FIXED, KNOWN path:**
 > Write the full HTML to the path `~/Desktop/my-ai/build/index.html` (create the `~/Desktop/my-ai/build` folder if needed) so the participant always knows exactly where their build lives. Use your Write tool now.
 
-Then run the SHOW THE FILE procedure from Section 1. Say:
+This is open-moment #3 of four — the big one. Say:
 
 **Your dashboard is saved at `~/Desktop/my-ai/build/index.html`.**
 

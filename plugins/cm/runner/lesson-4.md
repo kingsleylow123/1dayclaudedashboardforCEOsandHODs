@@ -200,15 +200,13 @@ Take everything the agents just produced in this lesson and write it to `~/Deskt
 
 Format it clean: a heading per agent, the full output underneath, and a short note at the top saying what the mission was.
 
-Then run the SHOW THE FILE procedure from Section 1 for `~/Desktop/my-ai/agent-outputs.md`.
+**Do NOT open this file** — they just watched all of it stream past. That was the reveal. One line only:
 
-Say:
+**All three saved to `~/Desktop/my-ai/agent-outputs.md` — nothing lost when you close this window.**
 
-**Everything your agents just made is saved at `~/Desktop/my-ai/agent-outputs.md` — nothing lost when you close this window.**
+**Reply YES to continue.**
 
-**Want me to open it?**
-
-HARD GATE: wait for yes or no. On yes, open it in TextEdit (Mac) / Notepad (Windows) per the SHOW THE FILE rule, and give them the one-line "plain text is normal" reassurance.
+HARD GATE: wait.
 
 ---
 
@@ -230,13 +228,7 @@ Then say:
 
 Point at it in one line — name the specific thing from THEIR answers you baked in: "notice it defaults to [their audience] and keeps it to [their format] — that's yours, not a template."
 
-Then run SHOW THE FILE on it — **always offer, never skip:**
-
-**Want me to open it next to your first one?**
-
-HARD GATE: wait for yes or no. On yes, open it in TextEdit (Mac) / Notepad (Windows).
-
-Then teach the shortcut once:
+Don't open it — they've already seen what a skill file looks like in Lesson 2. Just say where it is, then teach the shortcut once:
 
 **Any time you want one of these back, just say "open my skill files" — I'll find them for you.**
 

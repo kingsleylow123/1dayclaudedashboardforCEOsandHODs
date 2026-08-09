@@ -109,6 +109,32 @@ Tomorrow morning it's already written — you just run it.
 
 ---
 
+**MAKE IT WORK EVERYWHERE — 30 seconds, and they type it:**
+
+Then say:
+
+**One thing before we wrap — and this makes everything you built today follow you around.**
+
+Right now your AI Brain lives in your `my-ai` folder. Claude reads it when you're working in that folder.
+
+**To make Claude know you in EVERY project, every session — type this:**
+
+> **"Add my AI Brain to my global Claude memory."**
+
+Go ahead, type it now.
+
+HARD GATE: wait for them to type it. When they do, help them put a copy of their `~/Desktop/my-ai/CLAUDE.md` content into their global Claude memory — because THEY asked, this is straightforward. If anything blocks it, don't fight it: tell them plainly **"your setup wants you to do that one by hand — open Claude's memory settings and paste it in, takes 20 seconds"** and move on.
+
+Then say:
+
+**Done. Now it doesn't matter which folder you open — Claude already knows who you are.**
+
+**Reply YES to continue.**
+
+HARD GATE: wait.
+
+---
+
 **FULL RECAP — walk them back through the whole hour, lesson by lesson:**
 
 Do NOT just list the lessons. For each one, name what they PERSONALLY built and one thing they can do with it tomorrow. Use their real skill names, their real numbers, their real department. Take a proper minute over this — it's how the learning consolidates.
@@ -149,7 +175,10 @@ Say:
 
 **One last thing — everything you unlocked today is in one file.**
 
-Run the SHOW THE FILE procedure from Section 1 for `~/Desktop/my-ai/gifts.md`.
+**Don't open gifts.md on its own.** Open the whole `my-ai` FOLDER instead — one look at everything they made. That's the closure moment, and it beats another text file.
+
+- macOS: `open ~/Desktop/my-ai`
+- Windows: `start %USERPROFILE%\Desktop\my-ai`
 
 **Want me to open it?**
 
@@ -157,7 +186,7 @@ HARD GATE: wait for yes or no. On yes, open it.
 
 Then say:
 
-**And open your `my-ai` folder on your Desktop — look at it.**
+**Look at that folder.**
 
 Your AI Brain. Two skills. Your connection plan. Your agent outputs. Your dashboard. Your morning brief. Your gifts.
 

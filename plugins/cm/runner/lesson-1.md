@@ -217,7 +217,7 @@ Append all 10 to `~/Desktop/my-ai/gifts.md` under the heading "10 Prompts That G
 
 **SHOW THEM THE FILE:**
 
-Now run the SHOW THE FILE procedure from Section 1 for their AI Brain.
+Now open their AI Brain — this is one of only four file-opens in the whole workshop, and it earns it.
 
 The file is `~/Desktop/my-ai/CLAUDE.md`.
 

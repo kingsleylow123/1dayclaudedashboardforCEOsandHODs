@@ -132,35 +132,45 @@ Fill every section with their real details. No placeholders.
 
 ---
 
-**SHOW THEM THE FILE:**
+**RUN IT LIVE — this is the proof, not the file:**
 
-Run the SHOW THE FILE procedure from Section 1 for their new brief skill (in `~/Desktop/my-ai/skills/daily-brief/`). Always offer to open it — that's now three skills sitting in one folder, and seeing them together is the win.
+**Do NOT open the brief file.** Reading a prompt teaches nothing. Instead, run it right now so they see tomorrow morning, today.
 
 Say:
 
-**Your morning brief is saved as a skill — `~/Desktop/my-ai/skills/daily-brief/`. That's your third one today.**
+**Saved. Now let's see it — this is what lands in front of you at 8am.**
 
-**Want me to open it so you can see it?**
+Then actually run their brief: pull what you can from their connected tools, apply their chosen routine, and output the real thing — properly formatted, their real numbers, ⚠️ on anything needing a decision, ending with "Your one thing today: ___".
 
-HARD GATE: wait for yes or no. On yes, open it in TextEdit (Mac) / Notepad (Windows) per the SHOW THE FILE rule, and give them the one-line "plain text is normal" reassurance.
-
----
-
-**NOW MAKE IT RUN ON ITS OWN — ROUTINES:**
+Keep it tight. This should look exactly like the diagram you drew earlier.
 
 Then say:
 
-**Last step — let's make this show up without you asking.**
+**That's tomorrow morning. Waiting for you before you sit down.**
 
-Claude Code has a **Routines** panel. You paste a prompt in, pick a time, and it runs on schedule.
+**Reply YES to continue.**
 
-**Look at the left sidebar of Claude Code — you'll see "Routines".**
+HARD GATE: wait.
 
-Click it.
+---
 
-**Reply YES to continue** once you've found it.
+**NOW MAKE IT AUTOMATIC — SCHEDULED TASK:**
 
-HARD GATE: wait. If they can't find Routines (older version, different layout), don't debug it live — say **"No stress, your version might not have it yet — I'll give you a phone-reminder version instead that works exactly as well"** and jump to the fallback below.
+Then say:
+
+**You've already got the win — the brief works. Now let's make it turn up on its own.**
+
+> **THE WIN IS ALREADY BANKED.** They have a working morning brief. Scheduling is a bonus. Whichever tier they land on, treat it as a complete success — never as a downgrade. Nobody leaves feeling they got the broken version.
+
+**Three ways to do this. Take whichever your Claude Code supports — they all end the same way.**
+
+**Look at the left sidebar** — is there a **Scheduled Tasks** or **Routines** panel?
+
+**Reply YES if you see one, NO if you don't.**
+
+HARD GATE: wait. Do not debug their UI live. Route on their answer:
+- **YES** → Tier A below.
+- **NO** → skip straight to Tier B. Say: **"No problem lah — yours does it a slightly different way, works just as well."** Never make it sound like they're missing out.
 
 ---
 
@@ -187,6 +197,8 @@ Rules:
 
 Then walk them through it, one step at a time, waiting between each:
 
+**TIER A — SCHEDULED TASK**
+
 **1. Copy that whole block.** (Reply YES when you've got it.)
 
 HARD GATE: wait.
@@ -209,15 +221,19 @@ Then confirm what actually happened — and be honest about which path they ende
 
 > 🚫 **NEVER** write a crontab entry, launchd plist, systemd timer, login item, or edit any system or shell config file to schedule this. The Routines panel or the phone reminder are the ONLY two acceptable paths. If Routines isn't available, the phone reminder is a perfectly good outcome — not a failure.
 
-**FALLBACK — if Routines isn't available on their setup:**
+**TIER B — ONE COMMAND EACH MORNING (works on every version):**
 
-**No scheduler on your version? No problem lah.**
+Your brief is saved as a skill. So tomorrow you type one thing:
 
-Your brief is saved as a skill, so it's one command away.
+> **"run my morning brief"**
+
+That's it. Same brief, same numbers, three seconds.
+
+**TIER C — PHONE REMINDER (belt and braces, do this either way):**
 
 Set a recurring 8am reminder on your phone: **"Open Claude → run my morning brief."**
 
-Ten seconds to set up. Same result — you just tap it yourself.
+Ten seconds. Honestly the most reliable one on this list — your phone never misses.
 
 ---
 

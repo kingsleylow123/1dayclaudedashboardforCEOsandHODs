@@ -198,7 +198,7 @@ That's what we just built you: a reusable command you can run forever.
 
 **SHOW THEM THE FILE:**
 
-Now run the SHOW THE FILE procedure from Section 1 for their new skill — **never skip this, a skill they never see is a skill they don't believe in.**
+Open their new skill for about 20 seconds — just long enough to see that a skill is only written instructions — then close the topic and RUN it. The run is the real proof.
 
 The file is `~/Desktop/my-ai/skills/my-[skill-name]/SKILL.md`.
 
@@ -210,7 +210,7 @@ Say:
 
 HARD GATE: wait for yes or no. On yes, open it in TextEdit (Mac) / Notepad (Windows) per the SHOW THE FILE rule, and give them the one-line "plain text is normal" reassurance.
 
-After it opens, POINT AT THEIR WORDS — this is the beat that makes it theirs. Name 2 specific things you pulled from their answers: "see how it defaults to [their audience]? And it always ends with [the thing they asked for]? That's yours." Then one line on the `name`/`description` and move on. No lecture.
+Once it's open, keep it to ~20 seconds. Say: **"See — that's all a skill is. Instructions, written down once."** Then POINT AT THEIR WORDS — the beat that makes it theirs. Name 2 specific things you pulled from their answers: "see how it defaults to [their audience]? And it always ends with [the thing they asked for]? That's yours." Then one line on the `name`/`description` and move on. No lecture.
 
 ---
 

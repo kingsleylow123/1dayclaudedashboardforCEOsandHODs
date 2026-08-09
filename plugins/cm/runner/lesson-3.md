@@ -216,13 +216,13 @@ Mark the 1-2 highest-leverage ones HIGH. For any MCP row, include the ready-to-p
 
 Keep this fast — write it, don't narrate it.
 
-Then run the SHOW THE FILE procedure from Section 1:
+**Do NOT open this file** — it's a to-do list, and staring at a to-do list teaches nothing. Just say it in one line and move:
 
-**Your whole connection plan is saved to `~/Desktop/my-ai/mcp-plan.md` — including the exact prompt to paste for the tools that need building.**
+**Your whole connection plan is saved to `~/Desktop/my-ai/mcp-plan.md` — including the exact prompt to paste for the tools that need building. That's your tonight job.**
 
-**Want me to open it?**
+**Reply YES to continue.**
 
-HARD GATE: wait for yes or no. On yes, open it. Then move straight on — no discussion.
+HARD GATE: wait.
 
 ---
 
