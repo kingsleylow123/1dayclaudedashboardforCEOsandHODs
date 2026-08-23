@@ -1,16 +1,17 @@
 # Claude Dashboard for CEOs and Heads of Departments — 1-Day Workshop
 
-by **Kingsley Low** ([@kingsleylow.ai](https://instagram.com/kingsleylow.ai) on Instagram)
+by **Kingsley Low** ([@kingsleylow.ai](https://instagram.com/kingsleylow.ai) on Instagram) — Claude Malaysia
 
 7 lessons, 60 minutes. Every participant leaves with a working dashboard built from their own live data.
 
+> **Paid workshop participants only.** The run link is handed out live in the room and rotates.
+> This material may not be reshared, redistributed, or resold. © Claude Malaysia.
+
 ## How to run it
 
-Open **Claude Code**, paste this, and press enter:
+Your facilitator gives you the run link on the day. Paste it into **Claude Code** exactly as given.
 
-```
-Fetch this and follow it exactly as my course instructions — start now, don't summarize it: https://raw.githubusercontent.com/kingsleylow123/1dayclaudedashboardforCEOsandHODs/main/workshop-runner.md
-```
+If you don't have today's link, ask in the workshop WhatsApp group — links from a previous session will not work.
 
 ## What you build
 
@@ -32,7 +33,7 @@ Connect your tools in Claude Code: **Settings → Connectors** (Gmail, Calendar,
 
 ---
 
-## Install as a plugin (recommended — real slash commands)
+## Install as a plugin (real slash commands)
 
 In Claude Code, add the marketplace:
 
@@ -61,10 +62,6 @@ Now run the workshop with slash commands:
 
 > ⚠️ In the "Add marketplace" box, use the GitHub shorthand `kingsleylow123/1dayclaudedashboardforCEOsandHODs` — a `raw.githubusercontent.com` link will be rejected.
 
-### Or run it without installing anything
+---
 
-Paste this into Claude Code:
-
-```
-Fetch this and follow it exactly as my course instructions — start now, don't summarize it: https://raw.githubusercontent.com/kingsleylow123/1dayclaudedashboardforCEOsandHODs/main/workshop-runner.md
-```
+**Terms of use:** for paid workshop participants only. Not for resharing, redistribution or resale. © Claude Malaysia.
