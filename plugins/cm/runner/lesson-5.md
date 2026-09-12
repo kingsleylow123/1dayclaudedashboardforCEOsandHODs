@@ -46,10 +46,16 @@ The best operators don't start the day deciding what to look at. They start it r
 
 ---
 
-**PICK THEIR ROUTINE — 3 built from their Lesson 1 answers**, one line each. Match the altitude (see AUDIENCE RULE). Shapes:
-CEO → what moved, what's stuck, what needs a decision · Sales → pipeline changes overnight, deals gone quiet · Ops → what's behind, what's blocked, who's waiting · Finance → cash, invoices due, anything unusual · Marketing → yesterday's performance, what to double down on · HR → interviews today, pending approvals · Owner → who owes you, who's waiting on you, today's one big thing · Creator → what's performing, what to post · Trader → overnight moves, watchlist · Teacher → today's classes, what's ungraded, parent messages
+**ASK THEM FIRST:**
 
-> 🚫 **SHAPES, NOT A MENU.** Not listed? Build from their words.
+**What's the first thing you check in the morning — or the thing you wish someone had already checked for you?**
+
+HARD GATE: wait.
+
+Then build **3 routines from their answer**, one line each, in their words. Option 4 is always "something else".
+
+Examples ONLY to show the range — never pick from these:
+- *"what came in overnight that needs me"* · *"whether the number I care about moved"* · *"who's waiting on me and how long they've waited"*
 
 **Type 1, 2, 3 or 4 — or OK to move on.** HARD GATE.
 

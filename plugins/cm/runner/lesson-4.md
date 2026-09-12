@@ -50,20 +50,20 @@ You fire one instruction. Three finished things come back — at the same time, 
 
 ---
 
-**PICK A MISSION — build 3 from their Lesson 1 answers.** Each one line, their language, naming a real thing from their world.
+**ASK THEM FIRST — this is the best question in the workshop:**
 
-Shapes only:
-- Head of Ops → *"3 agents: this week's ops update, what's blocked and who's blocking it, the chase messages"*
-- Head of Finance → *"overdue-payment chasers, this month's variance, next month's cash outlook"*
-- CEO → *"one summary per department head, merged into your Monday board note"*
-- Head of Marketing → *"last campaign's verdict, next campaign's brief, 5 pieces of content"*
-- Head of HR → *"screen this stack of CVs, draft interview questions, offer + rejection templates"*
-- Founder → *"today's inbox triage, the proposal you keep postponing, this week's team update"*
-- Content creator → *"this week's posts, repurpose the best one 3 ways, the comment replies"*
-- Investor / trader → *"portfolio summary, what moved and why, this week's watchlist"*
-- E-commerce → *"restock list, slow-movers, the supplier emails"*
+**Name 3 things on your plate this week that don't depend on each other.**
 
-> 🚫 **SHAPES, NOT A MENU.** Not on the list? Build from their words. Never squeeze someone into a role here.
+Doesn't matter how unrelated. That's the point — that's exactly what agents are for.
+
+HARD GATE: wait.
+
+**If they give you three real things, run THOSE.** Don't convert them into options, don't offer a menu — they've just written their own mission, which is better than anything you'd have suggested. Say: **"Perfect — that's your three. Watch."**
+
+If they only manage one or two, build the remaining ones from their Lesson 1 answers and offer as 1/2/3/4.
+
+Examples ONLY to show the range — never pick from these:
+- *"draft the thing I keep postponing"* · *"work out what's stuck and who's holding it"* · *"write the follow-ups I owe people"*
 
 **Type 1, 2, 3 or 4 — or OK to move on.**
 

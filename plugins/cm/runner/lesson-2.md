@@ -40,27 +40,19 @@ After that you stop explaining it. You just trigger it.
 
 ---
 
-**PICK ONE — build 3 from their Lesson 1 answers, one line each, their language.**
+**ASK THEM FIRST — do not open with a menu:**
 
-Shapes only, never copy verbatim:
-- CEO → **/my-weekly-review** (scattered updates → one board-ready summary)
-- Head of Ops → **/my-daily-standup** (what's blocked, who's waiting, what ships)
-- Head of Finance → **/my-payment-chaser** (follow-up for every overdue invoice)
-- Head of Sales → **/my-deal-brief** (one-page prep before any client meeting)
-- Head of Marketing → **/my-campaign-recap** (numbers in, plain-English verdict out)
-- Head of HR → **/my-candidate-screen** (CV in, shortlist verdict out)
-- Founder → **/my-inbox-triage** (what actually needs YOU today)
+**What's the job you do every week that you're sick of explaining?**
 
-**Beyond exec seats — many won't be department heads:**
-- Content creator → their audience, posting cadence, what's performing
-- Investor / trader → portfolio, positions, allocation, watchlist
-- E-commerce → orders, stock, returns, bestsellers
-- Property → listings, viewings, yield, tenant issues
-- Coach / trainer → clients, sessions, progress, renewals
-- Consultant / freelancer → projects, hours, invoices, who owes what
-- Personal → money in-out, health, habits, family
+The thing where you find yourself typing the same instructions over and over.
 
-> 🚫 **SHAPES, NOT A MENU.** If their world isn't listed — and often it won't be — build from their words. **Never squeeze someone into a role from this list.**
+HARD GATE: wait. If they're stuck, prompt with the range — not a taxonomy:
+> *"A weekly report? Chasing people? Screening something? Drafting the same kind of message? Prepping for a meeting?"*
+
+Then build **3 skills from what they just said** — one line each, using their words and their nouns. Option 4 is always "something else".
+
+Examples ONLY to show the range you should be spanning — never pick from these:
+- *"turns scattered updates into one summary"* · *"drafts the chase message for anyone who's gone quiet"* · *"takes a messy brain-dump and returns a structured plan"*
 
 **Type 1, 2, 3 or 4 — or OK to move on.**
 
