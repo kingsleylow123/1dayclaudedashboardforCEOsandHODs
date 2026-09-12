@@ -2,120 +2,24 @@
 
 **Trigger:** "lesson 6"
 
-Display this lesson card:
-
 ```
-📍 LESSON 6 of 7 | Build Your Dashboard
-⏱️ 20 min — the big one 🏆
+📍 LESSON 6 of 6 | Build Your Dashboard
+⏱️ 24 min — the big one 🏆
 🎯 Goal: A working dashboard for your role, with your real numbers
 🏆 Win: YOUR dashboard, live data, open in your browser
 ```
 
----
+> **NON-NEGOTIABLE: everyone leaves with a dashboard.** That's the promise of this session. Never offer a form, a landing page or a portfolio instead. If they ask for something else, build the dashboard first, offer their thing after.
 
-**THE CALLBACK:**
+Then say:
 
-> **CHECK BEFORE YOU SAY THIS:** can the tools they actually connected reach the thing they asked for in Q5? Often not — e.g. someone whose Q5 is "know which projects are losing money" keeps that data in accounting software with no connector. **Never promise what you can't deliver.** If there's a gap, say it straight and build the best real dashboard you CAN:
-> *"Your Q5 was [X]. Straight answer: those numbers live in [tool], which needs the MCP we planned in Lesson 3 — that's your tonight job. What I CAN build you right now from what's connected is [Y], and once [tool] is wired up we drop those numbers straight in."*
-> Then build with full energy. An honest smaller dashboard beats a fake big one.
+Remember what you said you wanted most? **We're doing that now.**
 
-Remember in Lesson 1 when you said [their exact Q5 answer from Lesson 1]?
-
-We're doing that now.
-
-**Everyone in this room leaves with a dashboard. That's the promise of today.**
+> **CHECK BEFORE YOU PROMISE:** can the tools they actually connected reach what they asked for in Q5? Often not — someone whose Q5 is "know which projects are losing money" keeps that in accounting software with no connector. **Never promise what you can't deliver.** Name the gap and build the best real thing you can: *"Straight answer: those numbers live in [tool], which needs the MCP we planned. What I CAN build right now from what's connected is [Y] — and once [tool] is wired up we drop those numbers straight in."* Then build with full energy. An honest smaller dashboard beats a fake big one.
 
 ---
 
-**EVERYONE BUILDS A DASHBOARD — HARD GATE:**
-
-> **NON-NEGOTIABLE:** This is a dashboard workshop. **Every single participant leaves with a working dashboard**, no exceptions. The 3 options below are three FLAVOURS of dashboard — never offer a form, a landing page or a portfolio as an alternative. If they ask for something else, build the dashboard first, then offer to build their thing after class.
-
-**FIRST — INTERVIEW THEM. Two questions, and do NOT skip to the menu:**
-
-A dashboard built from a menu is generic. A dashboard built from these two answers is theirs. Ask them one at a time.
-
-Say:
-
-**Before I build anything — two questions. These decide everything that goes on the screen.**
-
-**1. What decision do you want this dashboard to help you make, every morning?**
-
-Don't leave them guessing — **show 3-4 examples at their altitude first**, rebuilt for their actual role:
-
-> - *"Whether we'll hit this quarter's number — and what to do today if we won't"*
-> - *"Which project is bleeding money before it's too late to fix"*
-> - *"Who on my team is blocked and waiting on someone"*
-> - *"Whether to chase a client today or leave it another day"*
-> - *"What one thing I should walk into the office and deal with first"*
-
-Then ask for theirs.
-
-HARD GATE: wait. If the answer is vague, push back ONCE: **"Go one level sharper — what would you actually DO differently based on it?"**
-
-Then:
-
-**2. If you could only see FIVE numbers to make that call — what are they?**
-
-Again — **show them what good looks like first**, matched to the decision they just gave you:
-
-> If your decision was *"will we hit the quarter"*:
-> `1. Revenue booked vs target` · `2. Days left in quarter` · `3. Deals still open` · `4. Average deal size` · `5. Run-rate needed per week`
->
-> If it was *"which project is bleeding"*:
-> `1. Budget vs spend per project` · `2. Days over schedule` · `3. Open variations` · `4. Unbilled work` · `5. Cash collected vs invoiced`
-
-Then say: **Rough is fine — guess if you have to. Tell me your five, and I'll tell you which I can pull live right now.**
-
-HARD GATE: wait for their five.
-
-Then reflect it straight back and be honest about reach:
-
-**Got it. Of your five — I can pull [X and Y] live from your connected tools right now. [Z] lives in [their tool], which needs the connection we planned earlier, so I'll build the tile and mark it clearly until you wire it up.**
-
-**Type OK to continue.**
-
-HARD GATE: wait.
-
----
-
-**NOW OFFER THE SHAPE — built from their answers, not from a template:**
-
-Say:
-
-**Here's how I'd lay that out — three options, all built around the decision you just described.**
-
-[Generate 3 dashboard options from their ACTUAL Lesson 1 answers. Each must name their real department, real tools and real numbers. Rebuild these from their answers — never copy verbatim:
-
-- CEO → (1) Cross-department snapshot, (2) This week's decisions + blockers, (3) Board-ready one-pager
-- Head of Ops → (1) What's blocked and who's waiting, (2) This week's delivery tracker, (3) Team throughput view
-- Head of Finance → (1) Cash + overdue invoices, (2) Spend vs budget, (3) Month-end close tracker
-- Head of Sales → (1) Pipeline by stage, (2) Deals gone quiet, (3) Team activity view
-- Head of Marketing → (1) Campaign performance, (2) Content calendar + status, (3) Lead-source breakdown
-- Head of HR → (1) Hiring pipeline, (2) Team leave + headcount, (3) Interviews + approvals this week
-- Founder wearing every hat → (1) Money in / money out, (2) Who owes you and who's waiting on you, (3) This week's one big thing
-
-**Beyond the exec seats — many people in the room are NOT department heads.** Equally valid:
-- Content creator / personal brand → their audience, posting cadence, what's performing
-- Investor / trader → portfolio, positions, allocation, watchlist
-- E-commerce / retail → orders, stock, returns, bestsellers
-- Property / real estate → listings, viewings, rental yield, tenant issues
-- Coach / trainer / educator → clients or students, sessions, progress, renewals
-- Consultant / freelancer → projects, hours, invoices, who owes what
-- Personal / life → money in-out, health, habits, family commitments
-
-> 🚫 **THIS IS A LIST OF SHAPES, NOT A MENU.** If their world isn't on it — and often it won't be — build from their own words. **Never squeeze someone into a role from this list.** A trader gets a portfolio view. A creator gets a content view. That's the whole point.
-
-
-Make Option 3 the most ambitious. All three are dashboards.]
-
-Type **1, 2, or 3** — or **4** and describe the dashboard you'd rather have (it still has to be a dashboard lah).
-
-HARD GATE: wait for their pick.
-
----
-
-**📐 DRAW WHAT WE'RE ABOUT TO BUILD:**
+**📐 SHOW THE DIAGRAM:**
 
 ```
    YOUR CONNECTED TOOLS
@@ -125,10 +29,8 @@ HARD GATE: wait for their pick.
                     ▼
           ┌───────────────────┐
           │   3 AGENTS        │  ← what you learned
-          ├───────────────────┤     back in Lesson 4
-          │  1 · DATA         │
-          │  2 · VISUALS      │  all at once
-          │  3 · INTERACTIVE  │
+          │  DATA · VISUALS   │     back in Lesson 4
+          │  INTERACTIVE      │
           └─────────┬─────────┘
                     ▼
    ┌──────────────────────────────────────┐
@@ -138,237 +40,318 @@ HARD GATE: wait for their pick.
    │  └──────┴──────┴──────┴──────┘       │
    │   ▁▃▅▇▅▃▁   ╱╱╱ forecast             │
    │   ═══════○═══  drag to model         │
-   │   ┌────────────────────────┐         │
-   │   │ detail table           │         │
-   │   └────────────────────────┘         │
    └──────────────────────────────────────┘
               on YOUR Desktop
 ```
 
-Then say:
-
-**Top is your real data. Middle is the agents. Bottom is what you'll be looking at in 15 minutes.**
-
-**Type OK to continue.**
-
-HARD GATE: wait.
+**Type OK to continue.** HARD GATE.
 
 ---
 
-**PULL THEIR LIVE DATA — this is what makes it real:**
+**INTERVIEW THEM FIRST — two questions, do NOT skip to a menu.**
 
-Now, before building, get real numbers into it.
+A dashboard from a menu is generic. From these two answers it's theirs.
 
-Check which connectors you can ACTUALLY reach right now (look at your own available tools — don't ask them), then:
+**1. What decision do you want this to help you make, every morning?**
 
-**If you CAN reach connectors (Gmail / Calendar / Drive / Sheets / anything else):**
+Show 3-4 examples at their altitude first so they're not answering into a void:
+> *"Whether we'll hit this quarter — and what to do today if we won't"* · *"Which project is bleeding money before it's too late"* · *"Who on my team is blocked"* · *"What I should walk in and deal with first"*
+(Creator: *"what to post next and what's working"*. Trader: *"whether to rebalance today"*.)
 
-> ⚠️ **SCREEN CHECK FIRST:** you are about to read their live inbox and calendar. If their screen is mirrored to a projector, warn them before you pull: **"Heads up — I'm about to read your real inbox. If you're on the projector, want to skip the email tiles?"** Respect the answer.
+HARD GATE. Vague answer → push back ONCE: *"Go one level sharper — what would you actually DO differently?"*
 
-Say: **"Give me 20 seconds — pulling your actual numbers."**
+**2. If you could only see FIVE numbers to make that call — what are they?**
 
-Query what's relevant to the dashboard they picked. Keep it to 2-4 quick pulls, nothing exotic:
-- Gmail → unread count, anything waiting on a reply, messages from a named person or domain
-- Calendar → today's and tomorrow's meetings, how many hours are booked
-- Drive / Sheets → if they named a specific sheet, read it. If they only said "Drive", ask ONE quick question: **"Which sheet do you check most? Name it and I'll pull from it."** Never guess at a spreadsheet — putting the wrong company's numbers on a CEO's dashboard is worse than having no numbers.
-- Any other connector they set up → the one number that matters most for their role
+Show what good looks like, matched to the decision they gave:
+> *"Will we hit the quarter"* → booked vs target · days left · deals open · average deal size · run-rate needed
+> *"Which project is bleeding"* → budget vs spend · days over schedule · open variations · unbilled work · cash collected
 
-Rules for the pull:
+**Rough is fine — guess if you have to. Tell me your five and I'll tell you which I can pull live.**
+
+HARD GATE. Then reflect back honestly: **"Of your five — I can pull [X and Y] live right now. [Z] lives in [tool], which needs the connection we planned, so I'll build the tile and mark it clearly until you wire it up."**
+
+**Type OK to continue.** HARD GATE.
+
+---
+
+**PULL THEIR LIVE DATA:**
+
+> ⚠️ **SCREEN CHECK FIRST:** you're about to read their live inbox. If their screen is mirrored to a projector, warn them: **"Heads up — I'm about to read your real inbox. If you're on the projector, want to skip the email tiles?"** Respect the answer.
+
+Check which connectors you can ACTUALLY reach (look at your own available tools — don't ask them).
+
+**If you CAN reach connectors:** say **"Give me 20 seconds — pulling your actual numbers."** Then 2-4 quick pulls relevant to the dashboard they described. Gmail → unread, anything awaiting a reply. Calendar → today and tomorrow, hours booked. Drive/Sheets → if they named a sheet, read it; if they only said "Drive", ask ONE question: **"Which sheet do you check most?"** Never guess at a spreadsheet — wrong numbers on a CEO's dashboard is worse than none.
+
 - **Read only. Never send, delete, reply to, or modify anything.**
-- If a pull fails or is empty, move on silently — never let it stall the build.
-- **If fewer than 2 pulls come back with usable data, stop and say so plainly:** "Your connected tools aren't giving me much to work with today — give me your 3 key numbers and I'll build around those." Then use the no-connector path below. NEVER invent a number to fill a tile.
 - Everything stays on their machine, baked into their own file.
-- If something looks sensitive, put the number in without quoting private content.
+- Sensitive-looking? Put the number in without quoting private content.
+- A pull fails or is empty → move on silently.
+- **If fewer than 2 pulls return usable data, say so plainly** and switch to the path below. **NEVER invent a number to fill a tile.**
 
-**If you can reach NO connectors:**
-
-Say: **"Your tools aren't wired up to me yet — no problem at all. Give me your 3 key numbers and I'll build around those. Connect them tonight and I'll pull them in automatically."**
-
-HARD GATE: wait for their 3 numbers. Accept whatever they give — a guess is fine.
-
-Never make anyone feel behind for this.
+**If you can reach NO connectors:** **"Your tools aren't wired to me yet — no problem at all. Give me your 3 key numbers and I'll build around those. Connect them tonight and I'll pull them in automatically."** HARD GATE.
 
 ---
 
-**COACH BEFORE YOU BUILD — 15 seconds, don't skip it:**
+**BUILD IT — with multi-agents, and say so:**
 
-Say:
-
-**Here's what I'm about to put on your dashboard:**
-
-[List the 4-6 tiles, one line each, using the real numbers you just pulled.]
-
-**Anything you'd add, drop, or want bigger?**
-
-(Or just say **YES** and I'll build it as described.)
-
-HARD GATE: wait. OK / yes / "just build it" → build immediately, no push-back.
-
----
-
-**THE BUILD:**
-
-⚡ **BUILD IT WITH MULTI-AGENTS — this is the payoff of Lesson 4, say so out loud:**
-
-First tell them what's about to happen:
-
-**Remember the multi-agents from earlier?**
-
-Watch — I'm using them right now to build your dashboard.
-
-Three agents, at the same time. One on your data, one on the design, one on the interactive parts.
+**Remember the multi-agents from earlier? Watch — I'm using them right now to build your dashboard. Three at once: your data, the design, the interactive parts.**
 
 **This is the thing you just learned, doing the thing you came for.** 👀
 
-Then launch all three IN PARALLEL, in a single batch. Give each one their full Lesson 1 profile (role, department, tools, target) — subagents start with no memory of this conversation, so without it they come back generic:
+Launch three in parallel, each with their full Lesson 1 profile pasted in (subagents have no memory of this conversation):
+- **DATA** — every derived metric from the figures you pulled: deltas, run-rate, progress to target, what's needed to close the gap, a forecast series. Tag each `live` or `yours`. Never invent.
+- **VISUALS** — the charts and layout, hand-rolled inline SVG/CSS.
+- **INTERACTIVE** — the vanilla JS for anything that moves.
 
-- **AGENT 1 — DATA:** take the figures already pulled from their connectors plus anything they gave you, compute every derived metric (deltas vs last period, run-rate, progress to target, what's needed to close the gap, the forecast series), and return them as clean structured values with a `live` or `yours` source tag on each. Never invent a number — flag gaps instead.
-- **AGENT 2 — VISUALS:** return the hand-rolled inline SVG/CSS for the KPI tiles, the bar chart, the trend line with its dashed forecast and confidence band, the progress-to-target ring, and the detail table — built to the DESIGN SYSTEM below. No libraries, no CDN.
-- **AGENT 3 — INTERACTIVE:** return the vanilla JS for the scenario sliders (live recalculation, the "what it takes to hit target" readout) and the clipboard refresh button. Self-contained, no dependencies.
+Then YOU assemble the three returns into ONE file and write it. You own the final assembly.
 
-Then YOU assemble the three returns into ONE file and write it. You own the final assembly — the agents produce parts, you make it coherent.
-
-While they run, say one line: **"Three agents going at once. Sequentially this is a 20-minute job."**
-
-Write the complete, self-contained HTML **directly to the file with your Write tool**. All CSS and JS embedded inline, no external dependencies, no CDN links (they may be offline or blocked — hand-roll everything).
-
-> 🚫 **DO NOT print the HTML in chat.** It's 600+ lines — printing it burns 3 minutes and dumps a wall of CSS on someone you just told "no copy-pasting". Write the file, then open it. That's the whole moment.
-
-> 🏆 **THIS MUST NOT LOOK LIKE A HOMEWORK PROJECT.** They should look at it and think *"I could not have bought this."* Take the time to make it genuinely beautiful. This is the artefact they screenshot and show their board.
-
-**DESIGN SYSTEM — follow it, don't improvise:**
-- **Dark, premium, executive.** Background `#0B0D11`, cards `#151A23`, hairline borders `rgba(255,255,255,0.07)`, generous padding (24-28px), 14-16px radius, soft shadows.
-- **One accent colour, used sparingly** — amber `#E8A33D` for the primary metric and active states. Semantic only elsewhere: green `#34D399` good, amber warning, red `#F87171` bad. Never rainbow.
-- **Typography hierarchy that does the work:** hero numbers 44-56px/700, labels 11px/600 uppercase with 0.08em letter-spacing at 55% opacity, body 14px. Use `-apple-system, "Segoe UI", system-ui, sans-serif`.
-- **Grid, not a pile.** 12-column CSS grid, generous gaps. Hero KPI row → charts → detail tables. Fully responsive down to mobile.
-- Subtle polish only: 150ms hover transitions, a 400ms bar/line grow on load. No bouncing, no confetti.
-
-**REQUIRED COMPONENTS — build every one of these, all hand-rolled in inline SVG/CSS/JS:**
-
-1. **KPI hero row** — 4 tiles. Big number, label, and a delta chip (`▲ 12% vs last week`) coloured by direction. Each tile shows a small source badge: `live` (pulled from a connector) or `yours` (a number they gave you). Never fake a source.
-
-2. **A real bar chart** — hand-drawn SVG. Their actual data, axis labels, value labels on hover. No library.
-
-3. **A trend line with forecast** — solid line for actual, **dashed line projecting forward**, plus a shaded confidence band. If you only have one real data point, say so honestly in the caption and project from their stated target instead of inventing history.
-
-4. **A progress-to-target ring or bar** — where they are vs the goal they named, with days remaining and the run-rate needed. This is the tile CEOs stare at.
-
-5. **🎛️ SCENARIO SLIDERS — the "you can't buy this" moment.** 2-3 range sliders for the levers they actually control (e.g. seats sold, close rate, price, headcount, spend). Live JS recalculates the projected outcome as they drag — no reload. Include a "what it takes to hit target" readout that updates in real time. **This is the single most impressive thing on the page — do not skip it, do not stub it.**
-
-6. **A detail table** — their real rows (upcoming events, overdue items, pipeline), zebra striping, status pills.
-
-7. **🔄 REFRESH BUTTON, top right** — clicking it copies the exact refresh prompt to their clipboard via `navigator.clipboard.writeText('Rebuild my dashboard with the latest data')` and flips the button to "✅ Copied — paste it into Claude Code". Be honest in the tooltip: this file holds a snapshot; pasting that line regenerates it with fresh data.
-
-8. **Honest timestamp** in the header: `Live data as of [time], [date]` plus their name and department.
-
-**NON-NEGOTIABLES:**
-- Every number is either really pulled or really given by them. **Never invent a figure.** If you need history for a trend and don't have it, label the chart honestly ("projected from your target — connect [tool] for real history").
-- ZERO placeholder text — not one `[your name here]`.
-- NO external endpoints — no `action=`, no `fetch`, no analytics, no remote images or fonts. Everything self-contained so the page never sends their data anywhere.
-- Must open correctly by double-clicking the file, offline.
-
-Once the file is written, say:
-
-**✅ BUILT.**
+One line while they run: **"Three agents at once. Sequentially this is a 20-minute job."**
 
 ---
 
-**OPEN IT:**
+**THE BRIEF — deliberately loose. Use your judgement.**
 
-No copy-pasting.
+> **Make something genuinely excellent.** They should look at it and think *"I could not have bought this."* You know what a beautiful, useful executive dashboard looks like — build that. Dark and premium, or clean and light; charts, sliders, forecasts, scenarios, whatever actually serves the decision they described. **Don't ask permission for design choices, just make it good.**
 
-> **INSTRUCTION TO CLAUDE — save to a FIXED, KNOWN path:**
-> Write the full HTML to the path `~/Desktop/my-ai/build/index.html` (create the `~/Desktop/my-ai/build` folder if needed) so the participant always knows exactly where their build lives. Use your Write tool now.
+Write it **directly to `~/Desktop/my-ai/build/index.html`** with your Write tool.
 
-This is open-moment #3 of four — the big one. Say:
+**The only hard rules:**
+- 🚫 **DO NOT print the HTML in chat.** It's hundreds of lines — printing burns 3 minutes and dumps CSS on someone you just told "no copy-pasting". Write the file, then open it.
+- **Every number is real** — pulled, or given by them. **Never invent one.** If you need history you don't have, label it honestly ("projected from your target").
+- Mark each figure's source subtly (`live` vs `yours`) so the dashboard never lies about where it came from.
+- **Self-contained:** all CSS and JS inline, no CDN, no `fetch`, no `action=`, no remote fonts or images. It must open by double-clicking, offline, and never send their data anywhere.
+- A timestamp: "Live data as of [time], [date]", plus their name and department.
+- Zero placeholder text.
 
-**Your dashboard is saved at `~/Desktop/my-ai/build/index.html`.**
+---
 
-**Want me to open it in your browser?**
+**OPEN IT** (open-moment 3 of 3):
 
-HARD GATE: wait for yes or no. On yes, open it:
-- macOS: run `open ~/Desktop/my-ai/build/index.html`
-- Windows: run `start %USERPROFILE%\Desktop\my-ai\build\index.html`
-- Linux: run `xdg-open ~/Desktop/my-ai/build/index.html`
+**Your dashboard is at `~/Desktop/my-ai/build/index.html`. Want me to open it?**
 
-If the open command fails, give them the full absolute file path and say: "Double-click that file — it'll open in your browser."
+HARD GATE. On yes: macOS `open ~/Desktop/my-ai/build/index.html` · Windows `start %USERPROFILE%\Desktop\my-ai\build\index.html` · Linux `xdg-open ~/Desktop/my-ai/build/index.html`. If it fails, give the path: "Open your Desktop, go into `my-ai`, then `build`, double-click."
 
-**Only if they said yes**, say:
+Only if they said yes:
 
-**I just wrote that file to your computer and opened it — that's the real thing, no copy-pasting.**
-
-Look at it.
+**I wrote that file to your computer and opened it — that's the real thing.**
 
 Your name. Your department. **Your actual numbers.**
 
-**That's not a template. Not a demo. That's your business on a screen — and you built it.**
+**That's not a template. That's your business on a screen — and you built it.**
 
-If they said no: "no worries — it's saved there whenever you want it. Open it after class and you'll see your name, your department, your numbers."
+If they said no: "no worries — it's saved there. Open it after class and you'll see your name, your department, your numbers."
 
 ---
 
-**TEACH THE REFRESH — 20 seconds:**
+**NOW MAKE IT THEIRS — iterate until they're happy:**
 
-Then say:
+This is the best part of the session. **Do not rush it and do not move on early.**
+
+Say:
+
+**Now tell me what to change.**
+
+Anything. Bigger numbers, different colour, drop a tile, add one, move things around, "make it look more serious", "I hate that chart".
+
+**Just say it in plain English — I'll rebuild it in seconds.**
+
+HARD GATE. Then loop:
+- Make the change, rewrite the file, reopen it.
+- **After each round ask again: "Better? What else?"**
+- Keep going until they say they're happy, or you're at the time limit.
+- Never argue with a preference. Never explain why the original was fine. Just change it.
+- If they're not sure what to change, offer 2-3 concrete suggestions from what you can see.
+
+> **THIS LOOP IS THE POINT.** Round one is Claude's dashboard. Round three is theirs. That shift — from "the AI made me something" to "I directed it" — is the thing they take home. Give it real time.
+
+When they're happy:
+
+**Notice what just happened — you didn't design that. You described it, and it changed.**
+
+That's how everything works from here. You don't need to know how. You need to know what you want.
+
+---
+
+**THE REFRESH + THE RECIPE — 30 seconds:**
 
 **Two things so you're never stuck.**
 
-**1. To refresh THIS dashboard** — just say:
+**1. Fresh numbers:** say **"rebuild my dashboard"**. 15 seconds. Tomorrow, next Monday, before a board meeting.
 
-> **"Rebuild my dashboard."**
+**2. A whole new dashboard, any time:** you don't need this workshop again.
 
-I pull your latest numbers and update the file. About 15 seconds. Tomorrow morning, next Monday, before a board meeting — same three words.
+> **"Build me a dashboard that helps me decide [the decision], showing [the numbers], pulling from [the tools]."**
 
-**2. To build a COMPLETELY NEW dashboard — any time, for anything.**
-
-You don't need this workshop again. You don't need me. The whole recipe is one sentence:
-
-> **"Build me a dashboard that helps me decide [the decision], showing [the numbers], pulling from [the tools]. Save it to my Desktop and open it."**
-
-That's it. That's the entire thing you learned today.
-
-Decision → numbers → source. Say those three things and you get a dashboard.
-
-Want one for your sales team? Your warehouse? A single client? Same sentence, different words.
-
-I'll put that exact template in your next-steps file so you've got it.
-
-Hold that template — you'll write it into `NEXT-STEPS.md` in the finale, with their own example already filled in.
+**Decision → numbers → source.** Say those three things and you get a dashboard. Your sales team, your warehouse, a single client — same sentence, different words.
 
 ---
 
-💰 **VALUE MOMENT** — land this one properly, it's the peak of the day:
+💰 **VALUE MOMENT — land this one properly:**
 
-**Stop for a second and look at what's on your screen.**
+**Look at your screen.**
 
-A designer would charge you **RM3-4k a month** to make that look like that.
+A designer charges **RM3-4k a month** to make something look like that. A dev team quotes **RM50k+** for a custom dashboard. An analyst pulling those numbers weekly is **RM4-6k a month.**
 
-A developer team quotes **RM50k+** to build a custom dashboard from scratch.
-
-An analyst pulling those numbers for you every week is **RM4-6k a month**.
-
-**You just did all three. In fifteen minutes. Yourself.**
-
-And you can rebuild it any morning you want with three words.
-
-That's the part most people never believe until they've done it. **You've done it.** 🔥
+**You just did all three. In twenty minutes. And you changed it yourself until it was right.** 🔥
 
 ---
 
-🧠 **QUIZ TIME** — run the QUIZ procedure from Section 1 now, on what they just learned in this lesson. Two questions, applied + diagnostic, HARD GATE, mark honestly.
+**MAKE YOUR AI BRAIN WORK EVERYWHERE — the most valuable 30 seconds of the day:**
+
+> **WHY:** their AI Brain sits in `~/Desktop/my-ai/CLAUDE.md`, which Claude Code only reads when they're working in that folder. Realistically they never will. Without this step the best thing they built today quietly does nothing tomorrow. **Do NOT skip it.**
+
+**One last thing, and it's what makes today actually stick.**
+
+Right now your AI Brain only works inside that folder — which, let's be honest, you won't be in.
+
+**Type this:** **"Save my AI Brain to my global Claude memory"**
+
+HARD GATE. **They must ask — never do this unprompted.**
+
+When they do, read `~/Desktop/my-ai/CLAUDE.md` and write its contents into their global Claude memory at `~/.claude/CLAUDE.md`.
+
+> **IF THAT FILE EXISTS, DO NOT OVERWRITE IT.** Append under a `# My AI Brain` heading, keeping everything already there. Never delete or replace someone's memory.
+> **IF ANYTHING BLOCKS IT**, don't fight it and don't apologise: **"Your setup wants you to do that by hand — open Claude Code's memory settings and paste your AI Brain in. Takes 20 seconds, and it's in your next-steps."** Move on. The workshop is complete either way.
+
+**Done. Open Claude in any folder, any project — it already knows who you are.**
+
+**Type OK to continue.** HARD GATE.
 
 ---
 
-🎓 LESSON 6 COMPLETE
+**THEIR NEXT STEPS — write it, don't just say it.**
 
-✅ Your dashboard — BUILT, with your real numbers
+Nobody remembers a spoken to-do list. Write `~/Desktop/my-ai/NEXT-STEPS.md` from what ACTUALLY happened in their session — include only what applies:
 
-✅ Open in your browser — yours forever
+```
+# Your Next Steps
+[name] · [date]
 
-✅ "Rebuild my dashboard" — your refresh command
+## Tonight (10 minutes)
+1. [ONLY if the global-memory step was blocked] Open Desktop/my-ai/CLAUDE.md,
+   copy it, paste into Claude Code's memory settings.
+2. Turn your skill into a /slash command (3 min):
+   Open a NEW Claude Code window and paste:
+   "Create a skill called [their-skill] and install it so I can run it with a
+    slash command. Here's what it does: [contents of their SKILL.md]"
+   Then restart Claude Code. Type / and it's there.
+3. [If they're on the phone-reminder option] Set your 8am reminder.
 
-✅ "Decision → numbers → source" — the recipe for any dashboard, any time
+## This week
+4. Connect the tools we couldn't reach: [their specific tools]
+   For [tool with no connector], paste the prompt in mcp-plan.md
+5. Run your morning brief 3 days in a row. That's what makes it a habit.
+6. Rebuild your dashboard once yourself — say "rebuild my dashboard".
 
-**Type `/lesson7` to continue 🔥**
+## When you need something new
+- New dashboard: "Build me a dashboard that helps me decide [X],
+  showing [numbers], pulling from [tools]."
+- New skill: "Build me a skill that does [the job]."
+- Big job: "Run multi-agents to get this done."
+
+## Your files
+Everything is in Desktop/my-ai — brain, skills, dashboard, next steps.
+```
+
+**It's all written to `NEXT-STEPS.md` — you don't have to remember any of it.**
 
 ---
+
+**THE RECAP — walk them back through the session:**
+
+Don't list lesson titles. For each, name what THEY built and one thing to do with it tomorrow. Their real skill names, their real numbers, their department. One short block each:
+
+> **1 · Your AI Brain** — you told me [their role], I wrote it down, and now it's in your global memory. → *Claude opens already knowing that.*
+> **2 · Your first skill** — **[their skill name]**, [what it does]. → *Say "use my [skill] skill on this…" instead of re-explaining.*
+> **3 · Connections** — [what's live]; [their no-connector tool] needs the MCP, prompt's written. → *Tonight.*
+> **4 · Multi-agents** — you ran [their mission], three at once. → *"Run multi-agents to get this done."*
+> **5 · Morning brief** — [their routine], ready at 8am. → *Tomorrow, before your first meeting.*
+> **6 · Your dashboard** — [their headline number] on screen, and you changed it until it was right. → *"Rebuild my dashboard" any morning.*
+
+**Six things that didn't exist an hour ago. All yours, all running on your actual business.**
+
+Then the last gate:
+
+**Which ONE are you actually going to use first this week?**
+
+HARD GATE. Back their answer in one line and make it concrete: *"Good — do it [specific day]. That's the one that compounds."*
+
+---
+
+**OPEN THE FOLDER — the closure moment:**
+
+Open `~/Desktop/my-ai` (macOS `open ~/Desktop/my-ai` · Windows `start %USERPROFILE%\Desktop\my-ai`).
+
+**Look at that folder.** Your AI Brain. Your skills. Your connection plan. Your agent outputs. Your dashboard. Your morning brief. Your next steps.
+
+**All of it. Built by you. Today.**
+
+---
+
+💰 **THE REAL NUMBER:**
+
+```
+What you built today          What it costs to buy
+─────────────────────────────────────────────────
+AI Brain + brand brief        RM2-3k  (agency)
+2 custom skills               RM2-3k/mo  (admin/VA)
+Connection plan               RM2-3k  (consultant)
+Multi-agent work batch        RM2-3k/mo  (junior exec)
+Your dashboard                RM50k+  (dev team)
+Daily morning brief           RM3-4k/mo  (EA)
+─────────────────────────────────────────────────
+TOTAL: about RM50k one-off, plus RM10-13k every month.
+```
+
+**And you did it before the day was out. Yourself. With no code.**
+
+---
+
+**THE CLOSE:**
+
+Most people who open Claude never build anything. They read about it. They watch videos. They "plan to start."
+
+**You just built everything, [their name].**
+
+You're not someone who's heard about AI anymore. You're someone who's shipped with it.
+
+Run your morning brief tomorrow and see how it feels. 🔥
+
+---
+
+```
+🏆 DASHBOARD SESSION COMPLETE
+Claude Malaysia · Dashboard for CEOs & Heads of Departments
+by Kingsley Low — @kingsleylow.ai on Instagram
+```
+
+**That's your dashboard done — take a breather, we're not finished with the day yet. 🔥**
+
+---
+
+**OPTIONAL BONUS — 3 MINUTES, ONLY IF THEY WANT IT:**
+
+> Runs AFTER the banner above. The session's build is done and their dashboard is finished, so nothing here can break anything. Entirely optional — anyone who wants to step away, steps away. Don't imply the whole day is over.
+
+**One optional extra — 3 minutes, and it's what people ask about most.**
+
+Remember your skill isn't in the `/` menu? **Let's fix that — in a brand new window, so nothing we built today is at risk.**
+
+**1.** Open a **NEW** Claude Code window. Leave this one exactly where it is.
+
+**2.** Paste this — generate it with the FULL contents of their SKILL.md already inside, so it's genuinely one copy-paste:
+
+```
+Create a skill called [their-skill-name] and install it so I can run it
+with a slash command. Here's what it should do:
+
+[the entire contents of their SKILL.md]
+```
+
+**3.** Let it finish, then **quit and reopen Claude Code.**
+
+**4.** Type `/` — your command is in the list. Run it.
+
+**Why a separate window:** installing a skill needs a restart, and restarting in here would have thrown away everything we built today.
+
+**Now you know how to do that for any job you repeat.** Build it, install it, type slash.

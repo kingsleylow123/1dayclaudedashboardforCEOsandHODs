@@ -2,84 +2,26 @@
 
 **Trigger:** "lesson 4"
 
-Display this lesson card:
-
 ```
-📍 LESSON 4 of 7 | Parallel AI Agents
-⏱️ 10 min
-🎯 Goal: Run multiple AI agents simultaneously
-🏆 Win: A full AI team producing real assets for your world
+📍 LESSON 4 of 6 | Parallel AI Agents
+⏱️ 8 min
+🎯 Goal: Stop doing one thing at a time
+🏆 Win: A team of agents producing real work for you
 ```
 
----
+> ⏱️ **PACE — 8 MINUTES.** No demo batch before their turn. Their mission IS the demo.
 
-**THE CONCEPT:**
+Then say:
 
-So far: one Claude.
+**One agent works like one assistant. Three agents work like a team.**
 
-One task at a time.
-
-**What if you had 5?**
-
-Not 5 tabs.
-
-Not 5 chats.
-
-**5 Claudes working simultaneously on different jobs.**
-
----
-
-**THE ANALOGY:**
-
-Most people are doing the work of multiple people — researching, writing, organizing, communicating.
-
-What if you had real help?
-
-Running in parallel.
-
-Right now.
-
-For free.
-
-One agent handles your core deliverables.
-
-One handles your communication or content.
-
-One handles your follow-up or outreach.
-
-All at once.
-
-**You just built yourself an AI team.**
-
----
-
-Tell me your context — or just confirm I still know it from Lesson 1.
-
-HARD GATE: wait for their confirmation or answer.
-
----
-
-**SHOW THEM ONE, FAST — then hand it over:**
-
-> ⏱️ **PACE: 10 MINUTES.** Do NOT run a full demo batch before their turn. One short illustration, then straight to their own mission. Their mission IS the demo.
-
-Say:
-
-**Here's the idea in 10 seconds.**
-
-One agent writes your update. A second finds what's blocked. A third drafts the chase messages.
-
-**All at the same time. Not one after the other.**
-
-You don't queue up three requests — you fire one and get three finished things back.
+You fire one instruction. Three finished things come back — at the same time, not in a queue.
 
 **Let's do it with your actual work.**
 
 ---
 
-**SHOW THEM THE ARCHITECTURE — draw it, don't describe it:**
-
-Display this diagram, with the agent names and the deliverables filled in from the mission THEY are about to pick (rebuild the labels every time — never show it generic):
+**📐 SHOW THE DIAGRAM** — fill the labels from the mission they're about to pick:
 
 ```
                     YOU
@@ -87,188 +29,93 @@ Display this diagram, with the agent names and the deliverables filled in from t
               "run multi-agents"
                      │
         ┌────────────┼────────────┐
-        │            │            │
         ▼            ▼            ▼
    ┌─────────┐  ┌─────────┐  ┌─────────┐
    │ AGENT 1 │  │ AGENT 2 │  │ AGENT 3 │
-   │─────────│  │─────────│  │─────────│
    │[what it]│  │[what it]│  │[what it]│
    │[  does ]│  │[  does ]│  │[  does ]│
    └────┬────┘  └────┬────┘  └────┬────┘
-        │            │            │
         └────────────┼────────────┘
                      ▼
-              ┌─────────────┐
-              │   MERGED    │
-              │   OUTPUT    │
-              └─────────────┘
-                     │
-                     ▼
-        [the 3 finished things they get]
+              MERGED OUTPUT
+        [the 3 finished things]
 
-   ⏱️  Sequential: 3 × wait  →  one after another
-   ⚡  Parallel:   1 × wait  →  all at the same time
+   ⏱️  Sequential: 3 × wait
+   ⚡  Parallel:   1 × wait
 ```
 
-Then say, pointing at it:
+**That bottom line is the whole lesson — three jobs, one wait.**
 
-**Left to right is what YOU do. Top to bottom is what happens.**
-
-You send one instruction. It splits into three. They work at the same time, not in a queue.
-
-**That bottom line is the whole lesson** — three jobs, one wait.
+**Type OK to continue.** HARD GATE.
 
 ---
 
-**THEIR TURN — HARD GATE:**
+**PICK A MISSION — build 3 from their Lesson 1 answers.** Each one line, their language, naming a real thing from their world.
 
-**COACH BEFORE YOU BUILD.** Do not offer a generic menu. Read their Lesson 1 answers — their role, their team, their tools, the thing they said they wanted most — and propose **3 missions THEY would genuinely run this week.**
+Shapes only:
+- Head of Ops → *"3 agents: this week's ops update, what's blocked and who's blocking it, the chase messages"*
+- Head of Finance → *"overdue-payment chasers, this month's variance, next month's cash outlook"*
+- CEO → *"one summary per department head, merged into your Monday board note"*
+- Head of Marketing → *"last campaign's verdict, next campaign's brief, 5 pieces of content"*
+- Head of HR → *"screen this stack of CVs, draft interview questions, offer + rejection templates"*
+- Founder → *"today's inbox triage, the proposal you keep postponing, this week's team update"*
+- Content creator → *"this week's posts, repurpose the best one 3 ways, the comment replies"*
+- Investor / trader → *"portfolio summary, what moved and why, this week's watchlist"*
+- E-commerce → *"restock list, slow-movers, the supplier emails"*
 
-Each option: one line, their language, and it must name a real thing from their world (their department, their team size, their actual deliverable).
+> 🚫 **SHAPES, NOT A MENU.** Not on the list? Build from their words. Never squeeze someone into a role here.
 
-The shape, never copied verbatim — always rebuilt from their answers:
-- Head of Ops → *"3 agents: one drafts this week's ops update, one lists what's blocked and who's blocking it, one writes the chase messages"*
-- Head of Finance → *"3 agents: overdue-payment chasers, this month's variance summary, next month's cash outlook"*
-- CEO → *"3 agents: one summary per department head, merged into your Monday board note"*
-- Head of Marketing → *"3 agents: last campaign's verdict, next campaign's brief, 5 pieces of content"*
-- Head of HR → *"3 agents: screen this stack of CVs, draft the interview questions, write the offer + rejection templates"*
-- Founder → *"3 agents: today's inbox triage, the proposal you keep postponing, this week's team update"*
+**Type 1, 2, 3 or 4 — or OK to move on.**
 
-**Beyond the exec seats — many people in the room are NOT department heads.** Equally valid:
-- Content creator / personal brand → their audience, posting cadence, what's performing
-- Investor / trader → portfolio, positions, allocation, watchlist
-- E-commerce / retail → orders, stock, returns, bestsellers
-- Property / real estate → listings, viewings, rental yield, tenant issues
-- Coach / trainer / educator → clients or students, sessions, progress, renewals
-- Consultant / freelancer → projects, hours, invoices, who owes what
-- Personal / life → money in-out, health, habits, family commitments
+HARD GATE. Then one steering question:
 
-> 🚫 **THIS IS A LIST OF SHAPES, NOT A MENU.** If their world isn't on it — and often it won't be — build from their own words. **Never squeeze someone into a role from this list.** A trader gets a portfolio view. A creator gets a content view. That's the whole point.
+Who's the audience for this — your team, your board, a client, yourself?
 
+(Or just type **OK** and I'll run it.)
 
-Then say:
+HARD GATE. Then run all three **IN PARALLEL** and deliver real, finished work — not outlines.
 
-Which one? **1, 2, or 3** — or **4** and tell me your own.
-
-HARD GATE: wait for their pick.
-
-Then ONE steering question before you run it:
-
-Perfect. One thing before I fire it off — who's the audience for this? (Your team, your board, a client, yourself?)
-
-HARD GATE: wait. Then run all three agents IN PARALLEL and deliver real, finished work — not outlines.
-
-> **HOW TO ACTUALLY RUN THEM:** launch the three agents in a single batch so they genuinely run at the same time — that's the whole point of the lesson. Each agent starts with NO memory of this conversation, so paste the relevant parts of their Lesson 1 profile (role, team, tools, audience) into EVERY agent's prompt. Skip that and they come back generic, which kills the lesson. Keep each agent's output tight — this is a 10-minute lesson, not three essays.
-
-Then execute the full mission for their choice. Label each agent clearly. Use their context throughout — no generic copy.
+> **HOW TO RUN THEM:** launch all three in a single batch so they genuinely run at once — that's the point of the lesson. Each agent starts with NO memory of this conversation, so paste the relevant parts of their Lesson 1 profile (role, team, tools, audience) into EVERY agent prompt. Skip that and they come back generic, which kills the lesson. Keep each output tight.
 
 ---
 
-**THE ONLY THING YOU ACTUALLY NEED TO REMEMBER:**
+**THE PHRASE THEY NEED — 30 seconds:**
 
-Then say:
+**You don't need a special command. You just ask.**
 
-**Here's the part most people overcomplicate.**
+> **"Run multi-agents to get this done."**
 
-You don't need a special command for this.
+Any job with separate parts that don't depend on each other. Three documents, one thing rewritten five ways, research on several competitors, one report per department.
 
-You don't need to configure anything.
+Not worth it when step 2 needs step 1's answer — that's just one job.
 
-**You just ask.**
-
-Literally type any of these:
-
-- **"Run multi-agents to get this done."**
-- **"Use multi-agents to do this."**
-- **"Run this with multiple agents in parallel."**
-- **"Spin up 3 agents — one for each of these."**
-
-That's it lah. That's the whole trick.
-
-I'll split the work, run the agents at the same time, and bring back everything together.
-
-**When should you say it?**
-
-Any time the job has separate parts that don't depend on each other:
-
-- Three different documents to write
-- The same thing rewritten for five channels
-- Research on several competitors at once
-- One report per department
-
-**When NOT to bother?**
-
-When step 2 needs the answer from step 1. That's just one job — let it run normally.
-
-**That's your homework tonight — one line, and you get a batch back.**
-
-Don't run it now, we've got a dashboard to build. Just remember the phrase.
+That's your homework tonight. Don't run it now, we've got a dashboard to build.
 
 ---
 
-**SAVE THEIR WORK:**
+**SAVE IT + SECOND SKILL:**
 
-Take everything the agents just produced in this lesson and write it to `~/Desktop/my-ai/agent-outputs.md`.
+Write everything the agents produced to `~/Desktop/my-ai/agent-outputs.md` — a heading per agent, the full output, a note at the top saying what the mission was.
 
-Format it clean: a heading per agent, the full output underneath, and a short note at the top saying what the mission was.
+**Do NOT open it** — they just watched it stream past. One line: **All three saved to `my-ai/agent-outputs.md` — nothing lost when you close this.**
 
-**Do NOT open this file** — they just watched all of it stream past. That was the reveal. One line only:
+Then turn the mission into a reusable skill at `~/Desktop/my-ai/skills/my-[mission-name]/SKILL.md` — same frontmatter format, short: name, description, the 3 agents and what each does, the audience they specified. Build it from what actually ran.
 
-**All three saved to `~/Desktop/my-ai/agent-outputs.md` — nothing lost when you close this window.**
+**That's skill number two. Next week you don't explain any of this again — you just run it.**
 
-**Type OK to continue.**
+Point at it in one line — name the specific thing from their answers you baked in. Don't open it; they've seen a skill file already.
 
-HARD GATE: wait.
-
----
-
-**TURN IT INTO A SECOND SKILL — they now have TWO:**
-
-Then say:
-
-**One more thing, and this is the sneaky-good bit.**
-
-That mission you just ran? You shouldn't have to describe it again next week.
-
-So I'm saving it as a skill too.
-
-Write `~/Desktop/my-ai/skills/my-[mission-name]/SKILL.md` — same frontmatter format as Lesson 2 — turning the mission they just ran into a reusable multi-agent command. Keep it SHORT: name, description, the 3 agents and what each does, and the audience they specified. Build it from what actually just ran, not a generic template.
-
-Then say:
-
-**Done. That's skill number two.**
-
-Point at it in one line — name the specific thing from THEIR answers you baked in: "notice it defaults to [their audience] and keeps it to [their format] — that's yours, not a template."
-
-Don't open it — they've already seen what a skill file looks like in Lesson 2. Just say where it is, then teach the shortcut once:
-
-**Any time you want one of these back, just say "open my skill files" — I'll find them for you.**
-
-Next week you don't explain any of this again — you just run it.
-
-**Two skills, and you've been here what, half an hour?**
+**Type OK to continue.** HARD GATE.
 
 ---
 
-💰 **VALUE MOMENT** (one line):
-
-**What those 3 agents just produced is a full day for a junior exec — RM2-3k a month of work. You did it in one prompt, while sitting here. 🔥**
-
----
-
-🧠 **QUIZ TIME** — run the QUIZ procedure from Section 1 now, on what they just learned in this lesson. Two questions, applied + diagnostic, HARD GATE, mark honestly.
+💰 **VALUE MOMENT:** **What those 3 agents produced is a full day for a junior exec — RM2-3k a month of work. You did it in one prompt. 🔥**
 
 ---
 
 🎓 LESSON 4 COMPLETE
 
-✅ Parallel agents — demonstrated
-
-✅ "Run multi-agents to get this done" — your new default
-
-✅ Your assets — delivered and saved
-
-✅ Skill #2 — built from the mission you just ran
+✅ Parallel agents — demonstrated  ✅ "Run multi-agents to get this done" — your new default  ✅ Skill #2 — built
 
 **Type `/lesson5` to continue 🔥**
 

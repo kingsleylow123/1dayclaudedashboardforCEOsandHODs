@@ -2,43 +2,28 @@
 
 **Trigger:** "lesson 5"
 
-Display this lesson card:
-
 ```
-📍 LESSON 5 of 7 | Your 8AM Morning Brief
-⏱️ 8 min
-🎯 Goal: One routine that runs every morning before you start
-🏆 Win: You wake up to a brief instead of a blank screen
+📍 LESSON 5 of 6 | Your 8AM Morning Brief
+⏱️ 7 min
+🎯 Goal: One routine that runs before you start
+🏆 Win: You wake up to a brief, not a blank screen
 ```
-
----
-
-**THE SETUP:**
 
 Then say:
 
 **Everything you've built so far still needs YOU to open it.**
 
-Your AI Brain. Your skills. Your agents.
-
-They're powerful — but they sit there until you type something.
-
-**Let's fix that.**
-
-The best operators don't start their day deciding what to look at.
-
-They start it reading something that's already waiting for them.
+The best operators don't start the day deciding what to look at. They start it reading something already waiting.
 
 **We build yours now — and next lesson it gets a dashboard to sit on top of.**
 
 ---
 
-**📐 DRAW WHAT 8AM LOOKS LIKE:**
+**📐 SHOW THE DIAGRAM** — rebuild the middle boxes from THEIR tools:
 
 ```
-   8:00 AM  ───  routine fires (you're still asleep)
+   8:00 AM  ───  runs (you're still asleep)
                         │
-                        ▼
               reads your AI Brain
                         │
          ┌──────────────┼──────────────┐
@@ -51,235 +36,130 @@ They start it reading something that's already waiting for them.
         │  •  4 meetings, 2 back-to-back│
         │  •  3 replies waiting on you  │
         │  •  [their key number]        │
-        │                               │
         │  Your one thing today: ____   │
         └───────────────────────────────┘
                         ▼
-          Waiting for you before
-          you even sit down ☕
+          Waiting before you sit down ☕
 ```
 
-Rebuild the middle boxes from THEIR tools and THEIR numbers.
-
-Then say:
-
-**You don't start the day deciding what to look at.**
-
-**You start it reading.**
-
-**Type OK to continue.**
-
-HARD GATE: wait.
+**Type OK to continue.** HARD GATE.
 
 ---
 
-**PICK THEIR ROUTINE:**
+**PICK THEIR ROUTINE — 3 built from their Lesson 1 answers**, one line each. Match the altitude (see AUDIENCE RULE). Shapes:
+CEO → what moved, what's stuck, what needs a decision · Sales → pipeline changes overnight, deals gone quiet · Ops → what's behind, what's blocked, who's waiting · Finance → cash, invoices due, anything unusual · Marketing → yesterday's performance, what to double down on · HR → interviews today, pending approvals · Owner → who owes you, who's waiting on you, today's one big thing · Creator → what's performing, what to post · Trader → overnight moves, watchlist · Teacher → today's classes, what's ungraded, parent messages
 
-Look at everything they told you in Lesson 1 — their role, their team, their tools, their priorities — and propose **3 morning routines that would genuinely matter to them.**
+> 🚫 **SHAPES, NOT A MENU.** Not listed? Build from their words.
 
-Do not use a generic list. Build all 3 from their actual world.
-
-Match the altitude to their profile, using the AUDIENCE RULE in Section 1:
-- CEO → cross-department snapshot: what moved, what's stuck, what needs a decision today
-- Head of Sales → pipeline changes overnight, deals gone quiet, today's top 3 to chase
-- Head of Ops → what's behind schedule, what's blocked, who's waiting on whom
-- Head of Finance → cash position, invoices due, anything unusual in yesterday's numbers
-- Head of Marketing → yesterday's campaign performance, what to double down on
-- Head of HR → interviews today, pending approvals, team items needing a reply
-- Owner / freelancer → who owes you money, who's waiting on you, today's one big thing
-- Teacher → today's classes, what's ungraded, parent messages waiting
-
-**Beyond the exec seats — many people in the room are NOT department heads.** Equally valid:
-- Content creator / personal brand → their audience, posting cadence, what's performing
-- Investor / trader → portfolio, positions, allocation, watchlist
-- E-commerce / retail → orders, stock, returns, bestsellers
-- Property / real estate → listings, viewings, rental yield, tenant issues
-- Coach / trainer / educator → clients or students, sessions, progress, renewals
-- Consultant / freelancer → projects, hours, invoices, who owes what
-- Personal / life → money in-out, health, habits, family commitments
-
-> 🚫 **THIS IS A LIST OF SHAPES, NOT A MENU.** If their world isn't on it — and often it won't be — build from their own words. **Never squeeze someone into a role from this list.** A trader gets a portfolio view. A creator gets a content view. That's the whole point.
-
-
-Present the 3 as A, B, C — each described in ONE line, in their language.
-
-Then say:
-
-Which one do you want running every morning?
-
-Type A, B, or C — or D to describe your own.
-
-HARD GATE: wait for their pick.
+**Type 1, 2, 3 or 4 — or OK to move on.** HARD GATE.
 
 ---
 
-**BUILD IT:**
-
-Now write their chosen routine to `~/Desktop/my-ai/skills/daily-brief/SKILL.md` — same skills folder as everything else they built today, so it behaves like a real skill when they activate it at home. Also mention it sits alongside their other two skills.
-
-The file must contain a real, runnable prompt — not a description of one. Structure it like this:
+**BUILD IT:** write their routine to `~/Desktop/my-ai/skills/daily-brief/SKILL.md` — same skills folder as everything else, so it behaves like a real skill:
 
 ```
 ---
 name: daily-brief
-description: My 8am morning brief — run this at the start of every day.
+description: My 8am morning brief — run at the start of every day.
 ---
-
 # My 8AM Morning Brief
-
-## What I want to see every morning
-[their chosen routine, written as clear instructions to Claude]
-
+## What I want to see
+[their chosen routine, as clear instructions]
 ## How to present it
 - Lead with the single most important thing
-- Maximum 5 bullets, shortest first
-- Flag anything that needs a decision from me with ⚠️
+- Max 5 bullets, shortest first
+- Flag anything needing my decision with ⚠️
 - End with: "Your one thing today: ___"
-
 ## My context
-[pull the key facts from their AI Brain — role, team, priorities, tools]
+[key facts from their AI Brain — role, team, priorities, tools]
 ```
 
-Fill every section with their real details. No placeholders.
+Every section filled with their real details. No placeholders.
 
 ---
 
-**RUN IT LIVE — this is the proof, not the file:**
+**RUN IT LIVE — this is the proof, not the file.**
 
-**Do NOT open the brief file.** Reading a prompt teaches nothing. Instead, run it right now so they see tomorrow morning, today.
+**Do NOT open the brief file.** Reading a prompt teaches nothing. Run it now so they see tomorrow morning, today.
 
-Say:
+Say: **Saved. Now let's see it — this is what lands in front of you at 8am.**
 
-**Saved. Now let's see it — this is what lands in front of you at 8am.**
-
-Then actually run their brief: pull what you can from their connected tools, apply their chosen routine, and output the real thing — properly formatted, their real numbers, ⚠️ on anything needing a decision, ending with "Your one thing today: ___".
-
-Keep it tight. This should look exactly like the diagram you drew earlier.
-
-Then say:
+Then actually run their brief: pull what you can from their connected tools, apply their routine, output the real thing — their real numbers, ⚠️ on anything needing a decision, ending with "Your one thing today: ___". It should look exactly like the diagram.
 
 **That's tomorrow morning. Waiting for you before you sit down.**
 
-**Type OK to continue.**
-
-HARD GATE: wait.
+**Type OK to continue.** HARD GATE.
 
 ---
 
-**NOW MAKE IT AUTOMATIC — SCHEDULED TASK:**
+**MAKE IT AUTOMATIC — SCHEDULED TASK:**
 
-Then say:
+> **THE WIN IS ALREADY BANKED.** They have a working brief. Scheduling is a bonus. Whichever option they land on, treat it as complete success — never a downgrade.
 
-**You've already got the win — the brief works. Now let's make it turn up on its own.**
+**You've got the brief. Now let's make it turn up on its own.**
 
-> **THE WIN IS ALREADY BANKED.** They have a working morning brief. Scheduling is a bonus. Whichever tier they land on, treat it as a complete success — never as a downgrade. Nobody leaves feeling they got the broken version.
-
-**Three ways to do this. Take whichever your Claude Code supports — they all end the same way.**
-
-**Look at the left sidebar** — is there a **Scheduled Tasks** panel?
+**Look at the left sidebar — is there a Scheduled Tasks panel?**
 
 **Type OK if you see one, NO if you don't.**
 
-HARD GATE: wait. Do not debug their UI live. Route on their answer:
-- **YES** → Tier A below.
-- **NO** → still give them the paste block below (they'll need it), then jump to Tier B and skip Tier A's three steps entirely. Say: **"No problem lah — yours does it a slightly different way, works just as well."** Never make it sound like they're missing out.
+HARD GATE. Never debug their UI live.
+- **OK** → Option A.
+- **NO** → **"No problem lah — yours does it a slightly different way, works just as well."** Skip to Option B, but still give them the text block below.
 
 ---
 
-**GIVE THEM THE EXACT TEXT TO PASTE — everyone gets this, whichever tier they're on:**
+**THE TEXT TO PASTE — everyone gets this, whichever option:**
 
-Now write them a complete, ready-to-paste routine prompt — built from their role, their tools and the routine they just picked. Not a template. Their actual one.
-
-Print it in a fenced code block so it's one clean copy, and keep it tight — 6-10 lines, not an essay:
+Write them a ready-to-paste routine prompt from their role, tools and chosen routine. **Plain English only — no file paths, no code, nothing technical.** They're pasting this into a box, not writing a script. 6-10 lines:
 
 ```
-Read my AI Brain at ~/Desktop/my-ai/CLAUDE.md, then give me my morning brief.
+Every morning, give me my brief.
 
-[Their chosen routine, written as clear instructions — e.g.
-"Check my calendar for today and tomorrow. Check my inbox for anything
-from a client that hasn't been replied to. Check [their tool] for
-[their key number]."]
+Check my calendar for today and tomorrow.
+Check my inbox for anything from a client I haven't replied to.
+Check [their tool] for [their key number].
 
-Rules:
-- Lead with the single most important thing
-- Maximum 5 bullets, shortest first
-- Flag anything needing my decision with ⚠️
-- End with: "Your one thing today: ___"
+Lead with the most important thing.
+Maximum 5 bullets, shortest first.
+Flag anything that needs my decision with a warning sign.
+End with: "Your one thing today: ___"
 ```
 
-Then walk them through it, one step at a time, waiting between each:
+**OPTION A — SCHEDULED TASK**
 
-**TIER A — SCHEDULED TASK**
+**1. Copy that block.** (Type OK when you've got it.) HARD GATE.
+**2. In Scheduled Tasks, create a new task and paste it in.** (Type OK when it's in.) HARD GATE.
+**3. Set it to run daily at 8:00am and save.** HARD GATE.
 
-**1. Copy that whole block.** (Type OK when you've got it.)
+> 🚫 **NEVER** write a crontab entry, launchd plist, systemd timer, login item, or edit any system or shell config to schedule this — **and never create the scheduled task on their behalf with a tool, even if one is available.** Walk them through the panel, or use one of the options below. Those are the only acceptable paths.
 
-HARD GATE: wait.
+**OPTION B — ONE COMMAND EACH MORNING** (works on every version)
 
-**2. In Scheduled Tasks, create a new task and paste it in.** (Type OK when it's in.)
+Tomorrow you type one thing: **"run my morning brief"**. Same brief, three seconds.
 
-HARD GATE: wait.
+**OPTION C — PHONE REMINDER** (do this either way)
 
-**3. Set it to run daily at 8:00am, and save.**
-
-HARD GATE: wait for confirmation.
-
-Then confirm what actually happened — and be honest about which path they ended on:
-
-Say the TRUE one, never both:
-- **Tier A:** **"Done — that runs tomorrow at 8am without you touching anything."** ☕
-- **Tier B/C:** **"Done — tomorrow you type one line and it's there in three seconds."** ☕
+Recurring 8am reminder: *"Open Claude → run my morning brief."* Ten seconds to set, and honestly the most reliable — your phone never misses.
 
 ---
 
-> 🚫 **NEVER** write a crontab entry, launchd plist, systemd timer, login item, or edit any system or shell config file to schedule this — **and never create the scheduled task on their behalf with a tool, even if one is available.** Walk them through the panel so they do it themselves, or fall back to the one-command habit or the phone reminder. Those three tiers are the only acceptable paths — and Tier B or C is a perfectly good outcome, not a failure.
+Then say the TRUE one, never both:
+- **Option A:** **"Done — that runs tomorrow at 8am without you touching anything."** ☕
+- **Option B/C:** **"Done — tomorrow you type one line and it's there in three seconds."** ☕
 
-**TIER B — ONE COMMAND EACH MORNING (works on every version):**
+**Notice what happened: *you* set that up. You described what you wanted and put it somewhere it runs.**
 
-Your brief is saved as a skill. So tomorrow you type one thing:
-
-> **"run my morning brief"**
-
-That's it. Same brief, same numbers, three seconds.
-
-**TIER C — PHONE REMINDER (belt and braces, do this either way):**
-
-Set a recurring 8am reminder on your phone: **"Open Claude → run my morning brief."**
-
-Ten seconds. Honestly the most reliable one on this list — your phone never misses.
+**Type OK to continue.** HARD GATE.
 
 ---
 
-Then say:
-
-**Notice what just happened.**
-
-*You* set that up — not me. You described what you wanted and put it somewhere it runs on its own.
-
-That's the whole pattern from here.
-
-**Type OK to continue.**
-
-HARD GATE: wait.
-
----
-
-💰 **VALUE MOMENT** (one line):
-
-**An EA preparing your morning brief every day is RM3-4k a month. Yours is written and ready to fire. 🔥**
-
----
-
-🧠 **QUIZ TIME** — run the QUIZ procedure from Section 1 now, on what they just learned in this lesson. Two questions, applied + diagnostic, HARD GATE, mark honestly.
+💰 **VALUE MOMENT:** **An EA preparing your morning brief every day is RM3-4k a month. Yours is written and ready to fire. 🔥**
 
 ---
 
 🎓 LESSON 5 COMPLETE
 
-✅ Your morning routine — chosen
-
-✅ `skills/daily-brief/SKILL.md` — written and saved
-
-✅ 8am — [say "scheduled" ONLY if a real scheduled task was created; if they're using the phone reminder, say "phone reminder set" instead. Never claim something is running automatically when it isn't.]
+✅ Your routine — chosen  ✅ Brief — written and run live  ✅ 8am — [say the TRUE one: "scheduled" / "phone reminder set" / "one command away". Never claim automation that isn't there.]
 
 **Type `/lesson6` to continue 🔥**
 

@@ -2,374 +2,141 @@
 
 **Trigger:** "lesson 2"
 
-Display this lesson card:
-
 ```
-📍 LESSON 2 of 7 | Build Your First Skill
-⏱️ 11 min
-🎯 Goal: Build a custom skill from scratch
-🏆 Win: YOUR first custom skill — built for how you actually work
+📍 LESSON 2 of 6 | Build Your First Skill
+⏱️ 9 min
+🎯 Goal: Turn a job you repeat into one command
+🏆 Win: YOUR first custom skill
 ```
 
----
+Then say:
 
-**🤯 THE AWESOME PART:**
+**A skill is a job you do over and over, written down once.**
 
-I need you to notice something before we build anything.
-
-These lesson prompts you've been using?
-
-**Those are skills.**
-
-Every time you type one, Claude loads instructions and follows them.
-
-The voice I'm talking in right now.
-
-The specific steps.
-
-The format.
-
-The gates.
-
-All of it — because someone wrote instructions in plain English that say "do this, say this, wait here."
-
-**That's a skill. You've been inside one this ENTIRE workshop and didn't even know it. 😂**
-
-Skills = instructions written in plain English.
-
-No code.
-
-No programming.
-
-Just: here's what to do, here's how to do it, here are the rules.
-
-That's it. That's the whole thing.
+After that you stop explaining it. You just trigger it.
 
 ---
 
-**SKILL ANATOMY:**
-
-Let me show you what's under the hood.
-
-Every skill has 3 parts:
-
-**Part 1 — What it does.**
-
-One line. The job. "This skill does [specific task] for [their context]."
-
-**Part 2 — The steps.**
-
-Plain English instructions. "Ask for X. Do Y. Output Z."
-
-Nothing fancy.
-
-**Part 3 — The rules.**
-
-Tone, guardrails, always/never. How to behave consistently every time.
-
-That's it.
-
-One skill, one job, three parts.
-
----
-
-**📐 DRAW THE DIFFERENCE FIRST:**
+**📐 SHOW THE DIAGRAM:**
 
 ```
    WITHOUT A SKILL                WITH YOUR SKILL
    ───────────────                ───────────────
 
-   You type 200 words             You type:  /my-[skill]
-   explaining the job                          │
-          │                                    ▼
-          ▼                          ┌──────────────────┐
-   Claude guesses the               │   SKILL.md        │
-   format, tone, length             │   ├ what it does  │
-          │                          │   ├ the steps    │
-          ▼                          │   └ the rules    │
-   Different answer                  └────────┬─────────┘
-   every single time                          ▼
-                                     Same standard. Every time.
-
-   Once. Then forever.
+   You type 200 words             You trigger it
+   explaining the job                      │
+          │                                ▼
+          ▼                      ┌──────────────────┐
+   Claude guesses the            │   SKILL.md       │
+   format, tone, length          │   ├ what it does │
+          │                      │   ├ the steps    │
+          ▼                      │   └ the rules    │
+   Different answer              └────────┬─────────┘
+   every time                             ▼
+                                 Same standard. Every time.
 ```
 
-Then say:
-
-**The skill file is just your instructions, written down once.**
-
-You stop explaining. You start triggering.
-
-**Type OK to continue.**
-
-HARD GATE: wait.
+**Type OK to continue.** HARD GATE.
 
 ---
 
-**BUILD THEIR FIRST SKILL:**
+**PICK ONE — build 3 from their Lesson 1 answers, one line each, their language.**
 
-Now we're building yours.
-
-**COACH BEFORE YOU BUILD — offer them 3, built from Lesson 1:**
-
-Don't ask an open question — they'll freeze. Read their Lesson 1 answers and propose **3 specific skills THEY would actually use every week**, each in one line, in their language.
-
-Pitch at their altitude (see the AUDIENCE RULE). Examples of the shape — never copy these verbatim, always rebuild from their real answers:
-- CEO → **/my-weekly-review** (turn scattered updates into one board-ready summary)
-- Head of Ops → **/my-daily-standup** (what's blocked, who's waiting, what ships today)
-- Head of Finance → **/my-payment-chaser** (draft the follow-up for every overdue invoice)
+Shapes only, never copy verbatim:
+- CEO → **/my-weekly-review** (scattered updates → one board-ready summary)
+- Head of Ops → **/my-daily-standup** (what's blocked, who's waiting, what ships)
+- Head of Finance → **/my-payment-chaser** (follow-up for every overdue invoice)
 - Head of Sales → **/my-deal-brief** (one-page prep before any client meeting)
 - Head of Marketing → **/my-campaign-recap** (numbers in, plain-English verdict out)
-- Head of HR → **/my-candidate-screen** (CV in, structured shortlist verdict out)
-- Founder wearing every hat → **/my-inbox-triage** (what actually needs YOU today)
+- Head of HR → **/my-candidate-screen** (CV in, shortlist verdict out)
+- Founder → **/my-inbox-triage** (what actually needs YOU today)
 
-**Beyond the exec seats — many people in the room are NOT department heads.** Equally valid:
-- Content creator / personal brand → their audience, posting cadence, what's performing
+**Beyond exec seats — many won't be department heads:**
+- Content creator → their audience, posting cadence, what's performing
 - Investor / trader → portfolio, positions, allocation, watchlist
-- E-commerce / retail → orders, stock, returns, bestsellers
-- Property / real estate → listings, viewings, rental yield, tenant issues
-- Coach / trainer / educator → clients or students, sessions, progress, renewals
+- E-commerce → orders, stock, returns, bestsellers
+- Property → listings, viewings, yield, tenant issues
+- Coach / trainer → clients, sessions, progress, renewals
 - Consultant / freelancer → projects, hours, invoices, who owes what
-- Personal / life → money in-out, health, habits, family commitments
+- Personal → money in-out, health, habits, family
 
-> 🚫 **THIS IS A LIST OF SHAPES, NOT A MENU.** If their world isn't on it — and often it won't be — build from their own words. **Never squeeze someone into a role from this list.** A trader gets a portfolio view. A creator gets a content view. That's the whole point.
+> 🚫 **SHAPES, NOT A MENU.** If their world isn't listed — and often it won't be — build from their words. **Never squeeze someone into a role from this list.**
 
+**Type 1, 2, 3 or 4 — or OK to move on.**
 
-Then say:
+HARD GATE. Then ONE steering question:
 
-Which one do you want? **1, 2, or 3** — or **4** and tell me something better.
-
-HARD GATE: wait for their pick.
-
-Then ONE steering question before you build — this is what makes it theirs:
-
-Got it. Before I build — anything specific it must always do or never do?
+Before I build — anything it must always do, or never do?
 
 (Or just type **OK** and I'll build it — no wrong answer here.)
 
-(Like: always keep it under 5 bullets. Never mention pricing. Always end with a next step.)
+HARD GATE. OK / yes / "just build it" → build immediately, no push-back.
 
-HARD GATE: wait. OK / yes / "just build it" → build immediately, no push-back.
+---
 
-Now build the complete skill using everything from Lesson 1 plus their steering answer. The format stays the same (WHAT IT DOES / THE STEPS / THE RULES) but every line must fit their reality.
-
-Format it like this:
-
-```
-/my-[skill-name] — [Skill Name] for [Their Context]
-
-WHAT IT DOES:
-[One sentence describing exactly what this skill does for them]
-
-THE STEPS:
-1. [First step — what to input or paste]
-2. [What Claude does with it]
-3. [Output format and what it produces]
-4. [Any follow-up action]
-
-RULES:
-- Always use [their communication style]
-- [Guardrail specific to their context]
-- Keep outputs under [appropriate length]
-- Output should be copy-paste ready
-```
-
-Then say:
-
-**That's your skill.**
-
-But we're not copy-pasting this into Notes.
-
-We're writing it as a real file — right now.
-
-Write a file to `~/Desktop/my-ai/skills/my-[skill-name]/SKILL.md` (their own plain folder, right next to their AI Brain) using the skill name from their build. If they chose a different location in Lesson 1, use that same base instead. The file must have this exact frontmatter at the top:
+**BUILD IT:** write `~/Desktop/my-ai/skills/my-[skill-name]/SKILL.md`:
 
 ```
 ---
 name: my-[skill-name]
-description: [one line — what it does and WHEN Claude should use it]
+description: [one line — what it does and when to use it]
 ---
-[the full skill instructions and rules]
+[the steps and the rules, from their answers]
 ```
 
-Use the actual skill name and description from what was just built for them.
-
-Then say:
-
-**That's a real, working skill file — yours to keep.**
-
-A skill is just a file with a `description` at the top.
-
-Claude reads that description and runs it automatically when it's relevant.
-
-You don't even have to ask — you just describe the job in plain English and Claude knows to load it. (Use the actual trigger phrase from the skill you just built them.)
-
-That's what we just built you: a reusable command you can run forever.
-
-**It's saved in your `my-ai/skills` folder** — on your Desktop, yours forever.
-
----
-
-**SHOW THEM THE FILE:**
-
-Open their new skill for about 20 seconds — just long enough to see that a skill is only written instructions — then close the topic and RUN it. The run is the real proof.
-
-The file is `~/Desktop/my-ai/skills/my-[skill-name]/SKILL.md`.
-
-Say:
+Then **open it** (open-moment 2 of 3), ~20 seconds only:
 
 **Want me to open it so you can see your skill as a real file?**
 
-> **IF YOU BUILT MORE THAN ONE SKILL** (some people will want all three options): open **ONE** of them only — the file-open budget is four for the whole workshop. Name the others in a single line each so they know which is which.
-
-HARD GATE: wait for yes or no. On yes, open it in TextEdit (Mac) / Notepad (Windows) per the SHOW THE FILE rule, and give them the one-line "plain text is normal" reassurance.
-
-Once it's open, keep it to ~20 seconds. Say: **"See — that's all a skill is. Instructions, written down once."** Then POINT AT THEIR WORDS — the beat that makes it theirs. Name 2 specific things you pulled from their answers: "see how it defaults to [their audience]? And it always ends with [the thing they asked for]? That's yours." Then one line on the `name`/`description` and move on. No lecture.
+HARD GATE. On yes, open it. Then: **"See — that's all a skill is. Instructions, written down once."** Then POINT AT THEIR WORDS — 2 specific things you pulled from their answers. That's the beat that makes it theirs.
 
 ---
 
-**TEACH THEM THE SLASH MENU — 60 seconds, don't overrun:**
+**NOW RUN IT — this is the proof:**
 
-Then say:
+> Their skill lives in `~/Desktop/my-ai/skills/`, which Claude Code does NOT auto-load. So `/my-[skill-name]` will NOT work in this session — **do not tell them to try it.** They invoke it by name, which is a genuine skill run: you read their SKILL.md and follow it exactly.
 
-**You typed `/lesson2` to get here.**
+Say: **Type this — "Use my [skill-name] skill on this: [paste something real from your work]"**
 
-Here's what that `/` actually is.
+Real beats made-up.
 
-**Type a single `/` where you'd normally type a message.**
+HARD GATE. Then read their SKILL.md and follow it to the letter — their steps, their rules, their format. It must visibly obey the skill they wrote.
 
-(On the desktop app you can also click the `+` button next to the input and choose "Slash commands" — same list either way.)
+Then: **Notice what you didn't do. You didn't explain the format, the tone, or who it's for. You wrote that down once — now it just happens.**
 
-Go on — try it.
-
-HARD GATE: wait for them to look. If they can't find it, don't debug it — say "no stress, you'll see it at home" and move on. This is a 60-second beat, not a support ticket.
-
-Then say:
-
-**That's every command Claude Code already has, sitting there waiting.**
-
-Try `/help` or `/compact` sometime — but the real power is that YOUR skills show up in that same list.
-
-Right now yours lives on your Desktop, which is exactly where we want it during a workshop — nothing touching your settings.
-
-**WHY YOUR SKILL ISN'T IN THAT LIST — 30 seconds, be straight about it:**
-
-Say:
-
-**Notice yours isn't in there yet.**
-
-That's on purpose. Yours is saved in your `my-ai` folder, where you can see it and edit it — not buried in Claude's settings.
-
-**That's exactly what we want during a workshop.** Nothing touching your setup, nothing to undo later.
-
-So today you run it by name. And at the end, if you want it, I'll show you the 3-minute version that puts it in that list permanently.
+**Type OK to continue.** HARD GATE.
 
 ---
 
-**TEACH THE ANATOMY — 30 seconds:**
+**WHY IT'S NOT IN THE `/` MENU — 20 seconds:**
 
-Say:
+**Type a single `/` where you'd normally type.**
 
-**Here's the whole thing, and it's simpler than you'd think:**
+Yours isn't in there yet — on purpose. It's in your `my-ai` folder where you can see and edit it, not buried in settings.
 
-(Swap `my-weekly-review` for THEIR actual skill name before showing this.)
+At the end, if you want it, I'll show you the 3-minute version that puts it in that list permanently.
 
-```
-   my-ai / skills / my-weekly-review / SKILL.md
-                          ▲               ▲
-                    the command        the file
-                       name
-
-   Inside SKILL.md:
-   ┌──────────────────────────────────────┐
-   │ ---                                  │
-   │ description: "what it does"  ← tooltip│
-   │ ---                                  │
-   │ [your instructions]          ← the job│
-   └──────────────────────────────────────┘
-```
-
-**A folder, and a file with your instructions in it. That's a skill.**
-
-The `description` line is the clever bit — that's how Claude knows when to reach for it.
-
-**You now know how to build these. Any job you repeat, you can turn into one.**
-
-**Type OK to continue.**
-
-HARD GATE: wait.
+**Type OK to continue.** HARD GATE.
 
 ---
 
-**AND THE SHORTCUT THEY'LL USE MOST:**
+**THE SHORTCUT THEY'LL USE MOST:**
 
-**One more, then we move.**
-
-You never have to go hunting for files. Just ask me:
-
-- **"open my AI Brain"**
-- **"open my skill file"**
-- **"open my dashboard"** (later today)
+You never have to hunt for files. Just ask: **"open my AI Brain"**, **"open my skill file"**, **"open my dashboard"** (later today).
 
 Try it — type **"open my AI Brain"**.
 
-HARD GATE: wait for them to try it. **Do NOT actually open it** — they saw it in Lesson 1 and that's open-moment #1 of four, already spent. Just say: **"That's the shortcut — say that any time and I'll find the file for you."**
-
-Then say:
-
-**See? Never remember a file path again.**
+HARD GATE. **Do NOT actually open it** — that was open-moment 1, already spent. Say: **"That's the shortcut — say that any time and I'll find the file for you."**
 
 ---
 
-**Now RUN it — this is the bit that matters.**
-
-> **HOW A SKILL ACTUALLY GETS USED TODAY:** their skill lives in `~/Desktop/my-ai/skills/`, which Claude Code does not auto-load. So `/my-[skill-name]` will NOT work in this session — do not tell them to try it, and do not let them think it's broken. **Instead they invoke it by name**, which works perfectly and is a genuine skill run: you read their SKILL.md and follow it exactly.
-
-Say:
-
-**Type this:**
-
-> **"Use my [skill-name] skill on this: [then paste something real]"**
-
-Give me something actual from your work — an email, a few bullet points, a mess of notes. Real beats made-up.
-
-HARD GATE: wait for them to run it.
-
-Now read their `SKILL.md` and follow it to the letter — their steps, their rules, their format. This must visibly obey the skill they wrote, not just be a good answer.
-
-Then point at what happened:
-
-**Notice what you didn't have to do.**
-
-You didn't explain the format. You didn't explain the tone. You didn't explain who it's for.
-
-**You wrote that down once. Now it just happens.**
-
-Point out 1-2 things they could tweak to make it sharper. Then:
-
-**Type OK to continue.**
-
-HARD GATE: wait.
-
----
-
-💰 **VALUE MOMENT** (one line):
-
-**That's a process an admin or VA does manually every week — RM2-3k a month. You just automated it in 8 minutes. 🔥**
-
----
-
-🧠 **QUIZ TIME** — run the QUIZ procedure from Section 1 now, on what they just learned in this lesson. Two questions, applied + diagnostic, HARD GATE, mark honestly.
+💰 **VALUE MOMENT:** **That's a process an admin does manually every week — RM2-3k a month. You automated it in 9 minutes. 🔥**
 
 ---
 
 🎓 LESSON 2 COMPLETE
 
-✅ Skill anatomy — understood
-
-✅ /my-[skill] — BUILT
-
-✅ Your skill file — saved in `my-ai/skills`, ready to run by name
+✅ Skill anatomy — understood  ✅ Your skill — BUILT and run  ✅ Saved in `my-ai/skills`
 
 **Type `/lesson3` to continue 🔥**
 
