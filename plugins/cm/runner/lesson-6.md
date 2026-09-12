@@ -88,7 +88,34 @@ Check which connectors you can ACTUALLY reach (look at your own available tools 
 - A pull fails or is empty → move on silently.
 - **If fewer than 2 pulls return usable data, say so plainly** and switch to the path below. **NEVER invent a number to fill a tile.**
 
-**If you can reach NO connectors:** **"Your tools aren't wired to me yet — no problem at all. Give me your 3 key numbers and I'll build around those. Connect them tonight and I'll pull them in automatically."** HARD GATE.
+**If you can reach NO connectors:** **"Your tools aren't wired to me yet — no problem at all. Connect them tonight and I'll pull them in automatically. For now, give me your numbers directly."**
+
+---
+
+**ASK FOR THEIR OWN DATA — everyone, connectors or not. This is what makes it their business and not their inbox.**
+
+Connectors give you email and calendar. **The numbers that actually run their business are almost always in a spreadsheet.** Ask for it:
+
+**Got a spreadsheet with your real numbers? Let's put those on here.**
+
+Three ways — whichever is easiest:
+
+**1.** Drag the file straight into this chat — Excel, CSV, Numbers, anything.
+**2.** Open your sheet, select the rows that matter, copy, and paste them here. Messy is fine.
+**3.** Or just type the numbers at me. *"Revenue 180k, target 250k, 14 deals open, 3 closed this month."*
+
+**No spreadsheet? No stress** — tell me your 5 numbers from Lesson 1 and we build from those.
+
+HARD GATE: wait. Accept ANY of it — a pasted table, a dragged file, a sentence, or nothing.
+
+Then:
+- **Pasted or dragged data** → read it properly. Work out what each column actually is. If something's ambiguous, ask ONE question — never guess at what a column means and never silently drop rows you didn't understand.
+- **Typed numbers** → use them as given, tagged `yours`.
+- **Nothing** → build from their Lesson 1 answers and say so honestly.
+
+Say back what you found in one line so they can correct you: **"Got it — 14 rows, looks like [X] by [Y], running [date range]. Right?"**
+
+**Type OK to continue.** HARD GATE.
 
 ---
 
@@ -99,7 +126,7 @@ Check which connectors you can ACTUALLY reach (look at your own available tools 
 **This is the thing you just learned, doing the thing you came for.** 👀
 
 Launch three in parallel, each with their full Lesson 1 profile pasted in (subagents have no memory of this conversation):
-- **DATA** — every derived metric from the figures you pulled: deltas, run-rate, progress to target, what's needed to close the gap, a forecast series. Tag each `live` or `yours`. Never invent.
+- **DATA** — every derived metric from **everything you have**: the connector pulls AND their spreadsheet/pasted numbers. Deltas, run-rate, progress to target, what's needed to close the gap, a forecast series. **Their own data is the headline — it outranks inbox and calendar every time.** Tag each `live` (connector), `yours` (they gave it), or `from your sheet`. Never invent.
 - **VISUALS** — the charts and layout, hand-rolled inline SVG/CSS.
 - **INTERACTIVE** — the vanilla JS for anything that moves.
 
@@ -117,7 +144,7 @@ Write it **directly to `~/Desktop/my-ai/build/index.html`** with your Write tool
 
 **The only hard rules:**
 - 🚫 **DO NOT print the HTML in chat.** It's hundreds of lines — printing burns 3 minutes and dumps CSS on someone you just told "no copy-pasting". Write the file, then open it.
-- **Every number is real** — pulled, or given by them. **Never invent one.** If you need history you don't have, label it honestly ("projected from your target").
+- **Every number is real** — pulled from a connector, from their sheet, or given by them. **Never invent one.** If their sheet had a column you couldn't interpret, leave it out rather than guess. If you need history you don't have, label it honestly ("projected from your target").
 - Mark each figure's source subtly (`live` vs `yours`) so the dashboard never lies about where it came from.
 - **Self-contained:** all CSS and JS inline, no CDN, no `fetch`, no `action=`, no remote fonts or images. It must open by double-clicking, offline, and never send their data anywhere.
 - A timestamp: "Live data as of [time], [date]", plus their name and department.

@@ -92,25 +92,13 @@ Then actually run their brief: pull what you can from their connected tools, app
 
 ---
 
-**MAKE IT AUTOMATIC — SCHEDULED TASK:**
-
-> **THE WIN IS ALREADY BANKED.** They have a working brief. Scheduling is a bonus. Whichever option they land on, treat it as complete success — never a downgrade.
+**MAKE IT AUTOMATIC — one copy-paste:**
 
 **You've got the brief. Now let's make it turn up on its own.**
 
-**Look at the left sidebar — is there a Scheduled Tasks panel?**
+**Here's your text — copy this:**
 
-**Type OK if you see one, NO if you don't.**
-
-HARD GATE. Never debug their UI live.
-- **OK** → Option A.
-- **NO** → **"No problem lah — yours does it a slightly different way, works just as well."** Skip to Option B, but still give them the text block below.
-
----
-
-**THE TEXT TO PASTE — everyone gets this, whichever option:**
-
-Write them a ready-to-paste routine prompt from their role, tools and chosen routine. **Plain English only — no file paths, no code, nothing technical.** They're pasting this into a box, not writing a script. 6-10 lines:
+Write them a ready-to-paste prompt from their role, tools and chosen routine. **Plain English only — no file paths, no code, nothing technical.** They're pasting into a box, not writing a script. 6-10 lines, their real details:
 
 ```
 Every morning, give me my brief.
@@ -125,29 +113,23 @@ Flag anything that needs my decision with a warning sign.
 End with: "Your one thing today: ___"
 ```
 
-**OPTION A — SCHEDULED TASK**
+Then say:
 
-**1. Copy that block.** (Type OK when you've got it.) HARD GATE.
-**2. In Scheduled Tasks, create a new task and paste it in.** (Type OK when it's in.) HARD GATE.
-**3. Set it to run daily at 8:00am and save.** HARD GATE.
+**Now open Scheduled Tasks in the left sidebar, paste that in, set it for 8:00am daily, and save.**
 
-> 🚫 **NEVER** write a crontab entry, launchd plist, systemd timer, login item, or edit any system or shell config to schedule this — **and never create the scheduled task on their behalf with a tool, even if one is available.** Walk them through the panel, or use one of the options below. Those are the only acceptable paths.
+That's it. Tomorrow it runs before you're awake.
 
-**OPTION B — ONE COMMAND EACH MORNING** (works on every version)
+HARD GATE: wait until they've done it or told you they can't.
 
-Tomorrow you type one thing: **"run my morning brief"**. Same brief, three seconds.
-
-**OPTION C — PHONE REMINDER** (do this either way)
-
-Recurring 8am reminder: *"Open Claude → run my morning brief."* Ten seconds to set, and honestly the most reliable — your phone never misses.
-
----
+> **IF THEY CAN'T FIND SCHEDULED TASKS** — don't debug their UI, don't turn it into a decision. One line and move: **"No panel on your version? No problem — just type 'run my morning brief' each morning, takes three seconds. Or set an 8am phone alarm that says the same thing."** Treat that as a complete success, never a downgrade.
+>
+> 🚫 **NEVER** write a crontab entry, launchd plist, systemd timer, login item, or edit any system or shell config to schedule this — **and never create the scheduled task on their behalf with a tool, even if one is available.** They paste it themselves, or they use the one-line fallback.
 
 Then say the TRUE one, never both:
-- **Option A:** **"Done — that runs tomorrow at 8am without you touching anything."** ☕
-- **Option B/C:** **"Done — tomorrow you type one line and it's there in three seconds."** ☕
+- **Scheduled:** **"Done — that runs tomorrow at 8am without you touching anything."** ☕
+- **Fallback:** **"Done — tomorrow you type one line and it's there in three seconds."** ☕
 
-**Notice what happened: *you* set that up. You described what you wanted and put it somewhere it runs.**
+**Notice what happened: *you* set that up.**
 
 **Type OK to continue.** HARD GATE.
 
