@@ -37,8 +37,6 @@ Not followed along with.
 
 ✅ Lesson 6 — Your Dashboard (live numbers, open in your browser right now)
 
-🎁 Gifts received: 10 Prompts That Get Things Done · Skill Builder · 5 Agent Workflows · 10 Mega-Prompts (Business in a Box) · The "build any dashboard" recipe
-
 Most people are still copy-pasting into ChatGPT — getting the same generic response as 10 million other people.
 
 You built something completely different.
@@ -109,27 +107,39 @@ Tomorrow morning it's already written — you just run it.
 
 ---
 
-**MAKE IT WORK EVERYWHERE — tell them how, don't do it for them:**
+**MAKE IT WORK EVERYWHERE — the most valuable 30 seconds of the day:**
+
+> **WHY THIS MATTERS:** their AI Brain currently sits in `~/Desktop/my-ai/CLAUDE.md`, which Claude Code only reads when they're working in that folder. Realistically they never will. Without this step, the single best thing they built today quietly does nothing tomorrow. Do NOT skip it.
 
 Then say:
 
-**One thing for tonight — this makes everything you built today follow you around.**
+**One last thing, and it's the one that makes everything today actually stick.**
 
-Right now your AI Brain lives in your `my-ai` folder. Claude reads it when you're working in that folder.
+Right now your AI Brain lives in your `my-ai` folder. Claude reads it when you're in that folder — which, let's be honest, you won't be.
 
-**To make Claude know you in every project, on every session — you do this bit yourself, it takes 20 seconds:**
+**Let's make Claude know you in every project, every session, from now on.**
 
-Open your `CLAUDE.md`, select all, copy.
+**Type this:**
 
-Then open Claude Code's memory settings and paste it in.
+> **"Save my AI Brain to my global Claude memory"**
 
-**That's it — after that it doesn't matter which folder you open. Claude already knows who you are.**
+Go ahead — type it now.
 
-> **DO NOT do this for them and do not offer to.** It's their configuration, not ours — the whole workshop has deliberately stayed out of their settings, and this is not the moment to change that. Tell them how, put it in their next-steps, move on.
+HARD GATE: wait for them to type it. **They must ask — never do this unprompted.**
 
-I've put those steps in your next-steps file so you don't have to remember them.
+When they do, read `~/Desktop/my-ai/CLAUDE.md` and write its contents into their global Claude memory at `~/.claude/CLAUDE.md`.
 
-**Reply YES to continue.**
+> **IF THAT FILE ALREADY EXISTS, DO NOT OVERWRITE IT.** Append their AI Brain under a clear `# My AI Brain` heading and keep everything already in there. Never delete or replace someone's existing memory.
+
+> **IF ANYTHING BLOCKS THE WRITE**, don't fight it and don't apologise. Say: **"Your setup wants you to do that one by hand — open Claude Code's memory settings and paste your AI Brain in. Takes 20 seconds, and I've written it into your next-steps."** Then move on. The workshop is already complete — nothing here is at risk.
+
+Once it's done, say:
+
+**That's it. Open Claude in any folder, on any project, and it already knows who you are, what you run, and what you're chasing.**
+
+You never introduce yourself again.
+
+**Type OK to continue.**
 
 HARD GATE: wait.
 
@@ -146,7 +156,8 @@ Build it from what ACTUALLY happened in their session — not a generic list. In
 [their name] · [today's date]
 
 ## Tonight (10 minutes)
-1. Make your AI Brain work everywhere (20 seconds, you do this yourself):
+1. [ONLY if the global-memory step was blocked in class — delete this line
+   if it already worked] Make your AI Brain work everywhere (20 seconds):
    Open Desktop/my-ai/CLAUDE.md, select all, copy.
    Open Claude Code's memory settings and paste it in.
 2. Turn your skill into a real /slash command (3 minutes):
@@ -172,7 +183,7 @@ Build it from what ACTUALLY happened in their session — not a generic list. In
 - Big job: "Run multi-agents to get this done."
 
 ## Your files
-Everything lives in Desktop/my-ai — brain, skills, dashboard, gifts.
+Everything lives in Desktop/my-ai — brain, skills, dashboard, next steps.
 ```
 
 Then say:
@@ -181,7 +192,7 @@ Then say:
 
 **Those tonight ones take about ten minutes, and they make everything else work everywhere.**
 
-**Reply YES to continue.**
+**Type OK to continue.**
 
 HARD GATE: wait.
 
@@ -227,7 +238,7 @@ Say:
 
 **One last thing — everything you unlocked today is in one file.**
 
-**Don't open gifts.md on its own.** Open the whole `my-ai` FOLDER instead — one look at everything they made. That's the closure moment, and it beats another text file.
+Open the whole `my-ai` FOLDER — one look at everything they made. That's the closure moment.
 
 - macOS: `open ~/Desktop/my-ai`
 - Windows: `start %USERPROFILE%\Desktop\my-ai`
@@ -240,7 +251,7 @@ Then say:
 
 **Look at that folder.**
 
-Your AI Brain. Your skills. Your connection plan. Your agent outputs. Your dashboard. Your morning brief. Your gifts. And your next steps.
+Your AI Brain. Your skills. Your connection plan. Your agent outputs. Your dashboard. Your morning brief. And your next steps.
 
 **All of it. Built by you. Today.**
 

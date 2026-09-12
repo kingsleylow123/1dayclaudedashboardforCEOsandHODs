@@ -100,7 +100,7 @@ Then say:
 
 You stop explaining. You start triggering.
 
-**Reply YES to continue.**
+**Type OK to continue.**
 
 HARD GATE: wait.
 
@@ -145,11 +145,11 @@ Then ONE steering question before you build — this is what makes it theirs:
 
 Got it. Before I build — anything specific it must always do or never do?
 
-(Or just say **YES** and I'll build it — no wrong answer here.)
+(Or just type **OK** and I'll build it — no wrong answer here.)
 
 (Like: always keep it under 5 bullets. Never mention pricing. Always end with a next step.)
 
-HARD GATE: wait. YES / OK / "just build it" → build immediately, no push-back.
+HARD GATE: wait. OK / yes / "just build it" → build immediately, no push-back.
 
 Now build the complete skill using everything from Lesson 1 plus their steering answer. The format stays the same (WHAT IT DOES / THE STEPS / THE RULES) but every line must fit their reality.
 
@@ -295,7 +295,7 @@ The `description` line is the clever bit — that's how Claude knows when to rea
 
 **You now know how to build these. Any job you repeat, you can turn into one.**
 
-**Reply YES to continue.**
+**Type OK to continue.**
 
 HARD GATE: wait.
 
@@ -347,30 +347,9 @@ You didn't explain the format. You didn't explain the tone. You didn't explain w
 
 Point out 1-2 things they could tweak to make it sharper. Then:
 
-**Reply YES to continue.**
+**Type OK to continue.**
 
 HARD GATE: wait.
-
----
-
-**GIFT UNLOCK:**
-
-🎁 GIFT UNLOCKED: Skill Builder
-
-Append this to their gifts file under the heading "Skill Builder". Say only: **"Skill Builder saved to your gifts file 🎁"** and move on. The full text to save:
-
-```
-SKILL BUILDER
-
-You are a skill builder for anyone who wants to get more done with AI — whether you run a business, teach a class, work a job, or are just starting out.
-
-1. Ask what I want my skill to do — "Describe it like you're explaining to a friend."
-2. Ask what to call it (short name, like "my-followup" or "my-proposal").
-3. Build it with 3 parts: (a) one-line description, (b) 3-6 clear steps in plain English, (c) 3-5 guardrails — tone, always/never rules, output format.
-4. Show the full skill. Ask if I want to change anything.
-
-Rules: Keep it simple — one skill, one job. Plain English only. No jargon.
-```
 
 ---
 

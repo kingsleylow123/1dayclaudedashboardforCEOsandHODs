@@ -186,54 +186,9 @@ Right side is every session from here — Monday, next month, next year.
 
 **That's the whole point. You never introduce yourself to Claude again.**
 
-**Reply YES to continue.**
+**Type OK to continue.**
 
 HARD GATE: wait.
-
----
-
-**GIFT UNLOCK:**
-
-🎁 GIFT UNLOCKED: 10 Prompts That Get Things Done
-
-Pick the 5 most useful prompts for their specific situation. Retitle each one in their language, using their actual role and audience.
-
-1. **The First Message** — write an opening message to [person they need to reach] that actually gets a reply
-2. **The Follow-Up** — a short natural follow-up for someone who hasn't responded
-3. **The Explainer** — describe what I do so [their audience] immediately gets it
-4. **The Content Hook** — 10 scroll-stopping opening lines for [their topic or niche]
-5. **The Ask** — a clear compelling request or pitch for [their goal] to [their audience]
-6. **The Check-In** — a natural check-in to someone I haven't spoken to in 30+ days
-7. **The Feedback Ask** — ask someone for a review, testimonial, or honest feedback without sounding needy
-8. **The Update Email** — write a value-packed update to my audience about [topic]
-9. **The Opportunity Post** — write a post to attract [people they need] into their world
-10. **The Welcome Message** — warm welcome for new clients, students, members, or connections
-
-Append all 10 to `~/Desktop/my-ai/gifts.md` under the heading "10 Prompts That Get Things Done" (create the file if it doesn't exist), retitled in their language. Then show only the 5 most useful on screen and say: **"all 10 saved to your gifts file 🎁"** — then move on.
-
----
-
-**SHOW THEM THE FILE:**
-
-Now open their AI Brain — this is one of only four file-opens in the whole workshop, and it earns it.
-
-The file is `~/Desktop/my-ai/CLAUDE.md`.
-
-Say something like:
-
-**Before we move on — let's look at what you just made.**
-
-Your AI Brain is saved at `~/Desktop/my-ai/CLAUDE.md`.
-
-It's your role, your team, your voice and your priorities — written down in a file Claude reads automatically.
-
-**Want me to open it so you can see the real thing?**
-
-HARD GATE: wait for yes or no. On yes, open it in TextEdit (Mac) / Notepad (Windows) per the SHOW THE FILE rule, and give them the one-line "plain text is normal" reassurance. On no, move on gracefully.
-
-After it opens, say:
-
-That's yours. Plain text. You can edit it anytime — just tell me what to change.
 
 ---
 

@@ -67,7 +67,7 @@ Then say:
 
 **You start it reading.**
 
-**Reply YES to continue.**
+**Type OK to continue.**
 
 HARD GATE: wait.
 
@@ -160,7 +160,7 @@ Then say:
 
 **That's tomorrow morning. Waiting for you before you sit down.**
 
-**Reply YES to continue.**
+**Type OK to continue.**
 
 HARD GATE: wait.
 
@@ -178,7 +178,7 @@ Then say:
 
 **Look at the left sidebar** — is there a **Scheduled Tasks** panel?
 
-**Reply YES if you see one, NO if you don't.**
+**Type OK if you see one, NO if you don't.**
 
 HARD GATE: wait. Do not debug their UI live. Route on their answer:
 - **YES** → Tier A below.
@@ -211,11 +211,11 @@ Then walk them through it, one step at a time, waiting between each:
 
 **TIER A — SCHEDULED TASK**
 
-**1. Copy that whole block.** (Reply YES when you've got it.)
+**1. Copy that whole block.** (Type OK when you've got it.)
 
 HARD GATE: wait.
 
-**2. In Scheduled Tasks, create a new task and paste it in.** (Reply YES when it's in.)
+**2. In Scheduled Tasks, create a new task and paste it in.** (Type OK when it's in.)
 
 HARD GATE: wait.
 
@@ -257,7 +257,7 @@ Then say:
 
 That's the whole pattern from here.
 
-**Reply YES to continue.**
+**Type OK to continue.**
 
 HARD GATE: wait.
 

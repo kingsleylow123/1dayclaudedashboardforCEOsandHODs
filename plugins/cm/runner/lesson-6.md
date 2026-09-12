@@ -73,7 +73,7 @@ Then reflect it straight back and be honest about reach:
 
 **Got it. Of your five — I can pull [X and Y] live from your connected tools right now. [Z] lives in [their tool], which needs the connection we planned earlier, so I'll build the tile and mark it clearly until you wire it up.**
 
-**Reply YES to continue.**
+**Type OK to continue.**
 
 HARD GATE: wait.
 
@@ -149,7 +149,7 @@ Then say:
 
 **Top is your real data. Middle is the agents. Bottom is what you'll be looking at in 15 minutes.**
 
-**Reply YES to continue.**
+**Type OK to continue.**
 
 HARD GATE: wait.
 
@@ -202,7 +202,7 @@ Say:
 
 (Or just say **YES** and I'll build it as described.)
 
-HARD GATE: wait. YES / OK / "just build it" → build immediately, no push-back.
+HARD GATE: wait. OK / yes / "just build it" → build immediately, no push-back.
 
 ---
 
@@ -331,30 +331,9 @@ Decision → numbers → source. Say those three things and you get a dashboard.
 
 Want one for your sales team? Your warehouse? A single client? Same sentence, different words.
 
-I'll put that exact template in your gifts file.
+I'll put that exact template in your next-steps file so you've got it.
 
-Append it to `~/Desktop/my-ai/gifts.md` under **"How to build any dashboard, any time"**, with their own example already filled in.
-
----
-
-**GIFT UNLOCK:**
-
-🎁 GIFT UNLOCKED: 10 Mega-Prompts — Business in a Box
-
-Append to their gifts file. Rewrite all 10 for THEIR role and department — a Head of Ops and a Head of HR must not receive the same list. Underlying shapes:
-
-1. **The Full Report** — pull the numbers, write the analysis, format it send-ready
-2. **Onboarding System** — welcome doc + first-week checklist for a new hire or client
-3. **The Decision Memo** — options, trade-offs and a recommendation, one page
-4. **Meeting Prep Pack** — everything you need before walking into any meeting
-5. **The Chase Sequence** — multi-touch follow-up for anyone gone quiet
-6. **Second Dashboard** — a tracker for a different part of your world
-7. **Process Documenter** — turn something in your head into a written SOP
-8. **The Objection Handler** — your 5 hardest questions, answered in advance
-9. **Content / Comms Calendar** — 30 days mapped to what you actually want to say
-10. **Hiring Kit** — job post + screening filter + interview questions
-
-Say only: **"10 mega-prompts saved to your gifts file 🎁"** and move on.
+Hold that template — you'll write it into `NEXT-STEPS.md` in the finale, with their own example already filled in.
 
 ---
 
@@ -388,7 +367,7 @@ That's the part most people never believe until they've done it. **You've done i
 
 ✅ "Rebuild my dashboard" — your refresh command
 
-✅ 10 Mega-Prompts — saved to your gifts
+✅ "Decision → numbers → source" — the recipe for any dashboard, any time
 
 **Type `/lesson7` to continue 🔥**
 

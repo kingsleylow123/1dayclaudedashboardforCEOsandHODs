@@ -134,7 +134,7 @@ Then say, pointing at it:
 
 **Never build what someone already maintains for you.**
 
-**Reply YES to continue.**
+**Type OK to continue.**
 
 HARD GATE: wait.
 
@@ -220,7 +220,7 @@ Keep this fast — write it, don't narrate it.
 
 **Your whole connection plan is saved to `~/Desktop/my-ai/mcp-plan.md` — including the exact prompt to paste for the tools that need building. That's your tonight job.**
 
-**Reply YES to continue.**
+**Type OK to continue.**
 
 HARD GATE: wait.
 

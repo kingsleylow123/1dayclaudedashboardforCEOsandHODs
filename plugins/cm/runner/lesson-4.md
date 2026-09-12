@@ -216,7 +216,7 @@ Format it clean: a heading per agent, the full output underneath, and a short no
 
 **All three saved to `~/Desktop/my-ai/agent-outputs.md` — nothing lost when you close this window.**
 
-**Reply YES to continue.**
+**Type OK to continue.**
 
 HARD GATE: wait.
 
@@ -247,22 +247,6 @@ Don't open it — they've already seen what a skill file looks like in Lesson 2.
 Next week you don't explain any of this again — you just run it.
 
 **Two skills, and you've been here what, half an hour?**
-
----
-
-**GIFT UNLOCK:**
-
-🎁 GIFT UNLOCKED: 5 Agent Workflows
-
-Append to their gifts file. Rewrite all 5 titles and descriptions in THEIR language, for THEIR role — a Head of Finance and a Head of HR should not get the same list. Use these as the underlying shapes:
-
-1. **Priority Blast** — score and rank everything sitting on you right now, in one run
-2. **Repurposing Engine** — turn one thing into five versions for five audiences
-3. **Reporting System** — pull the numbers, write the commentary, format it send-ready
-4. **Research Sweep** — several agents researching different angles at once
-5. **Follow-Up Engine** — multi-touch chase sequences for anyone gone quiet
-
-Say only: **"5 more agent missions saved to your gifts file 🎁"** and move on.
 
 ---
 
