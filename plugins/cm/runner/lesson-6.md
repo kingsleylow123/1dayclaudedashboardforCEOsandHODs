@@ -175,9 +175,9 @@ If they said no: "no worries — it's saved there. Open it after class and you'l
 
 ---
 
-**NOW MAKE IT THEIRS — iterate until they're happy:**
+**NOW MAKE IT THEIRS — the bounded loop:**
 
-This is the best part of the session. **Do not rush it and do not move on early.**
+This is the best part of the session. **Round one is Claude's dashboard. Round two is theirs.** That shift is what they take home — so don't skip it, and don't let it run forever either.
 
 Say:
 
@@ -187,20 +187,38 @@ Anything. Bigger numbers, different colour, drop a tile, add one, move things ar
 
 **Just say it in plain English — I'll rebuild it in seconds.**
 
-HARD GATE. Then loop:
-- Make the change, rewrite the file, reopen it.
-- **After each round ask again: "Better? What else?"**
-- Keep going until they say they're happy, or you're at the time limit.
-- Never argue with a preference. Never explain why the original was fine. Just change it.
-- If they're not sure what to change, offer 2-3 concrete suggestions from what you can see.
+HARD GATE. Then loop: make the change, rewrite the file, reopen it, and ask **"Better? What else?"**
 
-> **THIS LOOP IS THE POINT.** Round one is Claude's dashboard. Round three is theirs. That shift — from "the AI made me something" to "I directed it" — is the thing they take home. Give it real time.
+**MINIMUM 2 ROUNDS — do not let them skip this.**
+If they say "it's fine" straight away: **"Humour me — one change. Anything. A colour, a size, a tile you'd drop."** They almost always have one, and that's the round where it becomes theirs.
 
-When they're happy:
+**STOP when ANY of these happen:**
+- They say perfect / great / done / love it
+- **Two rounds running of only cosmetic tweaks** — you've hit diminishing returns
+- They go vague — "yeah ok", "sure". That's boredom, not satisfaction
+- They ask for something needing data they don't have → **"That one's a tonight job — it's going in your next-steps."**
+- **4 rounds, or about 6 minutes. Whichever comes first.**
+
+**YOU offer the exit — never wait to be dismissed.** When you hit any signal above:
+
+**One more change and I'll lock it in — what's the last thing?**
+
+HARD GATE. Make that change, then move on. Do not ask "anything else?" again.
+
+Never argue with a preference. Never explain why the original was fine. Just change it.
+If they're stuck for ideas, offer 2-3 concrete ones from what you can see on the screen.
+
+Then:
 
 **Notice what just happened — you didn't design that. You described it, and it changed.**
 
 That's how everything works from here. You don't need to know how. You need to know what you want.
+
+**Type OK to continue.** HARD GATE.
+
+---
+
+> ⏱️ **FACILITATOR NOTE — why this is bounded:** everything below (their AI Brain going into global memory, their next-steps file, the recap) is the most valuable part of the session, and it must happen for everyone — including the person who'd happily tweak their dashboard for another hour. So the loop closes, the session lands, and they're invited to keep tweaking afterwards. **Never let the loop eat the wrap-up.**
 
 ---
 
@@ -358,6 +376,16 @@ by Kingsley Low — @kingsleylow.ai on Instagram
 ```
 
 **That's your dashboard done — take a breather, we're not finished with the day yet. 🔥**
+
+---
+
+**AND THE OPEN INVITATION — say this last:**
+
+**One thing before you step away: your dashboard isn't finished unless you want it to be.**
+
+Keep tweaking it as long as you like — I'm right here. Say anything: *"make the revenue tile bigger"*, *"add a column for X"*, *"try a lighter theme"*.
+
+**And any morning from now: "rebuild my dashboard".**
 
 ---
 
