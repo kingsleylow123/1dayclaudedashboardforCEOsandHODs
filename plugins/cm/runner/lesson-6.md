@@ -88,37 +88,7 @@ Check which connectors you can ACTUALLY reach (look at your own available tools 
 - A pull fails or is empty → move on silently.
 - **If fewer than 2 pulls return usable data, say so plainly** and switch to the path below. **NEVER invent a number to fill a tile.**
 
-**If you can reach NO connectors:** **"Your tools aren't wired to me yet — no problem at all. Connect them tonight and I'll pull them in automatically. For now, give me your numbers directly."**
-
----
-
-**ASK FOR THEIR OWN DATA — everyone, connectors or not. This is what makes it their business and not their inbox.**
-
-Connectors give you email and calendar. **The numbers that actually run their business are almost always in a spreadsheet.** Ask for it:
-
-**Got a spreadsheet with your real numbers? Let's put those on here.**
-
-Four ways — whichever is easiest:
-
-**1.** **Drag the file in** — Excel, CSV, Numbers, anything on your machine.
-**2.** **Or paste a link** — Google Sheets, a Drive file, Airtable, Notion. Just drop the URL.
-**3.** **Or copy the rows** that matter straight out of your sheet and paste them here. Messy is fine.
-**4.** **Or just type the numbers.** *"Revenue 180k, target 250k, 14 deals open, 3 closed this month."*
-
-**No spreadsheet? No stress** — tell me your 5 numbers from Lesson 1 and we build from those.
-
-HARD GATE: wait. Accept ANY of it — a file, a link, a pasted table, a sentence, or nothing at all.
-
-Then handle what you got:
-- **File dragged in** → read it properly. Work out what each column actually is.
-- **A LINK** → try to open it. A Google Sheet or Drive file usually works if they've got the Drive connector on. **If you genuinely can't read it, say so straight away and don't stall:** *"Can't get into that one from here — quickest fix is to open it, select the rows, and paste them in."* Never pretend you read something you didn't, and never invent what might be in it.
-- **Pasted rows** → same as a file. Work out the columns.
-- **Typed numbers** → use as given, tagged `yours`.
-- **Nothing** → build from their Lesson 1 answers and say so honestly.
-
-For any real data: if a column is ambiguous, ask ONE question — **never guess at what a column means, and never silently drop rows you didn't understand.**
-
-Say back what you found in one line so they can correct you: **"Got it — 14 rows, looks like [X] by [Y], running [date range]. Right?"**
+**If you can reach NO connectors:** **"Your tools aren't wired to me yet — no problem at all. Connect them tonight and I'll pull them in automatically."** Build from the five numbers they gave you in the interview. Don't ask for a spreadsheet yet — that comes once they can see the thing.
 
 **Type OK to continue.** HARD GATE.
 
@@ -179,9 +149,51 @@ If they said no: "no worries — it's saved there. Open it after class and you'l
 
 This is the best part of the session. **Round one is Claude's dashboard. Round two is theirs.** That shift is what they take home — so don't skip it, and don't let it run forever either.
 
+**ROUND ONE IS ALWAYS THE SAME — ask for their real numbers now:**
+
+They can see the thing now, so the data finally means something. This is the moment, not earlier.
+
 Say:
 
-**Now tell me what to change.**
+**Right — now let's get YOUR real numbers on there.**
+
+What's on screen came from your calendar and inbox. The numbers that actually run your business are almost certainly in a spreadsheet.
+
+Four ways — whichever is easiest:
+
+**1.** **Drag the file in** — Excel, CSV, Numbers, anything on your machine.
+**2.** **Or paste a link** — Google Sheets, a Drive file, Airtable, Notion. Just drop the URL.
+**3.** **Or copy the rows** that matter straight out of your sheet and paste them here. Messy is fine.
+**4.** **Or just type the numbers.** *"Revenue 180k, target 250k, 14 deals open, 3 closed this month."*
+
+**No spreadsheet handy? No stress** — what's on screen already works. Bring it tonight and say *"add my spreadsheet to my dashboard"*.
+
+HARD GATE: wait. Accept ANY of it — a file, a link, a pasted table, a sentence, or nothing at all.
+
+Then handle what you got:
+- **File dragged in** → read it properly. Work out what each column actually is.
+- **A LINK** → try to open it. A Google Sheet or Drive file usually works if they've got the Drive connector on. **If you genuinely can't read it, say so straight away and don't stall:** *"Can't get into that one from here — quickest fix is to open it, select the rows, and paste them in."* Never pretend you read something you didn't, and never invent what might be in it.
+- **Pasted rows** → same as a file. Work out the columns.
+- **Typed numbers** → use as given, tagged `yours`.
+- **Nothing** → leave the dashboard as it is, say it's already working, and move to the next round. Never push twice for data.
+
+For any real data: if a column is ambiguous, ask ONE question — **never guess at what a column means, and never silently drop rows you didn't understand.**
+
+Say back what you found in one line so they can correct you: **"Got it — 14 rows, looks like [X] by [Y], running [date range]. Right?"**
+
+**Type OK to continue.** HARD GATE.
+
+---
+
+Then rebuild the dashboard with their data as the headline and reopen it.
+
+**That's your business on screen now — not your inbox.**
+
+---
+
+**THEN KEEP GOING — the rest of the loop:**
+
+**What else would you change?**
 
 Anything. Bigger numbers, different colour, drop a tile, add one, move things around, "make it look more serious", "I hate that chart".
 
