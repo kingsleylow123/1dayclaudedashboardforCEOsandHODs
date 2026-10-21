@@ -57,7 +57,7 @@ HARD GATE.
 
 **DO THE JOB ONCE — live:**
 
-Say: **Give me something real to work on** — paste a few lines of text from your actual work (a message, notes — not a spreadsheet, that's Lesson 4), or type YES and I'll use a realistic example from your world.
+Say: **Give me something real to work on** — paste a few lines of text from your actual work (a message, notes — not a spreadsheet or PDF, that's for your dashboard in Lesson 5), or type YES and I'll use a realistic example from your world.
 
 HARD GATE. Then do the job properly, in their voice, following how they'd want it done. Keep it tight.
 
@@ -77,7 +77,7 @@ Say:
 
 **Go on — type it now.**
 
-HARD GATE. When they do, write `~/Desktop/my-ai/skills/my-[skill-name]/SKILL.md`:
+HARD GATE. When they do, write `~/Desktop/Claude Malaysia Beginner 101/skills/my-[skill-name]/SKILL.md`:
 
 ```
 ---
@@ -97,7 +97,7 @@ HARD GATE. On YES, open it for ~20 seconds. Say: **"See — that's all a skill i
 
 **RUN IT AGAIN — the proof:**
 
-> Their skill lives in `~/Desktop/my-ai/skills/`, which Claude Code does NOT auto-load, so a slash command for it won't work in this session. **Never tell them to type a slash.** They run it by name — a genuine skill run: you read their SKILL.md and follow it exactly.
+> Their skill lives in `~/Desktop/Claude Malaysia Beginner 101/skills/`, which Claude Code does NOT auto-load, so a slash command for it won't work in this session. **Never tell them to type a slash.** They run it by name — a genuine skill run: you read their SKILL.md and follow it exactly.
 
 Say: **Now type: "Use my [skill-name] skill on this:" — and paste something new.** *(Or type YES and I'll use a fresh example.)*
 

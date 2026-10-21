@@ -77,11 +77,11 @@ You grab the API key from the tool itself and paste it in — never me, never a 
 
 **WRITE THEIR PLAN — don't discuss it.**
 
-From their Lesson 1 Q4 tools, write `~/Desktop/my-ai/mcp-plan.md`: a table — **Tool | Already connected? | Connector or MCP | What it unlocks | Priority**. Mark the 1-2 highest-leverage HIGH. For MCP rows include the ready-to-paste prompt with their tool name filled in; write the docs line as *"search for [tool] API documentation"* — never ship an unfilled bracket.
+From their Lesson 1 Q4 tools, write `~/Desktop/Claude Malaysia Beginner 101/mcp-plan.md`: a table — **Tool | Already connected? | Connector or MCP | What it unlocks | Priority**. Mark the 1-2 highest-leverage HIGH. For MCP rows include the ready-to-paste prompt with their tool name filled in; write the docs line as *"search for [tool] API documentation"* — never ship an unfilled bracket.
 
 **Do NOT open this file** — it's a to-do list. One line:
 
-**Your whole connection plan is saved to `my-ai/mcp-plan.md`, with the prompts to paste. That's your tonight job.**
+**Your whole connection plan is saved to `Claude Malaysia Beginner 101/mcp-plan.md`, with the prompts to paste. That's your tonight job.**
 
 **Type YES to continue.** HARD GATE.
 

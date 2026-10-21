@@ -4,7 +4,7 @@
 
 ```
 📍 LESSON 5 of 5 | Build Your Dashboard
-⏱️ 22 min — the big one 🏆
+⏱️ 24 min — the big one 🏆
 🎯 Goal: A working dashboard for your role, with your real numbers
 🏆 Win: YOUR dashboard, live data, open in your browser
 ```
@@ -25,7 +25,7 @@ Remember what you said you wanted most? **We're doing that now.**
    YOUR CONNECTED TOOLS
    Gmail    Calendar    Drive    [their tools]
      └─────────┴──────────┴──────────┘
-   + the spreadsheet from your agent in Lesson 4
+   + your sheets, Excel, PDFs and docs
                     │  read only — leaves your machine only if you publish it
                     ▼
    ┌──────────────────────────────────────┐
@@ -65,19 +65,44 @@ Show what good looks like, matched to the decision they gave:
 
 **Rough is fine — guess if you have to. Tell me your five and I'll tell you which I can pull live.** **(My pick: [5 numbers matched to their decision] — type YES to go with them.)**
 
-HARD GATE. Then reflect back honestly: **"Of your five — I can pull [X and Y] live right now. [Z] lives in [tool], which needs the connection we planned, so I'll build the tile and mark it clearly until you wire it up. Type YES and I'll pull them now."**
+HARD GATE. Then reflect back honestly: **"Of your five — I can pull [X and Y] live right now. [Z] lives in [tool], which needs the connection we planned, so I'll build the tile and mark it clearly until you wire it up. Type YES to continue."**
 
 HARD GATE.
 
 ---
 
+**ADD YOUR FILES — this is the ONE moment for sheets and documents:**
+
+Say: **Got a Google Sheet, Excel file, PDF or doc with numbers you check? Let's put it in your dashboard. Type YES** *(or type NO to build from your connected tools and the five numbers)*
+
+HARD GATE. If no: move on. Never push twice.
+
+If YES — **whichever is easiest:**
+
+**1.** **Drag the file in** — Excel, CSV, Numbers, PDF, Word.
+**2.** **Or paste a link** — Google Sheets, Google Docs, Drive, Notion.
+**3.** **Or copy the rows** and paste them here. Messy is fine.
+**4.** **Or just type the numbers.** *"Revenue 180k, target 250k, 14 deals open."*
+
+HARD GATE. Then handle it:
+- **File dragged in** → copy it to `~/Desktop/Claude Malaysia Beginner 101/data/` and read it properly. Spreadsheet: work out what each column is. PDF or doc (a report, a P&L, a board pack): pull out the figures that match their five numbers.
+- **A link** → try to open it (works with the Drive connector on). **If you genuinely can't read it, say so straight away:** *"Can't get into that one from here — open it, select what you need, and paste it in."* Never pretend you read it, never invent what's in it.
+- **Pasted rows / typed numbers** → write them to `~/Desktop/Claude Malaysia Beginner 101/data/my-numbers.csv`.
+- Ambiguous column or figure → ask ONE question. **Never guess what a number means, never silently drop rows.**
+
+Say back what you found in one line: **"Got it — [what it is, e.g. 42 rows of sales by month / Q3 P&L]. I'll use [which numbers]. Right? Type YES"** *(On a projector? Name the file only — never quote its figures in chat.)*
+
+HARD GATE. One honest line on freshness: links and files in the `data` folder are re-read every time they say "rebuild my dashboard"; pasted numbers are a snapshot.
+
+---
+
 **PULL THEIR LIVE DATA:**
 
-> ⚠️ **Same projector rule as Lesson 4** — if they asked you to skip email then, skip it now too.
+> ⚠️ **Same projector rule as Lesson 4** — if they asked you to skip email then, skip it now too. Files can be sensitive too: if they're on the projector, don't print figures from a PDF or sheet in chat — put them straight into the dashboard.
 
 Check which connectors you can ACTUALLY reach (look at your own available tools — don't ask them).
 
-**If you CAN reach connectors:** say **"Give me 20 seconds — pulling your actual numbers."** Then 2-4 quick pulls relevant to the dashboard they described. Gmail → unread, anything awaiting a reply. Calendar → today and tomorrow, hours booked. **Their spreadsheet from Lesson 4 → read it first; it's the headline.** Drive/Sheets → if they named another sheet, read it; if they only said "Drive", ask ONE question: **"Which sheet do you check most?"** Never guess at a spreadsheet — wrong numbers on a CEO's dashboard is worse than none.
+**If you CAN reach connectors:** say **"Give me 20 seconds — pulling your actual numbers."** Then 2-4 quick pulls relevant to the dashboard they described. Gmail → unread, anything awaiting a reply. Calendar → today and tomorrow, hours booked. **Their files from the step above are the headline — you've already read them.** Never guess at a spreadsheet — wrong numbers on a CEO's dashboard is worse than none.
 
 - **Read only during the pulls. Never send, delete, reply to, or modify anything.**
 - Everything stays on their machine, baked into their own file — until they choose to publish it.
@@ -85,7 +110,7 @@ Check which connectors you can ACTUALLY reach (look at your own available tools 
 - A pull fails or is empty → move on silently.
 - **If fewer than 2 pulls return usable data, say so plainly** and switch to the path below. **NEVER invent a number to fill a tile.**
 
-**If you can reach NO connectors:** **"Your tools aren't wired to me yet — no problem at all. Connect them tonight and I'll pull them in automatically."** Build from their Lesson 4 spreadsheet (if they gave one) plus the five numbers from the interview.
+**If you can reach NO connectors:** **"Your tools aren't wired to me yet — no problem at all. Connect them tonight and I'll pull them in automatically."** Build from their files (if they gave any) plus the five numbers from the interview.
 
 Go straight on to the build — no extra pause here.
 
@@ -95,7 +120,7 @@ Go straight on to the build — no extra pause here.
 
 One line while you work: **"Building your dashboard now — about a minute."**
 
-Use **everything you have**: their Lesson 4 spreadsheet first (the headline — it outranks inbox and calendar), then connector pulls, then numbers they typed. Work out deltas, run-rate, progress to target, what's needed to close the gap. Tag each figure `live` (connector), `from your sheet`, or `yours` (they typed it). Never invent.
+Use **everything you have**: their files first (the headline — they outrank inbox and calendar), then connector pulls, then numbers they typed. Work out deltas, run-rate, progress to target, what's needed to close the gap. Tag each figure `live` (connector), `from your file`, or `yours` (they typed it). Never invent.
 
 ---
 
@@ -103,11 +128,11 @@ Use **everything you have**: their Lesson 4 spreadsheet first (the headline — 
 
 > **Make something genuinely excellent.** They should look at it and think *"I could not have bought this."* You know what a beautiful, useful executive dashboard looks like — build that. Dark and premium, or clean and light; charts, sliders, forecasts, scenarios, whatever actually serves the decision they described. **Don't ask permission for design choices, just make it good.**
 
-Write it **directly to `~/Desktop/my-ai/build/index.html`** with your Write tool.
+Write it **directly to `~/Desktop/Claude Malaysia Beginner 101/build/index.html`** with your Write tool.
 
 **The only hard rules:**
 - 🚫 **DO NOT print the HTML in chat.** It's hundreds of lines — printing burns 3 minutes and dumps CSS on someone you just told "no copy-pasting". Write the file, then open it.
-- **Every number is real** — pulled from a connector, from their sheet, or given by them. **Never invent one.** If their sheet had a column you couldn't interpret, leave it out rather than guess. If you need history you don't have, label it honestly ("projected from your target").
+- **Every number is real** — pulled from a connector, from their file, or given by them. **Never invent one.** If their file had a column you couldn't interpret, leave it out rather than guess. If you need history you don't have, label it honestly ("projected from your target").
 - Mark each figure's source subtly (`live` vs `yours`) so the dashboard never lies about where it came from.
 - **Self-contained:** all CSS and JS inline, no CDN, no `fetch`, no `action=`, no remote fonts or images. It must open by double-clicking, offline, and never send their data anywhere.
 - A timestamp: "Live data as of [time], [date]", plus their name and department.
@@ -117,9 +142,9 @@ Write it **directly to `~/Desktop/my-ai/build/index.html`** with your Write tool
 
 **OPEN IT** (open-moment 3 of 3):
 
-**Your dashboard is at `~/Desktop/my-ai/build/index.html`. Want me to open it? Type YES**
+**Your dashboard is at `~/Desktop/Claude Malaysia Beginner 101/build/index.html`. Want me to open it? Type YES**
 
-HARD GATE. On YES: macOS `open ~/Desktop/my-ai/build/index.html` · Windows `start "" "$HOME/Desktop/my-ai/build/index.html"` · Linux `xdg-open ~/Desktop/my-ai/build/index.html`. If it fails, give the path: "Open your Desktop, go into `my-ai`, then `build`, double-click."
+HARD GATE. On YES: macOS `open "$HOME/Desktop/Claude Malaysia Beginner 101/build/index.html"` · Windows `start "" "$HOME/Desktop/Claude Malaysia Beginner 101/build/index.html"` · Linux `xdg-open "$HOME/Desktop/Claude Malaysia Beginner 101/build/index.html"`. If it fails, give the path: "Open your Desktop, go into `Claude Malaysia Beginner 101`, then `build`, double-click."
 
 Only if they said yes:
 
@@ -143,7 +168,6 @@ Look at what's on screen and what they told you, and suggest ONE specific improv
 
 HARD GATE. Make the change with a targeted edit to `index.html` (never rewrite the whole file), then reopen it.
 
-> **No spreadsheet back in Lesson 4?** Offer it once here, in one line: *"Want to drop your spreadsheet in now so it's your real numbers? Drag it in, paste a link, or type YES to skip."* Handle it exactly like Lesson 4. Never push twice.
 
 ---
 
@@ -223,7 +247,7 @@ Say:
 
 HARD GATE. **They must type it — never publish unprompted.**
 
-When they do, publish `~/Desktop/my-ai/build/index.html` as an artifact and give them the link.
+When they do, publish `~/Desktop/Claude Malaysia Beginner 101/build/index.html` as an artifact and give them the link.
 
 Then say: **That link is private to you until you choose to share it.** Open it on your phone tonight.
 
@@ -233,7 +257,7 @@ Then say: **That link is private to you until you choose to share it.** Open it 
 
 **MAKE YOUR AI BRAIN WORK EVERYWHERE — the most valuable 30 seconds of the day:**
 
-> **WHY:** their AI Brain sits in `~/Desktop/my-ai/CLAUDE.md`, which Claude Code only reads when they're working in that folder. Realistically they never will. Without this step the best thing they built today quietly does nothing tomorrow. **Do NOT skip it.**
+> **WHY:** their AI Brain sits in `~/Desktop/Claude Malaysia Beginner 101/CLAUDE.md`, which Claude Code only reads when they're working in that folder. Realistically they never will. Without this step the best thing they built today quietly does nothing tomorrow. **Do NOT skip it.**
 
 **One last thing, and it's what makes today actually stick.**
 
@@ -243,12 +267,12 @@ Right now your AI Brain only works inside that folder — which, let's be honest
 
 HARD GATE. **They must ask — never do this unprompted.**
 
-When they do, read `~/Desktop/my-ai/CLAUDE.md` and write its contents into their global Claude memory at `~/.claude/CLAUDE.md`, followed by a short **`## My workshop setup`** block so any new session can find what they built:
+When they do, read `~/Desktop/Claude Malaysia Beginner 101/CLAUDE.md` and write its contents into their global Claude memory at `~/.claude/CLAUDE.md`, followed by a short **`## My workshop setup`** block so any new session can find what they built:
 
 ```
 ## My workshop setup
-- My skills are in ~/Desktop/my-ai/skills/. When I say "use my X skill", read X/SKILL.md there and follow it.
-- My dashboard is ~/Desktop/my-ai/build/index.html. "Rebuild my dashboard" = re-pull [their actual sources] + [their sheet path or link], update that file, then offer to republish the artifact.
+- My skills are in ~/Desktop/Claude Malaysia Beginner 101/skills/. When I say "use my X skill", read X/SKILL.md there and follow it.
+- My dashboard is ~/Desktop/Claude Malaysia Beginner 101/build/index.html. "Rebuild my dashboard" = re-pull [their actual sources] + [their file paths or links], update that file, then offer to republish the artifact.
 ```
 
 > **IF THAT FILE EXISTS, DO NOT OVERWRITE IT.** Append under a `# My AI Brain` heading, keeping everything already there. Never delete or replace someone's memory.
@@ -262,14 +286,14 @@ When they do, read `~/Desktop/my-ai/CLAUDE.md` and write its contents into their
 
 **THEIR NEXT STEPS — write it, don't just say it.**
 
-Nobody remembers a spoken to-do list. Write `~/Desktop/my-ai/NEXT-STEPS.md` from what ACTUALLY happened in their session — include only what applies:
+Nobody remembers a spoken to-do list. Write `~/Desktop/Claude Malaysia Beginner 101/NEXT-STEPS.md` from what ACTUALLY happened in their session — include only what applies:
 
 ```
 # Your Next Steps
 [name] · [date]
 
 ## Tonight (10 minutes)
-1. [ONLY if the global-memory step was blocked] Open Desktop/my-ai/CLAUDE.md,
+1. [ONLY if the global-memory step was blocked] Open Desktop/Claude Malaysia Beginner 101/CLAUDE.md,
    copy it, paste into Claude Code's memory settings.
 2. Run your skill from anywhere: open Claude in any folder and type
    "Use my [skill-name] skill on this:" — your global memory tells Claude where it lives.
@@ -288,7 +312,7 @@ Nobody remembers a spoken to-do list. Write `~/Desktop/my-ai/NEXT-STEPS.md` from
 - Something you'll repeat: do it once, then type "save this as a skill".
 
 ## Your files
-Everything is in Desktop/my-ai — brain, skills, dashboard, next steps.
+Everything is in Desktop/Claude Malaysia Beginner 101 — brain, skills, dashboard, next steps.
 ```
 
 **It's all written to `NEXT-STEPS.md` — you don't have to remember any of it.**
@@ -331,9 +355,9 @@ HARD GATE. Back their answer in one line and make it concrete: *"Good — do it 
 
 **OPEN THE FOLDER — the closure moment:**
 
-**Want me to open your my-ai folder? Type YES**
+**Want me to open your Claude Malaysia Beginner 101 folder? Type YES**
 
-HARD GATE. On YES: macOS `open ~/Desktop/my-ai` · Windows `start "" "$HOME/Desktop/my-ai"`. On no, skip straight to the next line.
+HARD GATE. On YES: macOS `open "$HOME/Desktop/Claude Malaysia Beginner 101"` · Windows `start "" "$HOME/Desktop/Claude Malaysia Beginner 101"`. On no, skip straight to the next line.
 
 **Look at that folder.** Your AI Brain. Your skills. Your first agent. Your connection plan. Your dashboard. Your next steps.
 

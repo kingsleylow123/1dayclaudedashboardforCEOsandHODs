@@ -4,7 +4,7 @@
 
 ```
 📍 LESSON 4 of 5 | Your First AI Agent
-⏱️ 9 min
+⏱️ 7 min
 🎯 Goal: A job that runs on its own, on a schedule
 🏆 Win: Your first agent — working while you're in meetings
 ```
@@ -34,7 +34,7 @@ Then say:
      └──────────┼──────────┘
                 ▼
      Reads your calendar, inbox,
-     spreadsheet, tools
+     and connected tools
                 ▼
      Result waiting for you ☕
 
@@ -51,7 +51,7 @@ Say: **Based on what you told me, here are 3 agents I'd set up for you first:**
 
 Write 3, one line each, each with WHEN it runs — from their role, tools and what they said they wanted in Lesson 1 Q5 — plus **4) Something else — tell me.**
 
-Shapes only, never copy: *"8am every day: what came in overnight that needs me"* · *"Monday 9am: last week's numbers vs target"* · *"Friday 5pm: who's waiting on me, and for how long"*.
+Shapes only, never copy: *"8am every day: what came in overnight that needs me"* · *"Monday 9am: this week's meetings and who I need to prep for"* · *"Friday 5pm: who's waiting on me, and for how long"*.
 
 **Type 1, 2, 3 or 4.** *(My pick for you: [best fit] — type YES to go with it.)*
 
@@ -59,47 +59,19 @@ HARD GATE.
 
 ---
 
-**ADD THEIR SPREADSHEET — this is the moment for data:**
-
-Say: **Want this agent to include your own numbers — a spreadsheet you check? Type YES**
-
-HARD GATE. If no: move on, the agent works from their connected tools. Never push twice.
-
-If YES — **four ways, whichever is easiest** *(stuck? Option 4 — just type your key numbers)*:
-
-**1.** **Drag the file in** — Excel, CSV, Numbers.
-**2.** **Or paste a link** — Google Sheets, Drive, Airtable, Notion.
-**3.** **Or copy the rows** and paste them here. Messy is fine.
-**4.** **Or just type the numbers.** *"Revenue 180k, target 250k, 14 deals open."*
-
-HARD GATE. Then handle it:
-- **File dragged in** → copy it to `~/Desktop/my-ai/data/` and read it properly. Work out what each column is.
-- **A link** → try to open it (works with the Drive connector on). **If you genuinely can't read it, say so straight away:** *"Can't get into that one from here — open it, select the rows, and paste them in."* Never pretend you read it, never invent what's in it.
-- **Pasted rows / typed numbers** → write them to `~/Desktop/my-ai/data/my-numbers.csv` and use as given.
-- Ambiguous column → ask ONE question. **Never guess what a column means, never silently drop rows.**
-
-Say back what you found in one line: **"Got it — [X] rows, looks like [what] by [what]. Right? Type YES"**
-
-HARD GATE.
-
-**Then ask about sync:** **Want your agent to read the latest version of this sheet automatically every time it runs? Type YES**
-
-HARD GATE. Be honest about what can sync:
-- **Google Sheet / Drive link** → yes, it reads the live sheet every run.
-- **File in `my-ai/data`** → yes, as long as they update that same file.
-- **Pasted rows or typed numbers** → no, that's a snapshot. Say: **"Pasted numbers don't update themselves. Put them in a Google Sheet, send me the link, and it'll stay fresh."**
-
-Everything they gave you is now in `~/Desktop/my-ai/data/` (or is a link you've noted) — it gets reused for the dashboard in Lesson 5.
+> 📊 **NO SPREADSHEETS OR DOCUMENTS IN THIS LESSON.** The agent works only from the tools they've connected (calendar, inbox, messaging, etc.). Sheets, PDFs and docs belong to the dashboard in Lesson 5. If they offer one: **"Hold that — it goes straight into your dashboard in Lesson 5. For now 👇"**
+>
+> **Nothing connected?** Your 3 suggestions above must be agents that need no tools — e.g. *"8am: my top 3 priorities for today, from what you know about me"* — and say: **"Once you connect your calendar and inbox tonight, it gets much smarter."**
 
 ---
 
-> ⚠️ **SCREEN CHECK FIRST:** you're about to read their live inbox and calendar. If their screen is mirrored to a projector, warn them: **"Heads up — I'm about to read your real inbox. If you're on the projector, want me to skip email? Type YES to skip."** Respect the answer, here and in Lesson 5.
+> ⚠️ **SCREEN CHECK FIRST:** you're about to read their live inbox and calendar. If their screen is mirrored to a projector, warn them: **"Heads up — I'm about to read your real inbox. If you're on the projector, want me to skip email? Type YES to skip."** Respect the answer, here and in Lesson 5. If nothing is connected, skip this check.
 
 **BUILD IT, THEN RUN IT ONCE — the proof:**
 
-Write the agent to `~/Desktop/my-ai/skills/my-[agent-name]/SKILL.md` (same format as Lesson 2), filled with their real details — the same steps as the task text below, so "Use my [agent] skill" also works by hand.
+Write the agent to `~/Desktop/Claude Malaysia Beginner 101/skills/my-[agent-name]/SKILL.md` (same format as Lesson 2), filled with their real details — the same steps as the task text below, so "Use my [agent] skill" also works by hand.
 
-**Do NOT open the file.** Run the agent right now instead: pull from their connected tools and their sheet, and output the real result — their real numbers, ⚠️ on anything needing a decision, ending with **"Your one thing today: ___"**.
+**Do NOT open the file.** Run the agent right now instead: pull from their connected tools and output the real result — their real items, ⚠️ on anything needing a decision, ending with **"Your one thing today: ___"**.
 
 **That's what lands in front of you [when it runs]. Without you lifting a finger.**
 
@@ -111,14 +83,13 @@ Write the agent to `~/Desktop/my-ai/skills/my-[agent-name]/SKILL.md` (same forma
 
 **Here's your text — copy this:**
 
-Write a ready-to-paste task in **plain English only — no file paths, no code**. 6-10 lines, their real details. If they chose sync, include where the sheet is in plain words (*"my Sales sheet in Google Drive"* / *"the spreadsheet in my my-ai folder on my Desktop"*). **Include only lines for tools you can actually reach and a sheet they actually gave — never leave a bracket unfilled.** The template below shows the shape:
+Write a ready-to-paste task in **plain English only — no file paths, no code**. 6-10 lines, their real details. **Never include a spreadsheet or document — only tools you can actually reach. Never leave a bracket unfilled.** The template below shows the shape:
 
 ```
 [When], give me my [agent name].
 
 Check my calendar for today and tomorrow.
 Check my inbox for anything from a client I haven't replied to.
-Read my [sheet name] and tell me [their key number] vs target.
 
 Lead with the most important thing.
 Maximum 5 bullets.

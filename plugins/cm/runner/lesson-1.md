@@ -89,7 +89,7 @@ Then: **Perfect. I know your whole world now 👀**
 
 **BUILD IT:**
 
-Create `~/Desktop/my-ai` (mkdir -p) and write `~/Desktop/my-ai/CLAUDE.md` — their AI Brain, in THEIR exact words, no placeholders:
+Create the folder `Claude Malaysia Beginner 101` on their Desktop (`mkdir -p "$HOME/Desktop/Claude Malaysia Beginner 101"`) and write `~/Desktop/Claude Malaysia Beginner 101/CLAUDE.md` — their AI Brain, in THEIR exact words, no placeholders:
 
 ```
 # My AI Brain
@@ -100,7 +100,7 @@ Create `~/Desktop/my-ai` (mkdir -p) and write `~/Desktop/my-ai/CLAUDE.md` — th
 ## What I'm Building With Claude — [their Q5 answer, word for word]
 ```
 
-> **PATH RULE — whole workshop:** every file goes under `~/Desktop/my-ai/` (the Lesson 5 dashboard in `~/Desktop/my-ai/build/`). Desktop on purpose — they should SEE the folder appear. Same on Mac and Windows. On Windows, write paths as `$HOME/Desktop/...` — never `%USERPROFILE%`, which doesn't expand in Claude's shell. If someone wants it elsewhere, honour that and use their location for every remaining lesson.
+> **PATH RULE — whole workshop:** every file goes under `~/Desktop/Claude Malaysia Beginner 101/` (the Lesson 5 dashboard in `~/Desktop/Claude Malaysia Beginner 101/build/`). Desktop on purpose — they should SEE the folder appear. Same on Mac and Windows. **The folder name has spaces — in every shell command, wrap the full path in double quotes and start it with `$HOME`** (e.g. `"$HOME/Desktop/Claude Malaysia Beginner 101/CLAUDE.md"`). `~` does not expand inside quotes, and `%USERPROFILE%` doesn't expand in Claude's shell on Windows. If someone wants it elsewhere, honour that and use their location for every remaining lesson.
 
 Then say:
 
@@ -133,7 +133,7 @@ You answered once. By the end of today it works in every Claude session.
 
 ---
 
-**OPEN IT** (open-moment 1 of 3). Run the open procedure from Section 1 on `~/Desktop/my-ai/CLAUDE.md`.
+**OPEN IT** (open-moment 1 of 3). Run the open procedure from Section 1 on `~/Desktop/Claude Malaysia Beginner 101/CLAUDE.md`.
 
 **Want me to open it so you can see the real thing? Type YES**
 
