@@ -26,10 +26,10 @@ Remember what you said you wanted most? **We're doing that now.**
    Gmail    Calendar    Drive    [their tools]
      └─────────┴──────────┴──────────┘
    + the spreadsheet from your agent in Lesson 4
-                    │  read only, never sent anywhere
+                    │  read only — leaves your machine only if you publish it
                     ▼
    ┌──────────────────────────────────────┐
-   │  YOUR DASHBOARD          🔄 refresh  │
+   │  YOUR DASHBOARD                      │
    │  ┌──────┬──────┬──────┬──────┐       │
    │  │  40  │ 201  │  10  │  ⚠️  │  KPIs │
    │  └──────┴──────┴──────┴──────┘       │
@@ -53,6 +53,8 @@ Show 3-4 examples at their altitude first so they're not answering into a void:
 > *"Whether we'll hit this quarter — and what to do today if we won't"* · *"Which project is bleeding money before it's too late"* · *"Who on my team is blocked"* · *"What I should walk in and deal with first"*
 (Creator: *"what to post next and what's working"*. Trader: *"whether to rebalance today"*.)
 
+**(My pick from what you told me: "[decision built from their Q5]" — type YES to go with it.)**
+
 HARD GATE. Vague answer → push back ONCE: *"Go one level sharper — what would you actually DO differently?"*
 
 **2. If you could only see FIVE numbers to make that call — what are they?**
@@ -61,31 +63,31 @@ Show what good looks like, matched to the decision they gave:
 > *"Will we hit the quarter"* → booked vs target · days left · deals open · average deal size · run-rate needed
 > *"Which project is bleeding"* → budget vs spend · days over schedule · open variations · unbilled work · cash collected
 
-**Rough is fine — guess if you have to. Tell me your five and I'll tell you which I can pull live.**
+**Rough is fine — guess if you have to. Tell me your five and I'll tell you which I can pull live.** **(My pick: [5 numbers matched to their decision] — type YES to go with them.)**
 
-HARD GATE. Then reflect back honestly: **"Of your five — I can pull [X and Y] live right now. [Z] lives in [tool], which needs the connection we planned, so I'll build the tile and mark it clearly until you wire it up."**
+HARD GATE. Then reflect back honestly: **"Of your five — I can pull [X and Y] live right now. [Z] lives in [tool], which needs the connection we planned, so I'll build the tile and mark it clearly until you wire it up. Type YES and I'll pull them now."**
 
-**Type YES to continue.** HARD GATE.
+HARD GATE.
 
 ---
 
 **PULL THEIR LIVE DATA:**
 
-> ⚠️ **SCREEN CHECK FIRST:** you're about to read their live inbox. If their screen is mirrored to a projector, warn them: **"Heads up — I'm about to read your real inbox. If you're on the projector, want to skip the email tiles?"** Respect the answer.
+> ⚠️ **Same projector rule as Lesson 4** — if they asked you to skip email then, skip it now too.
 
 Check which connectors you can ACTUALLY reach (look at your own available tools — don't ask them).
 
 **If you CAN reach connectors:** say **"Give me 20 seconds — pulling your actual numbers."** Then 2-4 quick pulls relevant to the dashboard they described. Gmail → unread, anything awaiting a reply. Calendar → today and tomorrow, hours booked. **Their spreadsheet from Lesson 4 → read it first; it's the headline.** Drive/Sheets → if they named another sheet, read it; if they only said "Drive", ask ONE question: **"Which sheet do you check most?"** Never guess at a spreadsheet — wrong numbers on a CEO's dashboard is worse than none.
 
-- **Read only. Never send, delete, reply to, or modify anything.**
-- Everything stays on their machine, baked into their own file.
+- **Read only during the pulls. Never send, delete, reply to, or modify anything.**
+- Everything stays on their machine, baked into their own file — until they choose to publish it.
 - Sensitive-looking? Put the number in without quoting private content.
 - A pull fails or is empty → move on silently.
 - **If fewer than 2 pulls return usable data, say so plainly** and switch to the path below. **NEVER invent a number to fill a tile.**
 
 **If you can reach NO connectors:** **"Your tools aren't wired to me yet — no problem at all. Connect them tonight and I'll pull them in automatically."** Build from their Lesson 4 spreadsheet (if they gave one) plus the five numbers from the interview.
 
-**Type YES to continue.** HARD GATE.
+Go straight on to the build — no extra pause here.
 
 ---
 
@@ -117,7 +119,7 @@ Write it **directly to `~/Desktop/my-ai/build/index.html`** with your Write tool
 
 **Your dashboard is at `~/Desktop/my-ai/build/index.html`. Want me to open it? Type YES**
 
-HARD GATE. On YES: macOS `open ~/Desktop/my-ai/build/index.html` · Windows `start %USERPROFILE%\Desktop\my-ai\build\index.html` · Linux `xdg-open ~/Desktop/my-ai/build/index.html`. If it fails, give the path: "Open your Desktop, go into `my-ai`, then `build`, double-click."
+HARD GATE. On YES: macOS `open ~/Desktop/my-ai/build/index.html` · Windows `start "" "$HOME/Desktop/my-ai/build/index.html"` · Linux `xdg-open ~/Desktop/my-ai/build/index.html`. If it fails, give the path: "Open your Desktop, go into `my-ai`, then `build`, double-click."
 
 Only if they said yes:
 
@@ -139,7 +141,7 @@ This is the best part of the session. **Round one is Claude's dashboard. Round t
 
 Look at what's on screen and what they told you, and suggest ONE specific improvement: *"I'd make [their key number] the big hero tile and move the calendar lower — type YES, or tell me what you'd change."*
 
-HARD GATE. Make the change, rewrite the file, reopen it.
+HARD GATE. Make the change with a targeted edit to `index.html` (never rewrite the whole file), then reopen it.
 
 > **No spreadsheet back in Lesson 4?** Offer it once here, in one line: *"Want to drop your spreadsheet in now so it's your real numbers? Drag it in, paste a link, or type YES to skip."* Handle it exactly like Lesson 4. Never push twice.
 
@@ -147,27 +149,26 @@ HARD GATE. Make the change, rewrite the file, reopen it.
 
 **THEN KEEP GOING — the rest of the loop:**
 
-**What else would you change? (Or type YES if you're happy.)**
+**What else would you change? (My pick: [one specific change from what's on screen] — type YES to do it.)**
 
 Anything. Bigger numbers, different colour, drop a tile, add one, move things around, "make it look more serious", "I hate that chart".
 
 **Just say it in plain English — I'll rebuild it in seconds.**
 
-HARD GATE. Then loop: make the change, rewrite the file, reopen it, and ask **"Better? What else?"**
+HARD GATE. Then loop: make the change with a targeted edit (never a full rewrite), reopen it, and ask **"Better? What else? (My pick: [X] — type YES.)"**
 
-**MINIMUM 2 ROUNDS — do not let them skip this.**
-If they say "it's fine" straight away: **"Humour me — one change. Anything. A colour, a size, a tile you'd drop."** They almost always have one, and that's the round where it becomes theirs.
+**MINIMUM 2 ROUNDS.** YES to your pick counts as round two — that's how someone who says "it's fine" still gets a round that makes it theirs.
 
 **STOP when ANY of these happen:**
 - They say perfect / great / done / love it
 - **Two rounds running of only cosmetic tweaks** — you've hit diminishing returns
 - They go vague — "yeah ok", "sure". That's boredom, not satisfaction
 - They ask for something needing data they don't have → **"That one's a tonight job — it's going in your next-steps."**
-- **4 rounds, or about 5 minutes. Whichever comes first.**
+- **3 rounds, or about 4 minutes. Whichever comes first.**
 
 **YOU offer the exit — never wait to be dismissed.** When you hit any signal above:
 
-**One more change and I'll lock it in — what's the last thing?**
+**One more change and I'll lock it in — what's the last thing? (My pick: [X] — type YES.)**
 
 HARD GATE. Make that change, then move on. Do not ask "anything else?" again.
 
@@ -192,7 +193,7 @@ That's how everything works from here. You don't need to know how. You need to k
 
 **Two things so you're never stuck.**
 
-**1. Fresh numbers:** say **"rebuild my dashboard"**. 15 seconds. Tomorrow, next Monday, before a board meeting.
+**1. Fresh numbers:** say **"rebuild my dashboard"**. About a minute. Tomorrow, next Monday, before a board meeting.
 
 **2. A whole new dashboard, any time:** you don't need this workshop again.
 
@@ -242,12 +243,18 @@ Right now your AI Brain only works inside that folder — which, let's be honest
 
 HARD GATE. **They must ask — never do this unprompted.**
 
-When they do, read `~/Desktop/my-ai/CLAUDE.md` and write its contents into their global Claude memory at `~/.claude/CLAUDE.md`.
+When they do, read `~/Desktop/my-ai/CLAUDE.md` and write its contents into their global Claude memory at `~/.claude/CLAUDE.md`, followed by a short **`## My workshop setup`** block so any new session can find what they built:
+
+```
+## My workshop setup
+- My skills are in ~/Desktop/my-ai/skills/. When I say "use my X skill", read X/SKILL.md there and follow it.
+- My dashboard is ~/Desktop/my-ai/build/index.html. "Rebuild my dashboard" = re-pull [their actual sources] + [their sheet path or link], update that file, then offer to republish the artifact.
+```
 
 > **IF THAT FILE EXISTS, DO NOT OVERWRITE IT.** Append under a `# My AI Brain` heading, keeping everything already there. Never delete or replace someone's memory.
 > **IF ANYTHING BLOCKS IT**, don't fight it and don't apologise: **"Your setup wants you to do that by hand — open Claude Code's memory settings and paste your AI Brain in. Takes 20 seconds, and it's in your next-steps."** Move on. The workshop is complete either way.
 
-**Done. Open Claude in any folder, any project — it already knows who you are.**
+**On success only:** **Done. Open Claude in any folder, any project — it already knows who you are.**
 
 **Type YES to continue.** HARD GATE.
 
@@ -264,12 +271,9 @@ Nobody remembers a spoken to-do list. Write `~/Desktop/my-ai/NEXT-STEPS.md` from
 ## Tonight (10 minutes)
 1. [ONLY if the global-memory step was blocked] Open Desktop/my-ai/CLAUDE.md,
    copy it, paste into Claude Code's memory settings.
-2. Turn your skill into a /slash command (3 min):
-   Open a NEW Claude Code window and paste:
-   "Create a skill called [their-skill] and install it so I can run it with a
-    slash command. Here's what it does: [contents of their SKILL.md]"
-   Then restart Claude Code. Type / and it's there.
-3. [If they're on the fallback option] Set a phone alarm for your agent.
+2. Run your skill from anywhere: open Claude in any folder and type
+   "Use my [skill-name] skill on this:" — your global memory tells Claude where it lives.
+3. [If they're on the fallback option] Set a phone alarm, then paste your agent's text into Claude.
 
 ## This week
 4. Connect the tools we couldn't reach: [their specific tools]
@@ -289,15 +293,13 @@ Everything is in Desktop/my-ai — brain, skills, dashboard, next steps.
 
 **It's all written to `NEXT-STEPS.md` — you don't have to remember any of it.**
 
+**Only if you can reach their Gmail**, add on the same message: **Want a copy in your inbox too — dashboard link, AI Brain and homework? Type YES** — then HARD GATE. If you can't reach Gmail, skip this silently, never mention it, and go straight to the recap.
+
 ---
 
-**EMAIL YOURSELF A COPY — only if Gmail is connected:**
+**EMAIL YOURSELF A COPY — on YES only:**
 
-Check whether you can reach their Gmail. **If you can't, skip this silently** — never mention it.
-
-If you can, say: **Want a copy of everything in your inbox — your dashboard link, your AI Brain and your homework? Type YES**
-
-HARD GATE. On YES, **create a DRAFT** (never send) to their own Gmail address:
+**Create a DRAFT** (never send). Address it to the connected Gmail account's own address (from its profile). If you can't tell what that is, leave the To field empty and say **"add your address and hit Send"**.
 - **Subject:** "My Claude Dashboard workshop — [date]"
 - **Body:** their dashboard artifact link (if published) · their AI Brain · their skill name and how to use it ("Use my [skill] skill on this…") · their agent and when it runs · their NEXT-STEPS list.
 
@@ -311,17 +313,17 @@ Then: **It's in your Gmail drafts — open it and hit Send to yourself.**
 
 Don't list lesson titles. For each, name what THEY built and one thing to do with it tomorrow. Their real skill names, their real numbers, their department. One short block each:
 
-> **1 · Your AI Brain** — you told me [their role], I wrote it down, and now it's in your global memory. → *Claude opens already knowing that.*
+> **1 · Your AI Brain** — you told me [their role], I wrote it down, and now it's [in your global memory | one paste away — it's in your next-steps]. → *Claude opens already knowing that.*
 > **2 · Your Automated AI SOP** — **[their skill name]**, [what it does]. → *Do it once, type "save this as a skill".*
 > **3 · Connections** — [what's live]; [their no-connector tool] needs the MCP, prompt's written. → *Tonight.*
 > **4 · Your first agent** — [what it does], runs [when]. → *Add a second scheduled task = a second agent.*
-> **5 · Your dashboard** — [their headline number] on screen, published at your link, changed until it was right. → *"Rebuild my dashboard" any morning.*
+> **5 · Your dashboard** — [their headline number] on screen, [published at your link | on your Desktop], changed until it was right. → *"Rebuild my dashboard" any morning.*
 
 **Five things that didn't exist an hour ago. All yours, all running on your actual business.**
 
 Then the last gate:
 
-**Which ONE are you actually going to use first this week?**
+**Which ONE are you actually going to use first this week? (My pick: [their agent] — type YES.)**
 
 HARD GATE. Back their answer in one line and make it concrete: *"Good — do it [specific day]. That's the one that compounds."*
 
@@ -329,7 +331,9 @@ HARD GATE. Back their answer in one line and make it concrete: *"Good — do it 
 
 **OPEN THE FOLDER — the closure moment:**
 
-Open `~/Desktop/my-ai` (macOS `open ~/Desktop/my-ai` · Windows `start %USERPROFILE%\Desktop\my-ai`).
+**Want me to open your my-ai folder? Type YES**
+
+HARD GATE. On YES: macOS `open ~/Desktop/my-ai` · Windows `start "" "$HOME/Desktop/my-ai"`. On no, skip straight to the next line.
 
 **Look at that folder.** Your AI Brain. Your skills. Your first agent. Your connection plan. Your dashboard. Your next steps.
 
@@ -346,9 +350,9 @@ AI Brain + brand brief        RM2-3k  (agency)
 Automated AI SOP              RM2-3k/mo  (admin/VA)
 Connection plan               RM2-3k  (consultant)
 Your dashboard                RM50k+  (dev team)
-Your first AI agent           RM3-4k/mo  (assistant)
+Your first AI agent           RM3-4k/mo  (executive assistant)
 ─────────────────────────────────────────────────
-TOTAL: about RM50k one-off, plus RM8-10k every month.
+TOTAL: about RM55k one-off, plus RM5-7k every month.
 ```
 
 **And you did it before the day was out. Yourself. With no code.**
@@ -363,7 +367,7 @@ Most people who open Claude never build anything. They read about it. They watch
 
 You're not someone who's heard about AI anymore. You're someone who's shipped with it.
 
-Tomorrow morning your first agent runs on its own. See how it feels. 🔥
+Say the TRUE one: **Next [when], your agent runs on its own. See how it feels. 🔥** (saved) — or — **Next [when], paste your agent's text into Claude. See how it feels. 🔥** (fallback)
 
 ---
 

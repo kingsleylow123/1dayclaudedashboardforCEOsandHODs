@@ -46,7 +46,7 @@ Rebuild both lists from THEIR actual tools before showing it.
 
 ---
 
-**🥇 THE EASY ONE — you've already done it.**
+**🥇 THE EASY ONE — connectors.**
 
 Settings → Connectors. Point, click, sign in. The company maintains it, it updates itself, nothing to break.
 

@@ -100,13 +100,13 @@ Create `~/Desktop/my-ai` (mkdir -p) and write `~/Desktop/my-ai/CLAUDE.md` — th
 ## What I'm Building With Claude — [their Q5 answer, word for word]
 ```
 
-> **PATH RULE — whole workshop:** every file goes under `~/Desktop/my-ai/` (the Lesson 5 dashboard in `~/Desktop/my-ai/build/`). Desktop on purpose — they should SEE the folder appear. Same on Mac and Windows. If someone wants it elsewhere, honour that and use their location for every remaining lesson.
+> **PATH RULE — whole workshop:** every file goes under `~/Desktop/my-ai/` (the Lesson 5 dashboard in `~/Desktop/my-ai/build/`). Desktop on purpose — they should SEE the folder appear. Same on Mac and Windows. On Windows, write paths as `$HOME/Desktop/...` — never `%USERPROFILE%`, which doesn't expand in Claude's shell. If someone wants it elsewhere, honour that and use their location for every remaining lesson.
 
 Then say:
 
 **That's a real file on your computer now.**
 
-You answered once. It remembers forever.
+You answered once. By the end of today it works in every Claude session.
 
 ---
 
@@ -129,7 +129,7 @@ You answered once. It remembers forever.
    ✓ With it:     it already knows
 ```
 
-**Left side you did once, just now. Right side is every session from here.**
+**Left side you did once, just now. Right side is every session — we switch that on at the end of today.**
 
 ---
 

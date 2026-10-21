@@ -6,7 +6,7 @@
 📍 LESSON 4 of 5 | Your First AI Agent
 ⏱️ 9 min
 🎯 Goal: A job that runs on its own, on a schedule
-🏆 Win: Your first agent — working before you're awake
+🏆 Win: Your first agent — working while you're in meetings
 ```
 
 Then say:
@@ -22,7 +22,7 @@ Then say:
 **📐 SHOW THE DIAGRAM** — swap in THEIR tools and THEIR agent ideas:
 
 ```
-              CLAUDE  (runs while you sleep)
+              CLAUDE  (runs on its own, on schedule)
                  │
      ┌───────────┼───────────┐
      ▼           ▼           ▼
@@ -65,7 +65,7 @@ Say: **Want this agent to include your own numbers — a spreadsheet you check? 
 
 HARD GATE. If no: move on, the agent works from their connected tools. Never push twice.
 
-If YES — **four ways, whichever is easiest:**
+If YES — **four ways, whichever is easiest** *(stuck? Option 4 — just type your key numbers)*:
 
 **1.** **Drag the file in** — Excel, CSV, Numbers.
 **2.** **Or paste a link** — Google Sheets, Drive, Airtable, Notion.
@@ -75,7 +75,7 @@ If YES — **four ways, whichever is easiest:**
 HARD GATE. Then handle it:
 - **File dragged in** → copy it to `~/Desktop/my-ai/data/` and read it properly. Work out what each column is.
 - **A link** → try to open it (works with the Drive connector on). **If you genuinely can't read it, say so straight away:** *"Can't get into that one from here — open it, select the rows, and paste them in."* Never pretend you read it, never invent what's in it.
-- **Pasted rows / typed numbers** → use as given.
+- **Pasted rows / typed numbers** → write them to `~/Desktop/my-ai/data/my-numbers.csv` and use as given.
 - Ambiguous column → ask ONE question. **Never guess what a column means, never silently drop rows.**
 
 Say back what you found in one line: **"Got it — [X] rows, looks like [what] by [what]. Right? Type YES"**
@@ -89,13 +89,15 @@ HARD GATE. Be honest about what can sync:
 - **File in `my-ai/data`** → yes, as long as they update that same file.
 - **Pasted rows or typed numbers** → no, that's a snapshot. Say: **"Pasted numbers don't update themselves. Put them in a Google Sheet, send me the link, and it'll stay fresh."**
 
-Save whatever they gave you — it gets reused for the dashboard in Lesson 5.
+Everything they gave you is now in `~/Desktop/my-ai/data/` (or is a link you've noted) — it gets reused for the dashboard in Lesson 5.
 
 ---
 
+> ⚠️ **SCREEN CHECK FIRST:** you're about to read their live inbox and calendar. If their screen is mirrored to a projector, warn them: **"Heads up — I'm about to read your real inbox. If you're on the projector, want me to skip email? Type YES to skip."** Respect the answer, here and in Lesson 5.
+
 **BUILD IT, THEN RUN IT ONCE — the proof:**
 
-Write the agent to `~/Desktop/my-ai/skills/[agent-name]/SKILL.md` (same format as Lesson 2), filled with their real details.
+Write the agent to `~/Desktop/my-ai/skills/my-[agent-name]/SKILL.md` (same format as Lesson 2), filled with their real details — the same steps as the task text below, so "Use my [agent] skill" also works by hand.
 
 **Do NOT open the file.** Run the agent right now instead: pull from their connected tools and their sheet, and output the real result — their real numbers, ⚠️ on anything needing a decision, ending with **"Your one thing today: ___"**.
 
@@ -109,7 +111,7 @@ Write the agent to `~/Desktop/my-ai/skills/[agent-name]/SKILL.md` (same format a
 
 **Here's your text — copy this:**
 
-Write a ready-to-paste task in **plain English only — no file paths, no code**. 6-10 lines, their real details. If they chose sync, include where the sheet is in plain words (*"my Sales sheet in Google Drive"* / *"the spreadsheet in my my-ai folder on my Desktop"*):
+Write a ready-to-paste task in **plain English only — no file paths, no code**. 6-10 lines, their real details. If they chose sync, include where the sheet is in plain words (*"my Sales sheet in Google Drive"* / *"the spreadsheet in my my-ai folder on my Desktop"*). **Include only lines for tools you can actually reach and a sheet they actually gave — never leave a bracket unfilled.** The template below shows the shape:
 
 ```
 [When], give me my [agent name].
@@ -133,19 +135,19 @@ Then say:
 
 HARD GATE.
 
-> **IF THEY CAN'T FIND SCHEDULED TASKS** — don't debug their screen. One line: **"No problem — your version may not have it yet. Just type 'run my [agent name]' each morning, or set a phone alarm to remind you."** Treat that as complete success.
+> **IF THEY CAN'T FIND SCHEDULED TASKS** — don't debug their screen. One line: **"No problem — your version may not have it yet. Just paste that same text into Claude each morning, or set a phone alarm to remind you."** Treat that as complete success.
 >
 > 🚫 **NEVER** write a crontab entry, launchd plist, systemd timer, login item, or edit any system or shell config — **and never create the scheduled task on their behalf with a tool, even if one is available.** They click Create themselves.
 
 Then say the TRUE one, never both:
-- **Saved:** **"Done — that's your first agent. It runs [when] without you touching anything."** ☕
-- **Fallback:** **"Done — one line and it's there in seconds."** ☕
+- **Saved:** **"Done — that's your first agent. It runs [when] on its own, as long as your computer's on and Claude is open."** ☕
+- **Fallback:** **"Done — one paste and it's there in seconds."** ☕
 
-**And here's the bit most people miss: every scheduled task you create is another agent. Want a second one? Same steps — after class.**
+**And here's the bit most people miss: every scheduled task you create is another agent. Add a second one after class — same steps.**
 
 ---
 
-💰 **VALUE MOMENT:** **An assistant who prepares this for you every day costs RM3-4k a month. Yours is already hired. 🔥**
+💰 **VALUE MOMENT:** **An executive assistant who prepares this for you every day costs RM3-4k a month. Yours is already hired. 🔥**
 
 ---
 

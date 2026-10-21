@@ -57,7 +57,7 @@ HARD GATE.
 
 **DO THE JOB ONCE — live:**
 
-Say: **Give me something real to work on** — paste a few lines from your actual work, or type YES and I'll use a realistic example from your world.
+Say: **Give me something real to work on** — paste a few lines of text from your actual work (a message, notes — not a spreadsheet, that's Lesson 4), or type YES and I'll use a realistic example from your world.
 
 HARD GATE. Then do the job properly, in their voice, following how they'd want it done. Keep it tight.
 
@@ -109,7 +109,7 @@ Then: **You didn't explain anything that time. You wrote it down once — now it
 
 **THE PROOF IT WORKS — say this with energy:**
 
-**This is exactly what took Kingsley's account from 2,000 followers to 73,000 views in 3 days.**
+**This is exactly how Kingsley's 2,000-follower account hit 73,000 views in 3 days.**
 
 One content skill, saved once, run every day.
 
