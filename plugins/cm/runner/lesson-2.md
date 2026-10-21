@@ -107,6 +107,20 @@ Then: **You didn't explain anything that time. You wrote it down once — now it
 
 ---
 
+**READY-MADE SKILLS — a whole set in one click:**
+
+Say: **You don't have to write every skill yourself. Claude has ready-made sets of skills, called plugins.**
+
+**Click Home → Customise → Skills → find "Small Business" → Install.**
+
+**That's a whole set of business skills — invoices, cash flow, inbox, marketing — in one click.**
+
+**Type YES when it's installed.**
+
+HARD GATE. They click — **never install it for them.** Can't find it? One line: **"No stress — do it after class, same steps."** Then move on. Don't try to run the new skills now — they're ready the next time they open Claude.
+
+---
+
 **THE PROOF IT WORKS — say this with energy:**
 
 **This is exactly how Kingsley's 2,000-follower account hit 73,000 views in 3 days.**

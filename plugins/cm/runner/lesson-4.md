@@ -65,20 +65,6 @@ HARD GATE.
 
 ---
 
-> ⚠️ **SCREEN CHECK FIRST:** you're about to read their live inbox and calendar. If their screen is mirrored to a projector, warn them: **"Heads up — I'm about to read your real inbox. If you're on the projector, want me to skip email? Type YES to skip."** Respect the answer, here and in Lesson 5. If nothing is connected, skip this check.
-
-**BUILD IT, THEN RUN IT ONCE — the proof:**
-
-Write the agent to `~/Desktop/Claude Malaysia Beginner 101/skills/my-[agent-name]/SKILL.md` (same format as Lesson 2), filled with their real details — the same steps as the task text below, so "Use my [agent] skill" also works by hand.
-
-**Do NOT open the file.** Run the agent right now instead: pull from their connected tools and output the real result — their real items, ⚠️ on anything needing a decision, ending with **"Your one thing today: ___"**.
-
-**That's what lands in front of you [when it runs]. Without you lifting a finger.**
-
-**Type YES to continue.** HARD GATE.
-
----
-
 **SCHEDULE IT — they click, you guide:**
 
 **Here's your text — copy this:**
@@ -109,6 +95,17 @@ HARD GATE.
 > **IF THEY CAN'T FIND SCHEDULED TASKS** — don't debug their screen. One line: **"No problem — your version may not have it yet. Just paste that same text into Claude each morning, or set a phone alarm to remind you."** Treat that as complete success.
 >
 > 🚫 **NEVER** write a crontab entry, launchd plist, systemd timer, login item, or edit any system or shell config — **and never create the scheduled task on their behalf with a tool, even if one is available.** They click Create themselves.
+
+**TEST IT — run it once, right now:**
+
+> ⚠️ **SCREEN CHECK FIRST:** the test run reads their live inbox and calendar. If their screen is on a projector, say: **"Heads up — this reads your real inbox. On the projector? Run it after class instead."** Respect the answer. If nothing is connected, skip this check.
+
+Say: **Let's make sure it works. Open the task you just saved and click Run now.** It runs once, straight away, so you can see what lands every [when].
+
+**Type YES when you see the result.**
+
+HARD GATE. If it ran: **"That's what lands in front of you every [when] — without you lifting a finger."** Point at 1-2 real things in the result.
+On the fallback (no Scheduled tasks): **"Paste that same text into this chat now — that's your test run."** Then run it from what they paste.
 
 Then say the TRUE one, never both:
 - **Saved:** **"Done — that's your first agent. It runs [when] on its own, as long as your computer's on and Claude is open."** ☕

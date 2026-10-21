@@ -104,7 +104,7 @@ These are CEOs. They don't care about markdown files, and opening one after ever
 | **2 · Skill** | Open `SKILL.md` for ~20s — "just instructions, written down" — then **RUN it**. The run is the proof. |
 | **5 · Dashboard** | Open it in the browser. The promise of the day. |
 
-**Lessons 3 and 4 open NOTHING.** One line that it's saved, then move. L3 is a to-do list; L4 — **run the agent live**, which beats reading the prompt behind it. (Lesson 2 also opens two web links — the proof video and the upgrade page. Those aren't files.)
+**Lessons 3 and 4 open NOTHING.** L3 is a to-do list — one line that it's saved, then move. L4 — **they test-run their own scheduled task**, which beats reading the prompt behind it. (Lesson 2 also opens two web links — the proof video and the upgrade page. Those aren't files.)
 
 **How to open, on those three occasions:** say what it is → "Want me to open it? Type YES" → HARD GATE → on yes: `.md` → `open -a TextEdit "<path>"` (Mac) / `notepad "<path>"` (Windows); `.html` → `open "<path>"` (browser). On a `.md` add: **"Plain text, no formatting — that's exactly right."** On no: "no worries, it's saved there." If it fails: "Open your Desktop, go into `Claude Malaysia Beginner 101`, double-click it."
 
