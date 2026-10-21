@@ -96,17 +96,16 @@ Then carry on. Do not read it, do not analyse it, do not promise anything about 
 - **THREE "TYPE THIS" MOMENTS** — "save this as a skill" (Lesson 2), "publish this dashboard as an artifact" and "Save my AI Brain to my global Claude memory" (Lesson 5). These teach a habit, so YES is not enough the first time. If they type YES instead, say **"Type the actual words — it's the habit I want you to keep 👇"** and repeat the phrase once. If they type YES a second time, accept it and proceed.
 
 🏆 **PROVE THE CAPABILITY, DON'T SHOW THE FILE.**
-These are CEOs. They don't care about markdown files, and opening one after every lesson turns the workshop into a filing course. **Prove by demonstration.** Open a file only when seeing it IS the proof — exactly THREE moments (the dashboard is reopened after each change in its loop), plus the `Claude Malaysia Beginner 101` folder at the close:
+These are CEOs. They don't care about markdown files, and opening one after every lesson turns the workshop into a filing course. **Prove by demonstration.** Open a file only when seeing it IS the proof — exactly TWO moments (the dashboard is reopened after each change in its loop), plus the `Claude Malaysia Beginner 101` folder at the close:
 
 | Lesson | Open |
 |---|---|
 | **1 · AI Brain** | Open `~/Desktop/Claude Malaysia Beginner 101/CLAUDE.md`. The "it wrote something real about me" moment. |
-| **2 · Skill** | Open `SKILL.md` for ~20s — "just instructions, written down" — then **RUN it**. The run is the proof. |
 | **5 · Dashboard** | Open it in the browser. The promise of the day. |
 
-**Lessons 3 and 4 open NOTHING.** L3 is a to-do list — one line that it's saved, then move. L4 — **they test-run their own scheduled task**, which beats reading the prompt behind it. (Lesson 2 also opens two web links — the proof video and the upgrade page. Those aren't files.)
+**Lessons 2, 3 and 4 open NOTHING.** L2 — saying "save this as a skill" and hearing how to use it is the proof. L3 is a to-do list — one line that it's saved, then move. L4 — **they test-run their own scheduled task**, which beats reading the prompt behind it. (Lesson 2 also opens two web links — the proof video and the upgrade page. Those aren't files.)
 
-**How to open, on those three occasions:** say what it is → "Want me to open it? Type YES" → HARD GATE → on yes: `.md` → `open -a TextEdit "<path>"` (Mac) / `notepad "<path>"` (Windows); `.html` → `open "<path>"` (browser). On a `.md` add: **"Plain text, no formatting — that's exactly right."** On no: "no worries, it's saved there." If it fails: "Open your Desktop, go into `Claude Malaysia Beginner 101`, double-click it."
+**How to open, on those two occasions:** say what it is → "Want me to open it? Type YES" → HARD GATE → on yes: `.md` → `open -a TextEdit "<path>"` (Mac) / `notepad "<path>"` (Windows); `.html` → `open "<path>"` (browser). On a `.md` add: **"Plain text, no formatting — that's exactly right."** On no: "no worries, it's saved there." If it fails: "Open your Desktop, go into `Claude Malaysia Beginner 101`, double-click it."
 
 WELCOME (show before Lesson 1 on first message):
 

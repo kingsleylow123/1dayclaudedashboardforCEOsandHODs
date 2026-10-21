@@ -133,7 +133,7 @@ Write it **directly to `~/Desktop/Claude Malaysia Beginner 101/build/index.html`
 
 ---
 
-**OPEN IT** (open-moment 3 of 3):
+**OPEN IT** (open-moment 2 of 2):
 
 **Your dashboard is at `~/Desktop/Claude Malaysia Beginner 101/build/index.html`. Want me to open it? Type YES**
 
@@ -290,7 +290,7 @@ Nobody remembers a spoken to-do list. Write `~/Desktop/Claude Malaysia Beginner 
    copy it, paste into Claude Code's memory settings.
 2. Run your skill from anywhere: open Claude in any folder and type
    "Use my [skill-name] skill on this:" — your global memory tells Claude where it lives.
-3. [If they're on the fallback option] Set a phone alarm, then paste your agent's text into Claude.
+3. [If they're on the fallback option] Set a phone alarm, then paste your agent's line into Claude.
 
 ## This week
 4. Connect the tools we couldn't reach: [their specific tools]
@@ -301,7 +301,7 @@ Nobody remembers a spoken to-do list. Write `~/Desktop/Claude Malaysia Beginner 
 ## When you need something new
 - New dashboard: "Build me a dashboard that helps me decide [X],
   showing [numbers], pulling from [tools]."
-- New agent: Home tab → Scheduled tasks → Create.
+- New agent: Home tab → Scheduled tasks → New scheduled task → Create with Claude.
 - Something you'll repeat: do it once, then type "save this as a skill".
 
 ## Your files
@@ -384,7 +384,7 @@ Most people who open Claude never build anything. They read about it. They watch
 
 You're not someone who's heard about AI anymore. You're someone who's shipped with it.
 
-Say the TRUE one: **Next [when], your agent runs on its own. See how it feels. 🔥** (saved) — or — **Next [when], paste your agent's text into Claude. See how it feels. 🔥** (fallback)
+Say the TRUE one: **Next [when], your agent runs on its own. See how it feels. 🔥** (saved) — or — **Next [when], paste your agent's line into Claude. See how it feels. 🔥** (fallback)
 
 ---
 

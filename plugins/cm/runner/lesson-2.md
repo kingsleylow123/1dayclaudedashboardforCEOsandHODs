@@ -41,11 +41,11 @@ Then say:
 
 ---
 
-**SUGGEST 3 — built from what they told you in Lesson 1:**
+**SUGGEST 3 — things they do by hand:**
 
-Say: **Based on what you told me, here are 3 jobs I think you repeat every week:**
+Say: **Based on what you told me, here are 3 things I think you do by hand, again and again:**
 
-Write 3, one line each, using their role, their team, their tools and their words — plus **4) Something else — tell me the job.**
+Write 3, one line each, using their role, their team, their tools and their words — plus **4) Something else — type it in.**
 
 Shapes only, never copy: *"turn the week's scattered updates into one summary"* · *"draft the chase message for anyone who's gone quiet"* · *"turn a messy brain-dump into a clear plan"*.
 
@@ -55,69 +55,49 @@ HARD GATE.
 
 ---
 
-**DO THE JOB ONCE — live:**
+**DO IT ONCE — live, right here in this window:**
 
-Say: **Give me something real to work on** — paste a few lines of text from your actual work (a message, notes — not a spreadsheet or PDF, that's for your dashboard in Lesson 5), or type YES and I'll use a realistic example from your world.
+Say: **Let's do it once together. Paste a few lines from your real work** (a message, notes — not a spreadsheet or PDF, that's for your dashboard in Lesson 5) — **or type YES and I'll use a realistic example from your world.**
 
-HARD GATE. Then do the job properly, in their voice, following how they'd want it done. Keep it tight.
-
-Then ask ONE question: **Anything you'd change about how I did that?** *(Or type YES if it's good.)*
-
-HARD GATE. Apply any change.
+HARD GATE. Do the job properly, in their voice. Keep it tight. One line after: **Anything you'd change? (Or type YES if it's good.)** HARD GATE. Apply any change.
 
 ---
 
-**NOW SAVE IT — the most useful sentence they'll learn today:**
+**SAVE IT — the most useful sentence they'll learn today:**
 
 Say:
 
-**Here's the habit that changes everything. Whenever I do something you'll want again, you just type:**
+**Here's the habit. If you find yourself doing this every day — then right here, in the same window, just type:**
 
 > **"save this as a skill"**
 
 **Go on — type it now.**
 
-HARD GATE. When they do, write `~/Desktop/Claude Malaysia Beginner 101/skills/my-[skill-name]/SKILL.md`:
+HARD GATE (this is a "type this" moment — see the hand-off rule). When they do:
+1. Write `~/.claude/skills/my-[skill-name]/SKILL.md` — their personal skills folder, which Claude reads automatically in every new session. They asked for it, so this is their own save.
+2. Also copy it to `~/Desktop/Claude Malaysia Beginner 101/skills/my-[skill-name]/SKILL.md` so they can see it with everything else.
 
 ```
 ---
 name: my-[skill-name]
-description: [one line — what it does and when to use it]
+description: [one line — what it does and WHEN to use it, in their words, so Claude can recognise the job]
 ---
 [the steps and the rules, exactly as they just did the job — including their change]
 ```
 
-Then: **Saved. That's your first Automated AI SOP.**
+> **IF WRITING TO `~/.claude/skills` IS BLOCKED**, don't fight it: save the Desktop copy only and say **"Saved on your Desktop — we'll hook it up to every session at the end of today."** (The global-memory step in Lesson 5 points Claude at it.)
 
-**Want me to open it so you can see it? Type YES** (open-moment 2 of 3)
+Then say:
 
-HARD GATE. On YES, open it for ~20 seconds. Say: **"See — that's all a skill is. Your SOP, written down once."** Point at 2 things in it that came from THEIR words.
+**Saved. That's your first Automated AI SOP.**
 
----
+**From your next session, two ways to use it:**
+**1.** Say **"use my [skill-name] skill"** — and paste the new stuff.
+**2.** Or just ask for the job in plain English — **Claude often picks the right skill by itself, without you asking.**
 
-**RUN IT AGAIN — the proof:**
+**But it only works if you say "save this as a skill" first. That one sentence is the whole trick.**
 
-> Their skill lives in `~/Desktop/Claude Malaysia Beginner 101/skills/`, which Claude Code does NOT auto-load, so a slash command for it won't work in this session. **Never tell them to type a slash.** They run it by name — a genuine skill run: you read their SKILL.md and follow it exactly.
-
-Say: **Now type: "Use my [skill-name] skill on this:" — and paste something new.** *(Or type YES and I'll use a fresh example.)*
-
-HARD GATE. Follow their SKILL.md to the letter.
-
-Then: **You didn't explain anything that time. You wrote it down once — now it just happens.**
-
----
-
-**READY-MADE SKILLS — a whole set in one click:**
-
-Say: **You don't have to write every skill yourself. Claude has ready-made sets of skills, called plugins.**
-
-**Click Home → Customise → Skills → find "Small Business" → Install.**
-
-**That's a whole set of business skills — invoices, cash flow, inbox, marketing — in one click.**
-
-**Type YES when it's installed.**
-
-HARD GATE. They click — **never install it for them.** Can't find it? One line: **"No stress — do it after class, same steps."** Then move on. Don't try to run the new skills now — they're ready the next time they open Claude.
+**Type YES to continue.** HARD GATE.
 
 ---
 
@@ -125,7 +105,7 @@ HARD GATE. They click — **never install it for them.** Can't find it? One line
 
 **This is exactly how Kingsley's 2,000-follower account hit 73,000 views in 3 days.**
 
-One content skill, saved once, run every day.
+One content skill — the IG carousel one. Done once, "save this as a skill", then run every day.
 
 **Want to see the video — and how to go further with this? Type YES**
 
@@ -145,7 +125,7 @@ One line only: **The first one is the video. The second is the VIP upgrade, if y
 
 🎓 LESSON 2 COMPLETE
 
-✅ Automated AI SOP — understood  ✅ "Save this as a skill" — learned  ✅ Your first skill — built and run
+✅ Automated AI SOP — understood  ✅ "Save this as a skill" — learned  ✅ Your first skill — saved
 
 **Type lesson 3 to continue 🔥**
 

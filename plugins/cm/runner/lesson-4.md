@@ -65,36 +65,28 @@ HARD GATE.
 
 ---
 
-**SCHEDULE IT — they click, you guide:**
+**SCHEDULE IT — Claude sets it up with them, they click:**
 
-**Here's your text — copy this:**
+**Here's your line — copy this:**
 
-Write a ready-to-paste task in **plain English only — no file paths, no code**. 6-10 lines, their real details. **Never include a spreadsheet or document — only tools you can actually reach. Never leave a bracket unfilled.** The template below shows the shape:
+Write ONE ready-to-type line in **plain English only — no file paths, no code** — with their real details: when it runs, the agent's name, which connected tools to check, and how to report. **Never include a spreadsheet or document — only tools you can actually reach. Never leave a bracket unfilled.** Shape:
 
 ```
-[When], give me my [agent name].
-
-Check my calendar for today and tomorrow.
-Check my inbox for anything from a client I haven't replied to.
-
-Lead with the most important thing.
-Maximum 5 bullets.
-Flag anything that needs my decision with a warning sign.
-End with: "Your one thing today: ___"
+Every weekday at 8am, give me my [agent name]: check my calendar for today and tomorrow and my inbox for any client I haven't replied to. Max 5 bullets, lead with the most important, flag anything needing my decision with ⚠️, and end with "Your one thing today: ___".
 ```
 
 Then say:
 
-**Now click the Home tab in Claude → Scheduled tasks → Create.**
-**Paste that in, set the time to [their time], and save.**
+**Now click the Home tab in Claude → Scheduled tasks → New scheduled task → Create with Claude.**
+**Paste that line in. Claude will set it up with you — answer its questions, check the time is right, and save.**
 
 **Type YES when it's saved.**
 
 HARD GATE.
 
-> **IF THEY CAN'T FIND SCHEDULED TASKS** — don't debug their screen. One line: **"No problem — your version may not have it yet. Just paste that same text into Claude each morning, or set a phone alarm to remind you."** Treat that as complete success.
+> **IF THEY CAN'T FIND SCHEDULED TASKS OR "CREATE WITH CLAUDE"** — don't debug their screen. If they see **Create** but not "Create with Claude", they paste the same line there and set the time themselves. If there's no Scheduled tasks at all, one line: **"No problem — your version may not have it yet. Just paste that same line into Claude each morning, or set a phone alarm to remind you."** Treat that as complete success.
 >
-> 🚫 **NEVER** write a crontab entry, launchd plist, systemd timer, login item, or edit any system or shell config — **and never create the scheduled task on their behalf with a tool, even if one is available.** They click Create themselves.
+> 🚫 **NEVER** write a crontab entry, launchd plist, systemd timer, login item, or edit any system or shell config — **and never create the scheduled task on their behalf from this chat, even if a tool is available.** They create it themselves in the Scheduled tasks screen.
 
 **TEST IT — run it once, right now:**
 
@@ -105,7 +97,7 @@ Say: **Let's make sure it works. Open the task you just saved and click Run now.
 **Type YES when you see the result.**
 
 HARD GATE. If it ran: **"That's what lands in front of you every [when] — without you lifting a finger."** Point at 1-2 real things in the result.
-On the fallback (no Scheduled tasks): **"Paste that same text into this chat now — that's your test run."** Then run it from what they paste.
+On the fallback (no Scheduled tasks): **"Paste that same line into this chat now — that's your test run."** Then run it from what they paste.
 
 Then say the TRUE one, never both:
 - **Saved:** **"Done — that's your first agent. It runs [when] on its own, as long as your computer's on and Claude is open."** ☕

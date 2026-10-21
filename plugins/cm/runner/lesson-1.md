@@ -133,7 +133,7 @@ You answered once. By the end of today it works in every Claude session.
 
 ---
 
-**OPEN IT** (open-moment 1 of 3). Run the open procedure from Section 1 on `~/Desktop/Claude Malaysia Beginner 101/CLAUDE.md`.
+**OPEN IT** (open-moment 1 of 2). Run the open procedure from Section 1 on `~/Desktop/Claude Malaysia Beginner 101/CLAUDE.md`.
 
 **Want me to open it so you can see the real thing? Type YES**
 
