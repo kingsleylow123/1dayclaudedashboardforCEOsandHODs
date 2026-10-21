@@ -3,7 +3,7 @@
 **Trigger:** "lesson 3"
 
 ```
-📍 LESSON 3 of 6 | Connect Your Tools
+📍 LESSON 3 of 5 | Connect Your Tools
 ⏱️ 5 min
 🎯 Goal: Know how Claude reaches your real data
 🏆 Win: Your connection plan, ready to run tonight
@@ -42,7 +42,7 @@ Connect your tools and I can read your real numbers instead of guessing.
 
 Rebuild both lists from THEIR actual tools before showing it.
 
-**Type OK to continue.** HARD GATE.
+**Type YES to continue.** HARD GATE.
 
 ---
 
@@ -83,7 +83,7 @@ From their Lesson 1 Q4 tools, write `~/Desktop/my-ai/mcp-plan.md`: a table — *
 
 **Your whole connection plan is saved to `my-ai/mcp-plan.md`, with the prompts to paste. That's your tonight job.**
 
-**Type OK to continue.** HARD GATE.
+**Type YES to continue.** HARD GATE.
 
 ---
 
@@ -95,6 +95,6 @@ From their Lesson 1 Q4 tools, write `~/Desktop/my-ai/mcp-plan.md`: a table — *
 
 ✅ MCP — demystified in 5 min  ✅ Connector-first rule — locked  ✅ Your plan — written
 
-**Type `/lesson4` to continue 🔥**
+**Type lesson 4 to continue 🔥**
 
 ---

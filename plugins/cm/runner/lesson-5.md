@@ -1,154 +1,386 @@
-## SECTION 6 — LESSON 5: YOUR 8AM MORNING BRIEF
+## SECTION 6 — LESSON 5: BUILD YOUR DASHBOARD
 
 **Trigger:** "lesson 5"
 
 ```
-📍 LESSON 5 of 6 | Your 8AM Morning Brief
-⏱️ 7 min
-🎯 Goal: One routine that runs before you start
-🏆 Win: You wake up to a brief, not a blank screen
+📍 LESSON 5 of 5 | Build Your Dashboard
+⏱️ 22 min — the big one 🏆
+🎯 Goal: A working dashboard for your role, with your real numbers
+🏆 Win: YOUR dashboard, live data, open in your browser
 ```
+
+> **NON-NEGOTIABLE: everyone leaves with a dashboard.** That's the promise of this session. Never offer a form, a landing page or a portfolio instead. If they ask for something else, build the dashboard first, offer their thing after.
 
 Then say:
 
-**Everything you've built so far still needs YOU to open it.**
+Remember what you said you wanted most? **We're doing that now.**
 
-The best operators don't start the day deciding what to look at. They start it reading something already waiting.
-
-**We build yours now — and next lesson it gets a dashboard to sit on top of.**
+> **CHECK BEFORE YOU PROMISE:** can the tools they actually connected reach what they asked for in Q5? Often not — someone whose Q5 is "know which projects are losing money" keeps that in accounting software with no connector. **Never promise what you can't deliver.** Name the gap and build the best real thing you can: *"Straight answer: those numbers live in [tool], which needs the MCP we planned. What I CAN build right now from what's connected is [Y] — and once [tool] is wired up we drop those numbers straight in."* Then build with full energy. An honest smaller dashboard beats a fake big one.
 
 ---
 
-**📐 SHOW THE DIAGRAM** — rebuild the middle boxes from THEIR tools:
+**📐 SHOW THE DIAGRAM:**
 
 ```
-   8:00 AM  ───  runs (you're still asleep)
-                        │
-              reads your AI Brain
-                        │
-         ┌──────────────┼──────────────┐
-         ▼              ▼              ▼
-     Calendar        Inbox        Your tools
-         └──────────────┼──────────────┘
-                        ▼
-        ┌───────────────────────────────┐
-        │  ⚠️  1 thing needs you today  │
-        │  •  4 meetings, 2 back-to-back│
-        │  •  3 replies waiting on you  │
-        │  •  [their key number]        │
-        │  Your one thing today: ____   │
-        └───────────────────────────────┘
-                        ▼
-          Waiting before you sit down ☕
+   YOUR CONNECTED TOOLS
+   Gmail    Calendar    Drive    [their tools]
+     └─────────┴──────────┴──────────┘
+   + the spreadsheet from your agent in Lesson 4
+                    │  read only, never sent anywhere
+                    ▼
+   ┌──────────────────────────────────────┐
+   │  YOUR DASHBOARD          🔄 refresh  │
+   │  ┌──────┬──────┬──────┬──────┐       │
+   │  │  40  │ 201  │  10  │  ⚠️  │  KPIs │
+   │  └──────┴──────┴──────┴──────┘       │
+   │   ▁▃▅▇▅▃▁   ╱╱╱ forecast             │
+   │   ═══════○═══  drag to model         │
+   └──────────────────────────────────────┘
+              on YOUR Desktop
 ```
 
-**Type OK to continue.** HARD GATE.
+**Type YES to continue.** HARD GATE.
 
 ---
 
-**ASK THEM FIRST:**
+**INTERVIEW THEM FIRST — two questions, do NOT skip to a menu.**
 
-**What's the first thing you check in the morning — or the thing you wish someone had already checked for you?**
+A dashboard from a menu is generic. From these two answers it's theirs.
 
-HARD GATE: wait.
+**1. What decision do you want this to help you make, every morning?**
 
-Then build **3 routines from their answer**, one line each, in their words. Option 4 is always "something else".
+Show 3-4 examples at their altitude first so they're not answering into a void:
+> *"Whether we'll hit this quarter — and what to do today if we won't"* · *"Which project is bleeding money before it's too late"* · *"Who on my team is blocked"* · *"What I should walk in and deal with first"*
+(Creator: *"what to post next and what's working"*. Trader: *"whether to rebalance today"*.)
 
-Examples ONLY to show the range — never pick from these:
-- *"what came in overnight that needs me"* · *"whether the number I care about moved"* · *"who's waiting on me and how long they've waited"*
+HARD GATE. Vague answer → push back ONCE: *"Go one level sharper — what would you actually DO differently?"*
 
-**Type 1, 2, 3 or 4 — or OK to move on.** HARD GATE.
+**2. If you could only see FIVE numbers to make that call — what are they?**
+
+Show what good looks like, matched to the decision they gave:
+> *"Will we hit the quarter"* → booked vs target · days left · deals open · average deal size · run-rate needed
+> *"Which project is bleeding"* → budget vs spend · days over schedule · open variations · unbilled work · cash collected
+
+**Rough is fine — guess if you have to. Tell me your five and I'll tell you which I can pull live.**
+
+HARD GATE. Then reflect back honestly: **"Of your five — I can pull [X and Y] live right now. [Z] lives in [tool], which needs the connection we planned, so I'll build the tile and mark it clearly until you wire it up."**
+
+**Type YES to continue.** HARD GATE.
 
 ---
 
-**BUILD IT:** write their routine to `~/Desktop/my-ai/skills/daily-brief/SKILL.md` — same skills folder as everything else, so it behaves like a real skill:
+**PULL THEIR LIVE DATA:**
+
+> ⚠️ **SCREEN CHECK FIRST:** you're about to read their live inbox. If their screen is mirrored to a projector, warn them: **"Heads up — I'm about to read your real inbox. If you're on the projector, want to skip the email tiles?"** Respect the answer.
+
+Check which connectors you can ACTUALLY reach (look at your own available tools — don't ask them).
+
+**If you CAN reach connectors:** say **"Give me 20 seconds — pulling your actual numbers."** Then 2-4 quick pulls relevant to the dashboard they described. Gmail → unread, anything awaiting a reply. Calendar → today and tomorrow, hours booked. **Their spreadsheet from Lesson 4 → read it first; it's the headline.** Drive/Sheets → if they named another sheet, read it; if they only said "Drive", ask ONE question: **"Which sheet do you check most?"** Never guess at a spreadsheet — wrong numbers on a CEO's dashboard is worse than none.
+
+- **Read only. Never send, delete, reply to, or modify anything.**
+- Everything stays on their machine, baked into their own file.
+- Sensitive-looking? Put the number in without quoting private content.
+- A pull fails or is empty → move on silently.
+- **If fewer than 2 pulls return usable data, say so plainly** and switch to the path below. **NEVER invent a number to fill a tile.**
+
+**If you can reach NO connectors:** **"Your tools aren't wired to me yet — no problem at all. Connect them tonight and I'll pull them in automatically."** Build from their Lesson 4 spreadsheet (if they gave one) plus the five numbers from the interview.
+
+**Type YES to continue.** HARD GATE.
+
+---
+
+**BUILD IT:**
+
+One line while you work: **"Building your dashboard now — about a minute."**
+
+Use **everything you have**: their Lesson 4 spreadsheet first (the headline — it outranks inbox and calendar), then connector pulls, then numbers they typed. Work out deltas, run-rate, progress to target, what's needed to close the gap. Tag each figure `live` (connector), `from your sheet`, or `yours` (they typed it). Never invent.
+
+---
+
+**THE BRIEF — deliberately loose. Use your judgement.**
+
+> **Make something genuinely excellent.** They should look at it and think *"I could not have bought this."* You know what a beautiful, useful executive dashboard looks like — build that. Dark and premium, or clean and light; charts, sliders, forecasts, scenarios, whatever actually serves the decision they described. **Don't ask permission for design choices, just make it good.**
+
+Write it **directly to `~/Desktop/my-ai/build/index.html`** with your Write tool.
+
+**The only hard rules:**
+- 🚫 **DO NOT print the HTML in chat.** It's hundreds of lines — printing burns 3 minutes and dumps CSS on someone you just told "no copy-pasting". Write the file, then open it.
+- **Every number is real** — pulled from a connector, from their sheet, or given by them. **Never invent one.** If their sheet had a column you couldn't interpret, leave it out rather than guess. If you need history you don't have, label it honestly ("projected from your target").
+- Mark each figure's source subtly (`live` vs `yours`) so the dashboard never lies about where it came from.
+- **Self-contained:** all CSS and JS inline, no CDN, no `fetch`, no `action=`, no remote fonts or images. It must open by double-clicking, offline, and never send their data anywhere.
+- A timestamp: "Live data as of [time], [date]", plus their name and department.
+- Zero placeholder text.
+
+---
+
+**OPEN IT** (open-moment 3 of 3):
+
+**Your dashboard is at `~/Desktop/my-ai/build/index.html`. Want me to open it? Type YES**
+
+HARD GATE. On YES: macOS `open ~/Desktop/my-ai/build/index.html` · Windows `start %USERPROFILE%\Desktop\my-ai\build\index.html` · Linux `xdg-open ~/Desktop/my-ai/build/index.html`. If it fails, give the path: "Open your Desktop, go into `my-ai`, then `build`, double-click."
+
+Only if they said yes:
+
+**I wrote that file to your computer and opened it — that's the real thing.**
+
+Your name. Your department. **Your actual numbers.**
+
+**That's not a template. That's your business on a screen — and you built it.**
+
+If they said no: "no worries — it's saved there. Open it after class and you'll see your name, your department, your numbers."
+
+---
+
+**NOW MAKE IT THEIRS — the bounded loop:**
+
+This is the best part of the session. **Round one is Claude's dashboard. Round two is theirs.** That shift is what they take home — so don't skip it, and don't let it run forever either.
+
+**ROUND ONE — suggest the first change for them:**
+
+Look at what's on screen and what they told you, and suggest ONE specific improvement: *"I'd make [their key number] the big hero tile and move the calendar lower — type YES, or tell me what you'd change."*
+
+HARD GATE. Make the change, rewrite the file, reopen it.
+
+> **No spreadsheet back in Lesson 4?** Offer it once here, in one line: *"Want to drop your spreadsheet in now so it's your real numbers? Drag it in, paste a link, or type YES to skip."* Handle it exactly like Lesson 4. Never push twice.
+
+---
+
+**THEN KEEP GOING — the rest of the loop:**
+
+**What else would you change? (Or type YES if you're happy.)**
+
+Anything. Bigger numbers, different colour, drop a tile, add one, move things around, "make it look more serious", "I hate that chart".
+
+**Just say it in plain English — I'll rebuild it in seconds.**
+
+HARD GATE. Then loop: make the change, rewrite the file, reopen it, and ask **"Better? What else?"**
+
+**MINIMUM 2 ROUNDS — do not let them skip this.**
+If they say "it's fine" straight away: **"Humour me — one change. Anything. A colour, a size, a tile you'd drop."** They almost always have one, and that's the round where it becomes theirs.
+
+**STOP when ANY of these happen:**
+- They say perfect / great / done / love it
+- **Two rounds running of only cosmetic tweaks** — you've hit diminishing returns
+- They go vague — "yeah ok", "sure". That's boredom, not satisfaction
+- They ask for something needing data they don't have → **"That one's a tonight job — it's going in your next-steps."**
+- **4 rounds, or about 5 minutes. Whichever comes first.**
+
+**YOU offer the exit — never wait to be dismissed.** When you hit any signal above:
+
+**One more change and I'll lock it in — what's the last thing?**
+
+HARD GATE. Make that change, then move on. Do not ask "anything else?" again.
+
+Never argue with a preference. Never explain why the original was fine. Just change it.
+If they're stuck for ideas, offer 2-3 concrete ones from what you can see on the screen.
+
+Then:
+
+**Notice what just happened — you didn't design that. You described it, and it changed.**
+
+That's how everything works from here. You don't need to know how. You need to know what you want.
+
+**Type YES to continue.** HARD GATE.
+
+---
+
+> ⏱️ **FACILITATOR NOTE — why this is bounded:** everything below (publishing their dashboard, their AI Brain going into global memory, their next-steps and email copy, the recap) is the most valuable part of the session, and it must happen for everyone — including the person who'd happily tweak their dashboard for another hour. So the loop closes, the session lands, and they're invited to keep tweaking afterwards. **Never let the loop eat the wrap-up.**
+
+---
+
+**THE REFRESH + THE RECIPE — 30 seconds:**
+
+**Two things so you're never stuck.**
+
+**1. Fresh numbers:** say **"rebuild my dashboard"**. 15 seconds. Tomorrow, next Monday, before a board meeting.
+
+**2. A whole new dashboard, any time:** you don't need this workshop again.
+
+> **"Build me a dashboard that helps me decide [the decision], showing [the numbers], pulling from [the tools]."**
+
+**Decision → numbers → source.** Say those three things and you get a dashboard. Your sales team, your warehouse, a single client — same sentence, different words.
+
+---
+
+💰 **VALUE MOMENT — land this one properly:**
+
+**Look at your screen.**
+
+A designer charges **RM3-4k a month** to make something look like that. A dev team quotes **RM50k+** for a custom dashboard. An analyst pulling those numbers weekly is **RM4-6k a month.**
+
+**You just did all three. In about twenty minutes. And you changed it yourself until it was right.** 🔥
+
+---
+
+**PUBLISH IT — get a link you can open anywhere:**
+
+Say:
+
+**Last build step — let's give your dashboard a link you can open on your phone.**
+
+**Type this:** **"publish this dashboard as an artifact"**
+
+HARD GATE. **They must type it — never publish unprompted.**
+
+When they do, publish `~/Desktop/my-ai/build/index.html` as an artifact and give them the link.
+
+Then say: **That link is private to you until you choose to share it.** Open it on your phone tonight.
+
+> If artifact publishing isn't available on their version, one line: **"Your version doesn't have that yet — the file on your Desktop is the full dashboard."** Move on.
+
+---
+
+**MAKE YOUR AI BRAIN WORK EVERYWHERE — the most valuable 30 seconds of the day:**
+
+> **WHY:** their AI Brain sits in `~/Desktop/my-ai/CLAUDE.md`, which Claude Code only reads when they're working in that folder. Realistically they never will. Without this step the best thing they built today quietly does nothing tomorrow. **Do NOT skip it.**
+
+**One last thing, and it's what makes today actually stick.**
+
+Right now your AI Brain only works inside that folder — which, let's be honest, you won't be in.
+
+**Type this:** **"Save my AI Brain to my global Claude memory"**
+
+HARD GATE. **They must ask — never do this unprompted.**
+
+When they do, read `~/Desktop/my-ai/CLAUDE.md` and write its contents into their global Claude memory at `~/.claude/CLAUDE.md`.
+
+> **IF THAT FILE EXISTS, DO NOT OVERWRITE IT.** Append under a `# My AI Brain` heading, keeping everything already there. Never delete or replace someone's memory.
+> **IF ANYTHING BLOCKS IT**, don't fight it and don't apologise: **"Your setup wants you to do that by hand — open Claude Code's memory settings and paste your AI Brain in. Takes 20 seconds, and it's in your next-steps."** Move on. The workshop is complete either way.
+
+**Done. Open Claude in any folder, any project — it already knows who you are.**
+
+**Type YES to continue.** HARD GATE.
+
+---
+
+**THEIR NEXT STEPS — write it, don't just say it.**
+
+Nobody remembers a spoken to-do list. Write `~/Desktop/my-ai/NEXT-STEPS.md` from what ACTUALLY happened in their session — include only what applies:
 
 ```
----
-name: daily-brief
-description: My 8am morning brief — run at the start of every day.
----
-# My 8AM Morning Brief
-## What I want to see
-[their chosen routine, as clear instructions]
-## How to present it
-- Lead with the single most important thing
-- Max 5 bullets, shortest first
-- Flag anything needing my decision with ⚠️
-- End with: "Your one thing today: ___"
-## My context
-[key facts from their AI Brain — role, team, priorities, tools]
+# Your Next Steps
+[name] · [date]
+
+## Tonight (10 minutes)
+1. [ONLY if the global-memory step was blocked] Open Desktop/my-ai/CLAUDE.md,
+   copy it, paste into Claude Code's memory settings.
+2. Turn your skill into a /slash command (3 min):
+   Open a NEW Claude Code window and paste:
+   "Create a skill called [their-skill] and install it so I can run it with a
+    slash command. Here's what it does: [contents of their SKILL.md]"
+   Then restart Claude Code. Type / and it's there.
+3. [If they're on the fallback option] Set a phone alarm for your agent.
+
+## This week
+4. Connect the tools we couldn't reach: [their specific tools]
+   For [tool with no connector], paste the prompt in mcp-plan.md
+5. Let your agent run 3 days in a row. Then add a second scheduled task — that's your second agent.
+6. Rebuild your dashboard once yourself — say "rebuild my dashboard".
+
+## When you need something new
+- New dashboard: "Build me a dashboard that helps me decide [X],
+  showing [numbers], pulling from [tools]."
+- New agent: Home tab → Scheduled tasks → Create.
+- Something you'll repeat: do it once, then type "save this as a skill".
+
+## Your files
+Everything is in Desktop/my-ai — brain, skills, dashboard, next steps.
 ```
 
-Every section filled with their real details. No placeholders.
+**It's all written to `NEXT-STEPS.md` — you don't have to remember any of it.**
 
 ---
 
-**RUN IT LIVE — this is the proof, not the file.**
+**EMAIL YOURSELF A COPY — only if Gmail is connected:**
 
-**Do NOT open the brief file.** Reading a prompt teaches nothing. Run it now so they see tomorrow morning, today.
+Check whether you can reach their Gmail. **If you can't, skip this silently** — never mention it.
 
-Say: **Saved. Now let's see it — this is what lands in front of you at 8am.**
+If you can, say: **Want a copy of everything in your inbox — your dashboard link, your AI Brain and your homework? Type YES**
 
-Then actually run their brief: pull what you can from their connected tools, apply their routine, output the real thing — their real numbers, ⚠️ on anything needing a decision, ending with "Your one thing today: ___". It should look exactly like the diagram.
+HARD GATE. On YES, **create a DRAFT** (never send) to their own Gmail address:
+- **Subject:** "My Claude Dashboard workshop — [date]"
+- **Body:** their dashboard artifact link (if published) · their AI Brain · their skill name and how to use it ("Use my [skill] skill on this…") · their agent and when it runs · their NEXT-STEPS list.
 
-**That's tomorrow morning. Waiting for you before you sit down.**
+Then: **It's in your Gmail drafts — open it and hit Send to yourself.**
 
-**Type OK to continue.** HARD GATE.
+> 🚫 Never send it yourself, never address it to anyone else, never attach files from their computer. Draft only, to themselves.
 
 ---
 
-**MAKE IT AUTOMATIC — one copy-paste:**
+**THE RECAP — walk them back through the session:**
 
-**You've got the brief. Now let's make it turn up on its own.**
+Don't list lesson titles. For each, name what THEY built and one thing to do with it tomorrow. Their real skill names, their real numbers, their department. One short block each:
 
-**Here's your text — copy this:**
+> **1 · Your AI Brain** — you told me [their role], I wrote it down, and now it's in your global memory. → *Claude opens already knowing that.*
+> **2 · Your Automated AI SOP** — **[their skill name]**, [what it does]. → *Do it once, type "save this as a skill".*
+> **3 · Connections** — [what's live]; [their no-connector tool] needs the MCP, prompt's written. → *Tonight.*
+> **4 · Your first agent** — [what it does], runs [when]. → *Add a second scheduled task = a second agent.*
+> **5 · Your dashboard** — [their headline number] on screen, published at your link, changed until it was right. → *"Rebuild my dashboard" any morning.*
 
-Write them a ready-to-paste prompt from their role, tools and chosen routine. **Plain English only — no file paths, no code, nothing technical.** They're pasting into a box, not writing a script. 6-10 lines, their real details:
+**Five things that didn't exist an hour ago. All yours, all running on your actual business.**
+
+Then the last gate:
+
+**Which ONE are you actually going to use first this week?**
+
+HARD GATE. Back their answer in one line and make it concrete: *"Good — do it [specific day]. That's the one that compounds."*
+
+---
+
+**OPEN THE FOLDER — the closure moment:**
+
+Open `~/Desktop/my-ai` (macOS `open ~/Desktop/my-ai` · Windows `start %USERPROFILE%\Desktop\my-ai`).
+
+**Look at that folder.** Your AI Brain. Your skills. Your first agent. Your connection plan. Your dashboard. Your next steps.
+
+**All of it. Built by you. Today.**
+
+---
+
+💰 **THE REAL NUMBER:**
 
 ```
-Every morning, give me my brief.
-
-Check my calendar for today and tomorrow.
-Check my inbox for anything from a client I haven't replied to.
-Check [their tool] for [their key number].
-
-Lead with the most important thing.
-Maximum 5 bullets, shortest first.
-Flag anything that needs my decision with a warning sign.
-End with: "Your one thing today: ___"
+What you built today          What it costs to buy
+─────────────────────────────────────────────────
+AI Brain + brand brief        RM2-3k  (agency)
+Automated AI SOP              RM2-3k/mo  (admin/VA)
+Connection plan               RM2-3k  (consultant)
+Your dashboard                RM50k+  (dev team)
+Your first AI agent           RM3-4k/mo  (assistant)
+─────────────────────────────────────────────────
+TOTAL: about RM50k one-off, plus RM8-10k every month.
 ```
 
-Then say:
-
-**Now open Scheduled Tasks in the left sidebar, paste that in, set it for 8:00am daily, and save.**
-
-That's it. Tomorrow it runs before you're awake.
-
-HARD GATE: wait until they've done it or told you they can't.
-
-> **IF THEY CAN'T FIND SCHEDULED TASKS** — don't debug their UI, don't turn it into a decision. One line and move: **"No panel on your version? No problem — just type 'run my morning brief' each morning, takes three seconds. Or set an 8am phone alarm that says the same thing."** Treat that as a complete success, never a downgrade.
->
-> 🚫 **NEVER** write a crontab entry, launchd plist, systemd timer, login item, or edit any system or shell config to schedule this — **and never create the scheduled task on their behalf with a tool, even if one is available.** They paste it themselves, or they use the one-line fallback.
-
-Then say the TRUE one, never both:
-- **Scheduled:** **"Done — that runs tomorrow at 8am without you touching anything."** ☕
-- **Fallback:** **"Done — tomorrow you type one line and it's there in three seconds."** ☕
-
-**Notice what happened: *you* set that up.**
-
-**Type OK to continue.** HARD GATE.
+**And you did it before the day was out. Yourself. With no code.**
 
 ---
 
-💰 **VALUE MOMENT:** **An EA preparing your morning brief every day is RM3-4k a month. Yours is written and ready to fire. 🔥**
+**THE CLOSE:**
+
+Most people who open Claude never build anything. They read about it. They watch videos. They "plan to start."
+
+**You just built everything, [their name].**
+
+You're not someone who's heard about AI anymore. You're someone who's shipped with it.
+
+Tomorrow morning your first agent runs on its own. See how it feels. 🔥
 
 ---
 
-🎓 LESSON 5 COMPLETE
+```
+🏆 DASHBOARD SESSION COMPLETE
+Claude Malaysia · Dashboard for CEOs & Heads of Departments
+by Kingsley Low — @kingsleylow.ai on Instagram
+```
 
-✅ Your routine — chosen  ✅ Brief — written and run live  ✅ 8am — [say the TRUE one: "scheduled" / "phone reminder set" / "one command away". Never claim automation that isn't there.]
-
-**Type `/lesson6` to continue 🔥**
+**That's your dashboard done — take a breather, we're not finished with the day yet. 🔥**
 
 ---
+
+**AND THE OPEN INVITATION — say this last:**
+
+**One thing before you step away: your dashboard isn't finished unless you want it to be.**
+
+Keep tweaking it as long as you like — I'm right here. Say anything: *"make the revenue tile bigger"*, *"add a column for X"*, *"try a lighter theme"*.
+
+**And any morning from now: "rebuild my dashboard".**

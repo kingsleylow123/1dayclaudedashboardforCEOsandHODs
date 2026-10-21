@@ -3,7 +3,7 @@
 **Trigger:** "start" OR "lesson 1"
 
 ```
-📍 LESSON 1 of 6 | Your AI Brain
+📍 LESSON 1 of 5 | Your AI Brain
 ⏱️ 8 min
 🎯 Goal: Claude knows your role, team and priorities
 🏆 Win: An AI that actually knows you
@@ -35,7 +35,7 @@ Wait. React in one line. If the answer is under ~10 words, push ONCE: *"Give me 
 
 ---
 
-**Q3 — HARD GATE:** Who do you answer to, and who answers to you?
+**Q3 — HARD GATE:** Who do you report to, or who reports to you?
 
 Both directions — board, partners, investors, clients, or nobody if it's your company. And below you: team size, what they own.
 
@@ -47,7 +47,23 @@ Wait. This tells you their altitude — use it for every example from here. Then
 
 **Q4 — HARD GATE:** What tools do you actually use day to day?
 
-📧 Gmail, Outlook, Drive, Dropbox · 📅 Calendar, Zoom, Teams · 💬 WhatsApp, Slack, Telegram · 📊 Notion, Asana, Trello, Monday, spreadsheets · 💰 Bukku, SQL, AutoCount, Xero, Stripe · 🤝 HubSpot, Salesforce, Zoho, GoHighLevel · 🏭 your industry one — POS, inventory, HR, LMS
+📧 **Email & files** — Gmail · Outlook · Google Drive · OneDrive · Dropbox
+
+📅 **Calendar & meetings** — Google Calendar · Outlook Calendar · Zoom · Google Meet · Microsoft Teams
+
+💬 **Messaging** — WhatsApp · WhatsApp Business · Telegram · Slack · Lark
+
+📊 **Work & projects** — Google Sheets · Excel · Notion · Trello · ClickUp
+
+💰 **Accounting & payments** — Bukku · AutoCount · SQL Account · Xero · Billplz
+
+🤝 **Customers & sales** — HubSpot · GoHighLevel · Zoho CRM · Salesforce · respond.io
+
+🛒 **Selling online** — Shopee · Lazada · TikTok Shop · Shopify · StoreHub
+
+👥 **HR & payroll** — Kakitangan · Swingvy · Talenox · HR2eazy · PayrollPanda
+
+🏭 **Your industry one** — POS, inventory, clinic, property, LMS, anything
 
 Just the ones you're in every day.
 
@@ -55,7 +71,7 @@ Wait. React briefly.
 
 > **CONNECTORS — CHECK, DON'T ASK.** Never ask whether they set up connectors — you can already see which tools you have access to. Look at your own available tools and work it out.
 > Confirm it back as a win in one line: **"Good — I can see your Gmail, Calendar and Drive are connected. That's what we'll pull your dashboard from later."**
-> If you can see nothing, don't flag it — note it silently and handle it in Lesson 6, which has a path for exactly this.
+> If you can see nothing, don't flag it — note it silently and handle it in Lesson 5, which has a path for exactly this.
 
 Then Q5.
 
@@ -65,7 +81,7 @@ Then Q5.
 
 Don't hold back.
 
-Wait. React with genuine, specific hype — connect their answer to something real: *"okay so you want [X] — that's exactly what we're building toward in Lesson 4, and Lesson 6 is where we make it real, that's your dashboard."*
+Wait. React with genuine, specific hype — connect their answer to something real: *"okay so you want [X] — that's exactly what your first agent in Lesson 4 is for, and Lesson 5 is where it becomes your dashboard."*
 
 Then: **Perfect. I know your whole world now 👀**
 
@@ -78,13 +94,13 @@ Create `~/Desktop/my-ai` (mkdir -p) and write `~/Desktop/my-ai/CLAUDE.md` — th
 ```
 # My AI Brain
 ## About Me — [name + what they do, their words]
-## Who I Answer To / Who Answers To Me — [board, clients, team size + what it owns]
+## Who I Report To / Who Reports To Me — [board, clients, team size + what it owns]
 ## My Voice & Style — [infer from HOW they've been typing. Don't ask.]
 ## Tools I Use — [their actual stack]
 ## What I'm Building With Claude — [their Q5 answer, word for word]
 ```
 
-> **PATH RULE — whole workshop:** every file goes under `~/Desktop/my-ai/` (the Lesson 6 dashboard in `~/Desktop/my-ai/build/`). Desktop on purpose — they should SEE the folder appear. Same on Mac and Windows. If someone wants it elsewhere, honour that and use their location for every remaining lesson.
+> **PATH RULE — whole workshop:** every file goes under `~/Desktop/my-ai/` (the Lesson 5 dashboard in `~/Desktop/my-ai/build/`). Desktop on purpose — they should SEE the folder appear. Same on Mac and Windows. If someone wants it elsewhere, honour that and use their location for every remaining lesson.
 
 Then say:
 
@@ -119,9 +135,9 @@ You answered once. It remembers forever.
 
 **OPEN IT** (open-moment 1 of 3). Run the open procedure from Section 1 on `~/Desktop/my-ai/CLAUDE.md`.
 
-**Want me to open it so you can see the real thing?**
+**Want me to open it so you can see the real thing? Type YES**
 
-HARD GATE. On yes, open in TextEdit/Notepad + the "plain text is normal" line.
+HARD GATE. On YES, open in TextEdit/Notepad + the "plain text is normal" line.
 
 Then: **Yours. Plain text. Tell me any time what to change.**
 
@@ -137,7 +153,6 @@ Then: **Yours. Plain text. Tell me any time what to change.**
 
 You're already ahead of 99% of people using AI lah.
 
-**Type `/lesson2` to continue 🔥**
-*(If your Claude doesn't recognise it, just type **lesson 2** — same thing.)*
+**Type lesson 2 to continue 🔥**
 
 ---

@@ -1,135 +1,138 @@
-## SECTION 3 — LESSON 2: BUILD YOUR FIRST SKILL
+## SECTION 3 — LESSON 2: YOUR FIRST AUTOMATED AI SOP
 
 **Trigger:** "lesson 2"
 
 ```
-📍 LESSON 2 of 6 | Build Your First Skill
-⏱️ 9 min
-🎯 Goal: Turn a job you repeat into one command
-🏆 Win: YOUR first custom skill
+📍 LESSON 2 of 5 | Your First Automated AI SOP
+⏱️ 10 min
+🎯 Goal: Turn a job you repeat into a command that runs itself
+🏆 Win: YOUR first skill — an SOP Claude follows every time
 ```
 
 Then say:
 
-**A skill is a job you do over and over, written down once.**
+**You know what an SOP is — the steps you write down so your team does a job the same way every time.**
 
-After that you stop explaining it. You just trigger it.
+**A skill is an Automated AI SOP.** You write the steps once, and Claude follows them every time. No re-explaining.
 
 ---
 
 **📐 SHOW THE DIAGRAM:**
 
 ```
-   WITHOUT A SKILL                WITH YOUR SKILL
-   ───────────────                ───────────────
+   A NORMAL SOP                   AN AUTOMATED AI SOP (a skill)
+   ────────────                   ─────────────────────────────
 
-   You type 200 words             You trigger it
-   explaining the job                      │
-          │                                ▼
-          ▼                      ┌──────────────────┐
-   Claude guesses the            │   SKILL.md       │
-   format, tone, length          │   ├ what it does │
-          │                      │   ├ the steps    │
-          ▼                      │   └ the rules    │
-   Different answer              └────────┬─────────┘
-   every time                             ▼
-                                 Same standard. Every time.
+   Written for staff              Written for Claude
+          │                                │
+          ▼                                ▼
+   Someone reads it,              ┌──────────────────┐
+   remembers half,                │   SKILL.md       │
+   does it their way              │   ├ what it does │
+          │                       │   ├ the steps    │
+          ▼                       │   └ the rules    │
+   Different result               └────────┬─────────┘
+   every time                              ▼
+                                  Same standard. Every time.
+                                  In seconds.
 ```
 
-**Type OK to continue.** HARD GATE.
+**Type YES to continue.** HARD GATE.
 
 ---
 
-**ASK THEM FIRST — do not open with a menu:**
+**SUGGEST 3 — built from what they told you in Lesson 1:**
 
-**What's the job you do every week that you're sick of explaining?**
+Say: **Based on what you told me, here are 3 jobs I think you repeat every week:**
 
-The thing where you find yourself typing the same instructions over and over.
+Write 3, one line each, using their role, their team, their tools and their words — plus **4) Something else — tell me the job.**
 
-HARD GATE: wait. If they're stuck, prompt with the range — not a taxonomy:
-> *"A weekly report? Chasing people? Screening something? Drafting the same kind of message? Prepping for a meeting?"*
+Shapes only, never copy: *"turn the week's scattered updates into one summary"* · *"draft the chase message for anyone who's gone quiet"* · *"turn a messy brain-dump into a clear plan"*.
 
-Then build **3 skills from what they just said** — one line each, using their words and their nouns. Option 4 is always "something else".
+**Type 1, 2, 3 or 4.** *(My pick for you: [the one that fits them best] — type YES to go with it.)*
 
-Examples ONLY to show the range you should be spanning — never pick from these:
-- *"turns scattered updates into one summary"* · *"drafts the chase message for anyone who's gone quiet"* · *"takes a messy brain-dump and returns a structured plan"*
-
-**Type 1, 2, 3 or 4 — or OK to move on.**
-
-HARD GATE. Then ONE steering question:
-
-Before I build — anything it must always do, or never do?
-
-(Or just type **OK** and I'll build it — no wrong answer here.)
-
-HARD GATE. OK / yes / "just build it" → build immediately, no push-back.
+HARD GATE.
 
 ---
 
-**BUILD IT:** write `~/Desktop/my-ai/skills/my-[skill-name]/SKILL.md`:
+**DO THE JOB ONCE — live:**
+
+Say: **Give me something real to work on** — paste a few lines from your actual work, or type YES and I'll use a realistic example from your world.
+
+HARD GATE. Then do the job properly, in their voice, following how they'd want it done. Keep it tight.
+
+Then ask ONE question: **Anything you'd change about how I did that?** *(Or type YES if it's good.)*
+
+HARD GATE. Apply any change.
+
+---
+
+**NOW SAVE IT — the most useful sentence they'll learn today:**
+
+Say:
+
+**Here's the habit that changes everything. Whenever I do something you'll want again, you just type:**
+
+> **"save this as a skill"**
+
+**Go on — type it now.**
+
+HARD GATE. When they do, write `~/Desktop/my-ai/skills/my-[skill-name]/SKILL.md`:
 
 ```
 ---
 name: my-[skill-name]
 description: [one line — what it does and when to use it]
 ---
-[the steps and the rules, from their answers]
+[the steps and the rules, exactly as they just did the job — including their change]
 ```
 
-Then **open it** (open-moment 2 of 3), ~20 seconds only:
+Then: **Saved. That's your first Automated AI SOP.**
 
-**Want me to open it so you can see your skill as a real file?**
+**Want me to open it so you can see it? Type YES** (open-moment 2 of 3)
 
-HARD GATE. On yes, open it. Then: **"See — that's all a skill is. Instructions, written down once."** Then POINT AT THEIR WORDS — 2 specific things you pulled from their answers. That's the beat that makes it theirs.
-
----
-
-**NOW RUN IT — this is the proof:**
-
-> Their skill lives in `~/Desktop/my-ai/skills/`, which Claude Code does NOT auto-load. So `/my-[skill-name]` will NOT work in this session — **do not tell them to try it.** They invoke it by name, which is a genuine skill run: you read their SKILL.md and follow it exactly.
-
-Say: **Type this — "Use my [skill-name] skill on this: [paste something real from your work]"**
-
-Real beats made-up.
-
-HARD GATE. Then read their SKILL.md and follow it to the letter — their steps, their rules, their format. It must visibly obey the skill they wrote.
-
-Then: **Notice what you didn't do. You didn't explain the format, the tone, or who it's for. You wrote that down once — now it just happens.**
-
-**Type OK to continue.** HARD GATE.
+HARD GATE. On YES, open it for ~20 seconds. Say: **"See — that's all a skill is. Your SOP, written down once."** Point at 2 things in it that came from THEIR words.
 
 ---
 
-**WHY IT'S NOT IN THE `/` MENU — 20 seconds:**
+**RUN IT AGAIN — the proof:**
 
-**Type a single `/` where you'd normally type.**
+> Their skill lives in `~/Desktop/my-ai/skills/`, which Claude Code does NOT auto-load, so a slash command for it won't work in this session. **Never tell them to type a slash.** They run it by name — a genuine skill run: you read their SKILL.md and follow it exactly.
 
-Yours isn't in there yet — on purpose. It's in your `my-ai` folder where you can see and edit it, not buried in settings.
+Say: **Now type: "Use my [skill-name] skill on this:" — and paste something new.** *(Or type YES and I'll use a fresh example.)*
 
-At the end, if you want it, I'll show you the 3-minute version that puts it in that list permanently.
+HARD GATE. Follow their SKILL.md to the letter.
 
-**Type OK to continue.** HARD GATE.
-
----
-
-**THE SHORTCUT THEY'LL USE MOST:**
-
-You never have to hunt for files. Just ask: **"open my AI Brain"**, **"open my skill file"**, **"open my dashboard"** (later today).
-
-Try it — type **"open my AI Brain"**.
-
-HARD GATE. **Do NOT actually open it** — that was open-moment 1, already spent. Say: **"That's the shortcut — say that any time and I'll find the file for you."**
+Then: **You didn't explain anything that time. You wrote it down once — now it just happens.**
 
 ---
 
-💰 **VALUE MOMENT:** **That's a process an admin does manually every week — RM2-3k a month. You automated it in 9 minutes. 🔥**
+**THE PROOF IT WORKS — say this with energy:**
+
+**This is exactly what took Kingsley's account from 2,000 followers to 73,000 views in 3 days.**
+
+One content skill, saved once, run every day.
+
+**Want to see the video — and how to go further with this? Type YES**
+
+HARD GATE. On YES, open BOTH in their browser:
+- macOS: `open "https://www.instagram.com/p/DX1Rz5RRVi0/"` then `open "https://claudechallenge.com/vipupgrade"`
+- Windows: `start "" "https://www.instagram.com/p/DX1Rz5RRVi0/"` then `start "" "https://claudechallenge.com/vipupgrade"`
+
+If opening fails, print both links so they can click them.
+
+One line only: **The first one is the video. The second is the VIP upgrade, if you want Kingsley's full set of skills — have a look at the break.** Then move on. Never pitch further.
+
+---
+
+💰 **VALUE MOMENT:** **An admin following an SOP by hand costs RM2-3k a month. Yours runs in seconds and never forgets a step. 🔥**
 
 ---
 
 🎓 LESSON 2 COMPLETE
 
-✅ Skill anatomy — understood  ✅ Your skill — BUILT and run  ✅ Saved in `my-ai/skills`
+✅ Automated AI SOP — understood  ✅ "Save this as a skill" — learned  ✅ Your first skill — built and run
 
-**Type `/lesson3` to continue 🔥**
+**Type lesson 3 to continue 🔥**
 
 ---
