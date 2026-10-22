@@ -4,18 +4,16 @@
 
 ```
 📍 LESSON 3 of 5 | Connect Your Tools
-⏱️ 5 min
-🎯 Goal: Know how Claude reaches your real data
-🏆 Win: Your connection plan, ready to run tonight
+⏱️ 6 min
+🎯 Goal: Understand how Claude reaches your real tools
+🏆 Win: You know connectors — the 80% of day-to-day AI
 ```
 
-> ⏱️ **PACE — 5 MINUTES. Do NOT build an MCP in class.** Concept + a saved plan they run after. Start a build here and you eat the dashboard's time.
+> ⏱️ **PACE — 6 MINUTES. Do NOT build an MCP in class.** Short, practical, then move. Start a build here and you eat the dashboard's time.
 
 Then say:
 
-**Right now I can only see what's in this chat.**
-
-Connect your tools and I can read your real numbers instead of guessing.
+**Right now I can only see what's in this chat. Connect your tools and I can work inside them.**
 
 ---
 
@@ -27,14 +25,14 @@ Connect your tools and I can read your real numbers instead of guessing.
           ┌───────────────┴───────────────┐
     🥇 CONNECTOR                      🥈 MCP
     already built                  you build it once
-    point · click · done           one prompt, ~20 min
+    point · click · done           (advanced class)
           │                               │
     Gmail · Calendar                Bukku · local POS
     Drive · Slack                   your own CRM
     Notion · Stripe                 inventory · HR
           └───────────────┬───────────────┘
                           ▼
-              Claude READS your real numbers
+              Claude works with your real data
                   instead of guessing
 
    RULE:  connector if it exists.  MCP only if it doesn't.
@@ -46,54 +44,68 @@ Rebuild both lists from THEIR actual tools before showing it.
 
 ---
 
-**🥇 THE EASY ONE — connectors.**
+**WHAT'S AN MCP? — 4 short lines:**
 
-Settings → Connectors. Point, click, sign in. The company maintains it, it updates itself, nothing to break.
+**The problem before:** AI was stuck in the chat box. To use it with your tools you copy-pasted everything in and out — and every app needed its own custom-built connection.
 
-They already told you in Lesson 1 Q4 — do NOT ask again, it costs credibility. Name it back and tie it to the dashboard: *"Your [Gmail/Calendar/Drive] is exactly what we'll pull live into your dashboard at the end."*
+**Then Anthropic — the company behind Claude — created MCP (Model Context Protocol) in late 2024.** One standard way for AI to plug into any tool. Think of it like USB-C: one plug that fits everything.
 
-If they connected nothing: **"No stress lah — we'll build your dashboard from what you tell me, and I'll leave you the list to do tonight."** Never make them feel behind.
+**It worked so well it became the industry standard** — other big AI companies now use it too.
 
----
-
-**🥈 WHEN THERE'S NO CONNECTOR — build an MCP.**
-
-Local and regional software often has none. **Take Bukku, the Malaysian accounting platform** — no official connector. Same for a lot of local POS, HR, inventory and CRM.
-
-Stuck? **No lah.** If it has an API, you build the connection yourself. That's an MCP — and it's genuinely one prompt:
-
-> "Build me an MCP server that connects to [tool]. Here's their API docs: [search for them]. I want to pull [what they need]."
-
-You grab the API key from the tool itself and paste it in — never me, never a group chat.
-
-**We're not doing that today** — we've got a dashboard to build.
-
-> **IF THEY ASK YOU TO BUILD IT NOW:** *"Love it — it's written into your plan, first thing tonight. Right now we've got a dashboard to build."* Then continue. Never start an MCP build in class, even if they ask twice.
-> **Be honest on effort:** a straightforward API really is close to one prompt. **WhatsApp Business is NOT** — that's Meta app review and template approval, weeks not minutes. Never tag it a quick win.
-
-**The rule: official connector if it exists. MCP if it doesn't. Never build what someone already maintains.**
+**A connector is just an MCP someone already built for you.** When your tool doesn't have one (say, Bukku, the Malaysian accounting platform), you can build your own MCP.
 
 ---
 
-**WRITE THEIR PLAN — don't discuss it.**
+**WHY WE'RE NOT BUILDING ONE TODAY:**
 
-From their Lesson 1 Q4 tools, write `~/Desktop/Claude Malaysia Beginner 101/mcp-plan.md`: a table — **Tool | Already connected? | Connector or MCP | What it unlocks | Priority**. Mark the 1-2 highest-leverage HIGH. For MCP rows include the ready-to-paste prompt with their tool name filled in; write the docs line as *"search for [tool] API documentation"* — never ship an unfilled bracket.
+**MCPs need API keys and a bit of setup — that's for our more advanced classes.** Today is Beginner 101.
 
-**Do NOT open this file** — it's a to-do list. One line:
+**But if you want to try it yourself, I'll save it as homework with the prompt ready. Want that? Type YES** *(or NO to skip)*
 
-**Your whole connection plan is saved to `Claude Malaysia Beginner 101/mcp-plan.md`, with the prompts to paste. That's your tonight job.**
+HARD GATE. On YES: write `~/Desktop/Claude Malaysia Beginner 101/mcp-homework.md` — their tools that have NO connector, each with the ready-to-paste prompt (tool name filled in, docs line written as *"search for [tool] API documentation"*, never an unfilled bracket):
+
+> "Build me an MCP server that connects to [tool]. Search for [tool] API documentation. I want to pull [what they need]."
+
+Plus one line: **"Grab the API key from the tool itself and paste it in yourself — never into a group chat."** Do NOT open the file. Say: **Saved to your folder as `mcp-homework.md`.** On NO: move on.
+
+> **IF THEY ASK YOU TO BUILD IT NOW:** *"Love it — that's advanced class, and it's in your homework. Right now we've got a dashboard to build."* Never start an MCP build in class, even if they ask twice.
+> **Be honest on effort:** **WhatsApp Business is NOT a quick one** — Meta app review and template approval, weeks not minutes.
+
+---
+
+**🥇 FOR BEGINNERS: MASTER CONNECTORS — they do 80% of your day-to-day.**
+
+Settings → Connectors. Point, click, sign in. Done.
+
+They already told you their tools in Lesson 1 — do NOT ask again. Name back what's connected in one line.
+
+Say:
+
+**Here's what that looks like with Google Drive connected — no more copy-paste:**
+
+**📤 Instead of uploading 10 invoices one by one:**
+> *"Upload these 10 invoices to my Invoices folder in Google Drive."* — Claude does it in one go.
+
+**📊 Instead of opening each one and adding it up:**
+> *"Read all 10 invoices in my Google Drive folder, total them, and make me a Google Sheet report."*
+
+**That's your hands-on homework to try after class.**
+
+**Right now the focus is your dashboard** — and later you'll use the same Google Drive connector to build dashboards straight from your files.
+
+If they connected nothing: **"No stress lah — Settings → Connectors tonight, start with Google Drive."** Never make them feel behind.
 
 **Type YES to continue.** HARD GATE.
 
 ---
 
-💰 **VALUE MOMENT:** **An integrations consultant scopes this for RM2-3k. You've got yours, tool by tool. 🔥**
+💰 **VALUE MOMENT:** **An admin uploading and totalling invoices by hand is RM2-3k a month. With a connector it's one sentence. 🔥**
 
 ---
 
-🎓 LESSON 3 COMPLETE
+✅✅ **LESSON 3 DONE**
 
-✅ MCP — demystified in 5 min  ✅ Connector-first rule — locked  ✅ Your plan — written
+✅ MCP — what it is and why Anthropic built it  ✅ Connectors — your 80%  ✅ Homework — [saved | skipped]
 
 **Type lesson 4 to continue 🔥**
 

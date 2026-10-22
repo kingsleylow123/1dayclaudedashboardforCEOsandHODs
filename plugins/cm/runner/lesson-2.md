@@ -4,7 +4,7 @@
 
 ```
 📍 LESSON 2 of 5 | Your First Automated AI SOP
-⏱️ 10 min
+⏱️ 9 min
 🎯 Goal: Turn a job you repeat into a command that runs itself
 🏆 Win: YOUR first skill — an SOP Claude follows every time
 ```
@@ -97,6 +97,13 @@ Then say:
 
 **But it only works if you say "save this as a skill" first. That one sentence is the whole trick.**
 
+**And it works for ANYTHING you chat with Claude about.** Like:
+- *"Write my weekly update to the team"*
+- *"Reply to this customer complaint"*
+- *"Turn these meeting notes into action items"*
+
+**Do it once → type "save this as a skill" → next time Claude follows the same AI SOP automatically when it sees you want the same thing.**
+
 **Type YES to continue.** HARD GATE.
 
 ---
@@ -123,7 +130,7 @@ One line only: **The first one is the video. The second is the VIP upgrade, if y
 
 ---
 
-🎓 LESSON 2 COMPLETE
+✅✅ **LESSON 2 DONE**
 
 ✅ Automated AI SOP — understood  ✅ "Save this as a skill" — learned  ✅ Your first skill — saved
 

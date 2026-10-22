@@ -206,17 +206,9 @@ That's how everything works from here. You don't need to know how. You need to k
 
 ---
 
-**THE REFRESH + THE RECIPE — 30 seconds:**
+**THE REFRESH — 10 seconds:**
 
-**Two things so you're never stuck.**
-
-**1. Fresh numbers:** say **"rebuild my dashboard"**. About a minute. Tomorrow, next Monday, before a board meeting.
-
-**2. A whole new dashboard, any time:** you don't need this workshop again.
-
-> **"Build me a dashboard that helps me decide [the decision], showing [the numbers], pulling from [the tools]."**
-
-**Decision → numbers → source.** Say those three things and you get a dashboard. Your sales team, your warehouse, a single client — same sentence, different words.
+**Fresh numbers any time:** say **"rebuild my dashboard"**. About a minute. Tomorrow, next Monday, before a board meeting.
 
 ---
 
@@ -244,7 +236,48 @@ When they do, publish `~/Desktop/Claude Malaysia Beginner 101/build/index.html` 
 
 Then say: **That link is private to you until you choose to share it.** Open it on your phone tonight.
 
-> If artifact publishing isn't available on their version, one line: **"Your version doesn't have that yet — the file on your Desktop is the full dashboard."** Move on.
+> If artifact publishing isn't available on their version, one line: **"Your version doesn't have that yet — the file on your Desktop is the full dashboard."** Skip the share step and move on.
+
+---
+
+**SHARE IT — show it off:**
+
+Say:
+
+**Now share it. Open your link → press Share → change "Only you" to "Anyone with the link".**
+
+**Send it to your team, your friends, your family — whoever should see it.**
+
+**And screenshot your dashboard and drop it in the class WhatsApp group to get points! 📸**
+
+> ⚠️ One line before they share, only if the dashboard shows REAL data (not the sample banner): **"Quick check — anyone with the link sees these numbers, so share real data only with people who should see it."** Never share it for them.
+
+**Type YES when you've shared it.** HARD GATE. (Skipping is fine — never push.)
+
+---
+
+**📐 HOW YOU BUILT IT — the framework to keep:**
+
+Say: **Here's everything you did today, in one picture. Screenshot this.**
+
+```
+   ROUTE 1 — from your connected tools
+   ─────────────────────────────────────
+   🔌 Connectors          🤖 Claude              🔗 Link
+   Gmail · Calendar  ──►  "make me a      ──►   "make this an
+   Drive · Sheets         dashboard"             artifact"
+                                                     │
+                                                     ▼
+                                          Share with your team
+
+   ROUTE 2 — the shortcut
+   ─────────────────────────────────────
+   📊 Paste any spreadsheet link  ──►  "make me a dashboard"  ──►  "make this an artifact"
+```
+
+**That's it. Connectors → Claude → artifact → link. Or just paste a spreadsheet link and say "make me a dashboard".**
+
+**Type YES to continue.** HARD GATE.
 
 ---
 
@@ -293,14 +326,16 @@ Nobody remembers a spoken to-do list. Write `~/Desktop/Claude Malaysia Beginner 
 3. [If they're on the fallback option] Set a phone alarm, then paste your agent's line into Claude.
 
 ## This week
-4. Connect the tools we couldn't reach: [their specific tools]
-   For [tool with no connector], paste the prompt in mcp-plan.md
+4. Connect your tools: Settings → Connectors. Start with Google Drive.
+   Try: "Read all the invoices in my [folder] in Google Drive, total them,
+   and make me a Google Sheet report."
+   [ONLY if they saved MCP homework] Then try the prompts in mcp-homework.md.
 5. Let your agent run 3 days in a row. Then add a second scheduled task — that's your second agent.
 6. Rebuild your dashboard once yourself — say "rebuild my dashboard".
 
 ## When you need something new
-- New dashboard: "Build me a dashboard that helps me decide [X],
-  showing [numbers], pulling from [tools]."
+- New dashboard: paste a spreadsheet link and say "make me a dashboard",
+  then "make this an artifact" for a link.
 - New agent: Home tab → Scheduled tasks → New scheduled task → Create with Claude.
 - Something you'll repeat: do it once, then type "save this as a skill".
 
@@ -332,7 +367,7 @@ Don't list lesson titles. For each, name what THEY built and one thing to do wit
 
 > **1 · Your AI Brain** — you told me [their role], I wrote it down, and now it's [in your global memory | one paste away — it's in your next-steps]. → *Claude opens already knowing that.*
 > **2 · Your Automated AI SOP** — **[their skill name]**, [what it does]. → *Do it once, type "save this as a skill".*
-> **3 · Connections** — [what's live]; [their no-connector tool] needs the MCP, prompt's written. → *Tonight.*
+> **3 · Connections** — connectors do 80% of the day-to-day; [what's live for them]. → *Tonight: connect Google Drive and try the invoice report.*
 > **4 · Your first agent** — [what it does], runs [when]. → *Add a second scheduled task = a second agent.*
 > **5 · Your dashboard** — [their headline number] on screen, [published at your link | on your Desktop], changed until it was right. → *"Rebuild my dashboard" any morning.*
 
@@ -346,13 +381,11 @@ HARD GATE. Back their answer in one line and make it concrete: *"Good — do it 
 
 ---
 
-**OPEN THE FOLDER — the closure moment:**
+**LOOK AT THE FOLDER — the closure moment:**
 
-**Want me to open your Claude Malaysia Beginner 101 folder? Type YES**
+Say: **Look at your `Claude Malaysia Beginner 101` folder — the one you opened at the start.**
 
-HARD GATE. On YES: macOS `open "$HOME/Desktop/Claude Malaysia Beginner 101"` · Windows `start "" "$HOME/Desktop/Claude Malaysia Beginner 101"`. On no, skip straight to the next line.
-
-**Look at that folder.** Your AI Brain. Your skills. Your first agent. Your connection plan. Your dashboard. Your next steps.
+**Look at that folder.** Your AI Brain. Your skills. Your first agent. Your dashboard. Your next steps.
 
 **All of it. Built by you. Today.**
 
@@ -365,11 +398,11 @@ What you built today          What it costs to buy
 ─────────────────────────────────────────────────
 AI Brain + brand brief        RM2-3k  (agency)
 Automated AI SOP              RM2-3k/mo  (admin/VA)
-Connection plan               RM2-3k  (consultant)
+Connectors (invoice admin)    RM2-3k/mo  (admin)
 Your dashboard                RM50k+  (dev team)
 Your first AI agent           RM3-4k/mo  (executive assistant)
 ─────────────────────────────────────────────────
-TOTAL: about RM55k one-off, plus RM5-7k every month.
+TOTAL: about RM52k one-off, plus RM7-10k every month.
 ```
 
 **And you did it before the day was out. Yourself. With no code.**
@@ -387,6 +420,8 @@ You're not someone who's heard about AI anymore. You're someone who's shipped wi
 Say the TRUE one: **Next [when], your agent runs on its own. See how it feels. 🔥** (saved) — or — **Next [when], paste your agent's line into Claude. See how it feels. 🔥** (fallback)
 
 ---
+
+✅✅ **LESSON 5 DONE**
 
 ```
 🏆 DASHBOARD SESSION COMPLETE

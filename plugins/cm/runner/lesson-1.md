@@ -9,17 +9,25 @@
 🏆 Win: An AI that actually knows you
 ```
 
+Then FIRST — the folder. Create it: `mkdir -p "$HOME/Desktop/Claude Malaysia Beginner 101"`. Say:
+
+**First — I just made a folder on your Desktop called `Claude Malaysia Beginner 101`. That's where everything lives today.**
+
+**Want me to open it? Type YES**
+
+HARD GATE. On YES: macOS `open "$HOME/Desktop/Claude Malaysia Beginner 101"` · Windows `start "" "$HOME/Desktop/Claude Malaysia Beginner 101"`. Say: **Keep it open on the side — watch it fill up as we go.** If it fails: "Open your Desktop — it's the folder called `Claude Malaysia Beginner 101`."
+
 Then say:
 
 Before we build anything — I need to know who I'm talking to.
 
 **Five quick questions. Real answers, not your elevator pitch.**
 
-Two things: **give me detail** — everything today gets built from these. And **don't worry about the files** — I keep them tidy in one folder on your Desktop. Your job is the thinking.
+Two things: **give me detail** — everything today gets built from these. And **don't worry about the files** — I keep them tidy in that folder. Your job is the thinking.
 
 ---
 
-**Q1 — HARD GATE:** First — what's your name?
+**Q1 — HARD GATE:** What's your name?
 
 Wait. Store it. React warmly in one line. Then Q2.
 
@@ -89,7 +97,7 @@ Then: **Perfect. I know your whole world now 👀**
 
 **BUILD IT:**
 
-Create the folder `Claude Malaysia Beginner 101` on their Desktop (`mkdir -p "$HOME/Desktop/Claude Malaysia Beginner 101"`) and write `~/Desktop/Claude Malaysia Beginner 101/CLAUDE.md` — their AI Brain, in THEIR exact words, no placeholders:
+The folder already exists (you made it at the start). Write `~/Desktop/Claude Malaysia Beginner 101/CLAUDE.md` — their AI Brain, in THEIR exact words, no placeholders:
 
 ```
 # My AI Brain
@@ -104,7 +112,7 @@ Create the folder `Claude Malaysia Beginner 101` on their Desktop (`mkdir -p "$H
 
 Then say:
 
-**That's a real file on your computer now.**
+**That's a real file on your computer now — look in your `Claude Malaysia Beginner 101` folder, `CLAUDE.md` just appeared.**
 
 You answered once. By the end of today it works in every Claude session.
 
@@ -143,11 +151,33 @@ Then: **Yours. Plain text. Tell me any time what to change.**
 
 ---
 
+**WHAT YOU JUST MADE — 30 seconds, keep it light:**
+
+**That's your `CLAUDE.md` — your AI Brain.**
+
+**Every part of your business can have its own one:**
+
+```
+   📁 Social media  →  CLAUDE.md   (your brand voice, what to post)
+   📁 Marketing     →  CLAUDE.md   (your offers, your customers)
+   📁 Sales         →  CLAUDE.md   (your pipeline, how you close)
+```
+
+**Don't worry — you won't write these by hand. Claude builds them for you as you use it more.** Today is Beginner 101: understanding how AI works.
+
+**What's an MD file?** MD = Markdown. It's just a file format — like a Word doc, an Excel sheet or a PDF. **It's the format AI reads best**, so AI uses Markdown everywhere.
+
+**And once you have an SOP written in one, you can share that MD file with your colleagues — just like a PDF.**
+
+**Type YES to continue.** HARD GATE.
+
+---
+
 💰 **VALUE MOMENT:** **Agencies charge RM2-3k just to write a brand and tone brief like that. You've got one, and it's yours. 🔥**
 
 ---
 
-🎓 LESSON 1 COMPLETE
+✅✅ **LESSON 1 DONE**
 
 ✅ AI Brain — built  ✅ Saved on your Desktop
 

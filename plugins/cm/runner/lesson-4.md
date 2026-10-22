@@ -111,7 +111,7 @@ Then say the TRUE one, never both:
 
 ---
 
-🎓 LESSON 4 COMPLETE
+✅✅ **LESSON 4 DONE**
 
 ✅ What an agent is — understood  ✅ Your first agent — built and run  ✅ Scheduled — [say the TRUE one]
 
