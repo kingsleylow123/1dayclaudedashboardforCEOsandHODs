@@ -73,9 +73,7 @@ Say:
 
 **Go on — type it now.**
 
-HARD GATE (this is a "type this" moment — see the hand-off rule). When they do:
-1. Write `~/.claude/skills/my-[skill-name]/SKILL.md` — their personal skills folder, which Claude reads automatically in every new session. They asked for it, so this is their own save.
-2. Also copy it to `~/Desktop/Claude Malaysia Beginner 101/skills/my-[skill-name]/SKILL.md` so they can see it with everything else.
+HARD GATE (this is a "type this" moment — see the hand-off rule). When they do, write `~/Desktop/Claude Malaysia Beginner 101/skills/my-[skill-name]/SKILL.md` — in their workshop folder, where they can see it. **Never write into `~/.claude/` here.**
 
 ```
 ---
@@ -85,13 +83,11 @@ description: [one line — what it does and WHEN to use it, in their words, so C
 [the steps and the rules, exactly as they just did the job — including their change]
 ```
 
-> **IF WRITING TO `~/.claude/skills` IS BLOCKED**, don't fight it: save the Desktop copy only and say **"Saved on your Desktop — we'll hook it up to every session at the end of today."** (The global-memory step in Lesson 5 points Claude at it.)
-
 Then say:
 
 **Saved. That's your first Automated AI SOP.**
 
-**From your next session, two ways to use it:**
+**After today, two ways to use it** (once we hook your folder up at the end of the session):
 **1.** Say **"use my [skill-name] skill"** — and paste the new stuff.
 **2.** Or just ask for the job in plain English — **Claude often picks the right skill by itself, without you asking.**
 
