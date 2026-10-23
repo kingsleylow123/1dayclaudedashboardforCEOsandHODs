@@ -126,9 +126,9 @@ On no: move on.
 
 Say:
 
-**Want Kingsley's content skill — the one behind that video?**
+**Want Kingsley's viral IG carousel skill — the exact one behind that video?**
 
-**Upgrade to VIP and we'll install it with you during lunch today.**
+**Upgrade to VIP and you'll walk out of lunch today with your first IG carousel done. 🔥**
 
 **Want to upgrade? Type YES** *(or NO to carry on)*
 
