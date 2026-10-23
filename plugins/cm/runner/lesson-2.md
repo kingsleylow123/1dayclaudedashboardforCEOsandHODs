@@ -110,15 +110,40 @@ Then say:
 
 One content skill — the IG carousel one. Done once, "save this as a skill", then run every day.
 
-**Want to see the video — and how to go further with this? Type YES**
+**Want to see the video? Type YES**
 
-HARD GATE. On YES, open BOTH in their browser:
-- macOS: `open "https://www.instagram.com/p/DX1Rz5RRVi0/"` then `open "https://claudechallenge.com/vipupgrade"`
-- Windows: `start "" "https://www.instagram.com/p/DX1Rz5RRVi0/"` then `start "" "https://claudechallenge.com/vipupgrade"`
+HARD GATE. On YES, open ONLY the video:
+- macOS: `open "https://www.instagram.com/p/DX1Rz5RRVi0/"`
+- Windows: `start "" "https://www.instagram.com/p/DX1Rz5RRVi0/"`
 
-If opening fails, print both links so they can click them.
+If opening fails, print the link so they can click it: https://www.instagram.com/p/DX1Rz5RRVi0/
 
-One line only: **The first one is the video. The second is the VIP upgrade, if you want Kingsley's full set of skills — have a look at the break.** Then move on. Never pitch further.
+On no: move on.
+
+---
+
+**THE VIP UPGRADE — ask once, then move on:**
+
+Say:
+
+**Want Kingsley's content skill — the one behind that video?**
+
+**Upgrade to VIP and we'll install it with you during lunch today.**
+
+**Want to upgrade? Type YES** *(or NO to carry on)*
+
+HARD GATE. **Only on YES:**
+1. Open the upgrade page: macOS `open "https://claudechallenge.com/vipupgrade"` · Windows `start "" "https://claudechallenge.com/vipupgrade"`
+2. Open the QR code so they can pay on their phone: macOS `open "https://raw.githubusercontent.com/kingsleylow123/1dayclaudedashboardforCEOsandHODs/main/vip-upgrade-qr.png"` · Windows `start "" "https://raw.githubusercontent.com/kingsleylow123/1dayclaudedashboardforCEOsandHODs/main/vip-upgrade-qr.png"`
+3. Say:
+
+**Scan the QR code with your phone, or pay on the page that just opened.**
+
+**After payment, screenshot it in the class WhatsApp group — so Huda can prepare your VIP lunch. 🍱**
+
+If opening fails, print both links: https://claudechallenge.com/vipupgrade · https://raw.githubusercontent.com/kingsleylow123/1dayclaudedashboardforCEOsandHODs/main/vip-upgrade-qr.png
+
+**On NO:** "No problem 👍" — and move straight on. **Never ask twice, never pitch further.** They pay themselves — never fill in any payment details for them.
 
 ---
 

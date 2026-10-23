@@ -383,7 +383,7 @@ HARD GATE. Back their answer in one line and make it concrete: *"Good — do it 
 
 **LOOK AT THE FOLDER — the closure moment:**
 
-Say: **Look at your `Claude Malaysia Beginner 101` folder — the one you opened at the start.**
+Say: **Look at your `Claude Malaysia Beginner 101` folder — the one you opened in Lesson 1.**
 
 **Look at that folder.** Your AI Brain. Your skills. Your first agent. Your dashboard. Your next steps.
 

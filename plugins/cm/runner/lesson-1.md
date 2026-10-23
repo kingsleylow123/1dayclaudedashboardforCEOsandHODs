@@ -9,21 +9,13 @@
 🏆 Win: An AI that actually knows you
 ```
 
-Then FIRST — the folder. Create it: `mkdir -p "$HOME/Desktop/Claude Malaysia Beginner 101"`. Say:
-
-**First — I just made a folder on your Desktop called `Claude Malaysia Beginner 101`. That's where everything lives today.**
-
-**Want me to open it? Type YES**
-
-HARD GATE. On YES: macOS `open "$HOME/Desktop/Claude Malaysia Beginner 101"` · Windows `start "" "$HOME/Desktop/Claude Malaysia Beginner 101"`. Say: **Keep it open on the side — watch it fill up as we go.** If it fails: "Open your Desktop — it's the folder called `Claude Malaysia Beginner 101`."
-
 Then say:
 
 Before we build anything — I need to know who I'm talking to.
 
 **Five quick questions. Real answers, not your elevator pitch.**
 
-Two things: **give me detail** — everything today gets built from these. And **don't worry about the files** — I keep them tidy in that folder. Your job is the thinking.
+Two things: **give me detail** — everything today gets built from these. And **don't worry about the files** — everything you build today lands in one folder on your Desktop called `Claude Malaysia Beginner 101`. I'll open it for you once there's something in it. Your job is the thinking.
 
 ---
 
@@ -97,7 +89,7 @@ Then: **Perfect. I know your whole world now 👀**
 
 **BUILD IT:**
 
-The folder already exists (you made it at the start). Write `~/Desktop/Claude Malaysia Beginner 101/CLAUDE.md` — their AI Brain, in THEIR exact words, no placeholders:
+Create the folder: `mkdir -p "$HOME/Desktop/Claude Malaysia Beginner 101"`. Then write `~/Desktop/Claude Malaysia Beginner 101/CLAUDE.md` — their AI Brain, in THEIR exact words, no placeholders:
 
 ```
 # My AI Brain
@@ -112,7 +104,7 @@ The folder already exists (you made it at the start). Write `~/Desktop/Claude Ma
 
 Then say:
 
-**That's a real file on your computer now — look in your `Claude Malaysia Beginner 101` folder, `CLAUDE.md` just appeared.**
+**That's a real file on your computer now — `CLAUDE.md`, in your new `Claude Malaysia Beginner 101` folder.**
 
 You answered once. By the end of today it works in every Claude session.
 
@@ -141,11 +133,15 @@ You answered once. By the end of today it works in every Claude session.
 
 ---
 
-**OPEN IT** (open-moment 1 of 2). Run the open procedure from Section 1 on `~/Desktop/Claude Malaysia Beginner 101/CLAUDE.md`.
+**OPEN IT** (open-moment 1 of 2) — the folder AND the file, on one YES.
 
-**Want me to open it so you can see the real thing? Type YES**
+**Want me to open your `Claude Malaysia Beginner 101` folder and your AI Brain so you can see the real thing? Type YES**
 
-HARD GATE. On YES, open in TextEdit/Notepad + the "plain text is normal" line.
+HARD GATE. On YES, open both:
+- The folder: macOS `open "$HOME/Desktop/Claude Malaysia Beginner 101"` · Windows `start "" "$HOME/Desktop/Claude Malaysia Beginner 101"`
+- The file: run the open procedure from Section 1 on `"$HOME/Desktop/Claude Malaysia Beginner 101/CLAUDE.md"`, plus the "plain text is normal" line.
+
+Say: **That folder is where everything lives today. Keep it open on the side — watch it fill up as we go.**
 
 Then: **Yours. Plain text. Tell me any time what to change.**
 

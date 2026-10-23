@@ -44,7 +44,20 @@ Rebuild both lists from THEIR actual tools before showing it.
 
 ---
 
-**WHAT'S AN MCP? — 4 short lines:**
+**WHAT'S AN MCP? — show the before/after graphic, then the 4 short lines:**
+
+```
+   BEFORE MCP                              AFTER MCP (Anthropic, late 2024)
+   ──────────                              ────────────────────────────────
+
+   📧 Gmail ─┐                                 📧 Gmail ──┐
+   📊 Sheets ├─ copy ─► 💬 AI chat ─ paste ─►   📊 Sheets ─┤
+   💰 Bukku ─┘   😩                            💰 Bukku ──┼──🔌 MCP ──► 🤖 Claude
+                                              🛒 Shopee ─┘   one plug      ✅
+   every app = its own custom wiring          (like USB-C)
+   AI stuck in the chat box                   Claude works inside your tools
+```
+
 
 **The problem before:** AI was stuck in the chat box. To use it with your tools you copy-pasted everything in and out — and every app needed its own custom-built connection.
 
@@ -62,11 +75,28 @@ Rebuild both lists from THEIR actual tools before showing it.
 
 **But if you want to try it yourself, I'll save it as homework with the prompt ready. Want that? Type YES** *(or NO to skip)*
 
-HARD GATE. On YES: write `~/Desktop/Claude Malaysia Beginner 101/mcp-homework.md` — their tools that have NO connector, each with the ready-to-paste prompt (tool name filled in, docs line written as *"search for [tool] API documentation"*, never an unfilled bracket):
+HARD GATE. On YES, one line: **"Give me a minute — looking up the real steps for your tools."** Then:
 
-> "Build me an MCP server that connects to [tool]. Search for [tool] API documentation. I want to pull [what they need]."
+- Pick their **top 2-3 tools with NO official connector** (from Lesson 1 Q4). If a tool already has a connector (e.g. Outlook via Microsoft 365, Notion, Google Drive), list it in one line at the top as *"Just connect in Settings → Connectors"* — no MCP needed.
+- For each, do **ONE quick web search** for its official API / developer docs. If you can't search, write from what you know and mark it *"double-check on the official site"*. Never invent a URL.
+- **Keep the whole thing under 2 minutes of class time.** Don't narrate the searching — just write the file.
 
-Plus one line: **"Grab the API key from the tool itself and paste it in yourself — never into a group chat."** Do NOT open the file. Say: **Saved to your folder as `mcp-homework.md`.** On NO: move on.
+Write `~/Desktop/Claude Malaysia Beginner 101/mcp-homework.md` — **under 200 words per tool**, each tool laid out exactly like this:
+
+```
+## [Tool]
+What you'll be able to do: [1 line, their words — e.g. pull weekly orders and payouts]
+
+Step 1 — Get access: [where to sign up, e.g. the official developer / open platform page + real URL]
+Step 2 — Get your key: [what credential it gives — API key / app ID + secret — and where to find it]
+Step 3 — Watch out: [real catch from the docs — approval wait, paid plan only, sandbox first]
+Step 4 — Paste this into a NEW Claude chat:
+  "Build me an MCP server that connects to [Tool] using its official API
+   ([docs URL]). I want to [what they need]. Walk me through it step by step."
+Step 5 — Paste your key in yourself when Claude asks. Never into a group chat.
+```
+
+Do NOT open the file. Say: **Saved to your folder as `mcp-homework.md` — step by step, ready for tonight.** On NO: move on.
 
 > **IF THEY ASK YOU TO BUILD IT NOW:** *"Love it — that's advanced class, and it's in your homework. Right now we've got a dashboard to build."* Never start an MCP build in class, even if they ask twice.
 > **Be honest on effort:** **WhatsApp Business is NOT a quick one** — Meta app review and template approval, weeks not minutes.
