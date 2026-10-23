@@ -133,15 +133,17 @@ Show this graphic first:
 
 Then say:
 
-**Here's what that looks like with Google Drive connected:**
+**Here's what that looks like with Google Docs connected — just type:**
 
-**📤 Instead of uploading 10 invoices one by one:**
-> *"Upload these 10 invoices to my Invoices folder in Google Drive."* — Claude does it in one go.
+> *"Use my Google Docs connector and make me a 1-page report about claudemalaysia.com."*
 
-**📊 Instead of opening each one and adding it up:**
-> *"Read all 10 invoices in my Google Drive folder, total them, and make me a Google Sheet report."*
+**Claude reads the site, writes the report and puts it straight into a Google Doc for you.**
 
-**That's your hands-on homework to try after class.**
+**That's the lesson: you just tell your Claude agent to go do things in the background.**
+
+**No more copy-pasting. No more 7 tabs open.**
+
+**Try it after class — that's your hands-on homework.**
 
 **Right now the focus is your dashboard** — and later you'll use the same Google Drive connector to build dashboards straight from your files.
 
@@ -151,7 +153,7 @@ If they connected nothing: **"No stress lah — Settings → Connectors tonight,
 
 ---
 
-💰 **VALUE MOMENT:** **An admin uploading and totalling invoices by hand is RM2-3k a month. With a connector it's one sentence. 🔥**
+💰 **VALUE MOMENT:** **An admin researching and writing reports by hand is RM2-3k a month. With a connector it's one sentence. 🔥**
 
 ---
 

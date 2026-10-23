@@ -324,9 +324,9 @@ Nobody remembers a spoken to-do list. Write `~/Desktop/Claude Malaysia Beginner 
 3. [If they're on the fallback option] Set a phone alarm, then paste your agent's line into Claude.
 
 ## This week
-4. Connect your tools: Settings → Connectors. Start with Google Drive.
-   Try: "Read all the invoices in my [folder] in Google Drive, total them,
-   and make me a Google Sheet report."
+4. Connect your tools: Settings → Connectors. Start with Google Drive / Docs.
+   Try: "Use my Google Docs connector and make me a 1-page report
+   about claudemalaysia.com."
    [ONLY if they saved MCP homework] Then try the prompts in mcp-homework.md.
 5. Let your agent run 3 days in a row. Then add a second scheduled task — that's your second agent.
 6. Rebuild your dashboard once yourself — say "rebuild my dashboard".
@@ -361,7 +361,7 @@ You told me [their role] — it's [in your global memory | one paste away, in yo
 
 **3 · Connections**
 Connectors do 80% of the day-to-day. [What's live for them.]
-→ *Tonight: connect Google Drive, try the invoice report.*
+→ *Tonight: connect Google Docs, try the 1-page report.*
 
 **4 · Your first agent**
 [What it does], runs [when].
@@ -398,7 +398,7 @@ What you built today          What it costs to buy
 ─────────────────────────────────────────────────
 AI Brain + brand brief        RM2-3k  (agency)
 Automated AI SOP              RM2-3k/mo  (admin/VA)
-Connectors (invoice admin)    RM2-3k/mo  (admin)
+Connectors (reports, admin)   RM2-3k/mo  (admin)
 Your dashboard                RM50k+  (dev team)
 Your first AI agent           RM3-4k/mo  (executive assistant)
 ─────────────────────────────────────────────────

@@ -133,15 +133,18 @@ Say:
 **Want to upgrade? Type YES** *(or NO to carry on)*
 
 HARD GATE. **Only on YES:**
-1. Open the upgrade page: macOS `open "https://claudechallenge.com/vipupgrade"` · Windows `start "" "https://claudechallenge.com/vipupgrade"`
-2. Open the QR code so they can pay on their phone: macOS `open "https://raw.githubusercontent.com/kingsleylow123/1dayclaudedashboardforCEOsandHODs/main/vip-upgrade-qr.png"` · Windows `start "" "https://raw.githubusercontent.com/kingsleylow123/1dayclaudedashboardforCEOsandHODs/main/vip-upgrade-qr.png"`
-3. Say:
 
-**Scan the QR code with your phone, or pay on the page that just opened.**
+1. Open the upgrade page: macOS `open "https://claudechallenge.com/vipupgrade"` · Windows `start "" "https://claudechallenge.com/vipupgrade"` (if it fails, print the link: https://claudechallenge.com/vipupgrade)
 
-**After payment, screenshot it in the class WhatsApp group — so Huda can prepare your VIP lunch. 🍱**
+2. Then ask:
 
-If opening fails, print both links: https://claudechallenge.com/vipupgrade · https://raw.githubusercontent.com/kingsleylow123/1dayclaudedashboardforCEOsandHODs/main/vip-upgrade-qr.png
+**Prefer to check out on your phone instead? I can show you a QR code. Type YES** *(or NO — the page is fine)*
+
+HARD GATE. **On YES:** open the QR code — macOS `open "https://raw.githubusercontent.com/kingsleylow123/1dayclaudedashboardforCEOsandHODs/main/vip-upgrade-qr.png"` · Windows `start "" "https://raw.githubusercontent.com/kingsleylow123/1dayclaudedashboardforCEOsandHODs/main/vip-upgrade-qr.png"` (if it fails, print the link). Say: **Scan it with your phone camera.** **On NO:** fine, carry on.
+
+3. Then say:
+
+**After you upgrade, post a screenshot in the class WhatsApp group — so Huda can prepare your VIP lunch. 🍱**
 
 **On NO:** "No problem 👍" — and move straight on. **Never ask twice, never pitch further.** They pay themselves — never fill in any payment details for them.
 
